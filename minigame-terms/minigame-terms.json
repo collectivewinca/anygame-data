@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "status": "placeholder",
+  "updated_at": null,
+  "platforms": [],
+  "columns": [
+    "platform",
+    "standard_rev_share_pct",
+    "incentive_programs",
+    "payout_threshold_and_cadence",
+    "iaa_iap_support",
+    "engine_sdk_support",
+    "content_moderation",
+    "ios_payments_status",
+    "last_verified",
+    "source_link"
+  ],
+  "notes": "Replace this placeholder with the initial 3-platform table (WeChat, TikTok Mini Games, Discord Activities).",
+  "methodology": "methodology/minigame-terms-methodology.md",
+  "changelog": "minigame-terms/changelog.md"
+}

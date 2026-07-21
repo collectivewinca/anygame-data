@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "status": "placeholder",
+  "snapshot_id": null,
+  "generated_at": null,
+  "window": {
+    "label": null,
+    "start": null,
+    "end": null
+  },
+  "source": {
+    "primary": "steamdb.info/tech/",
+    "method": "manual_monthly_snapshot",
+    "notes": "Replace this placeholder with the first August 2026 engine-index snapshot."
+  },
+  "engines": [],
+  "titles": [],
+  "meta": {
+    "title_count": 0,
+    "confidence": null,
+    "methodology": "methodology/engine-index-methodology.md"
+  }
+}

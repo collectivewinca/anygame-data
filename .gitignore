@@ -1,0 +1,18 @@
+# LibreOffice locks / temps (committed .ods calc workbooks are OK)
+*.ods#
+.~lock.*
+
+# OS
+.DS_Store
+*~
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local scratch
+*.tmp
+.env
+.env.*
