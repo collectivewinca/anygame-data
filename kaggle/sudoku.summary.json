@@ -1,0 +1,22 @@
+{
+  "dataset": "bryanpark/sudoku",
+  "title": "1 Million Sudoku Games",
+  "license": "CC0-1.0",
+  "source": "https://www.kaggle.com/datasets/bryanpark/sudoku",
+  "source_date": "2026-08-09T17:46:27.812378+00:00",
+  "local_file": "sudoku.csv",
+  "file_size_bytes": 164000018,
+  "total_rows": 1000000,
+  "columns": [
+    "quizzes",
+    "solutions"
+  ],
+  "quiz_length_distribution": {
+    "81": 1000000
+  },
+  "solution_length_distribution": {
+    "81": 1000000
+  },
+  "sample_quiz": "First quiz in file (from first row processed)",
+  "relevance": "1M sudoku puzzles for procedural content generation research, constraint satisfaction algorithms, and puzzle-AI benchmarks."
+}

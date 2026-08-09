@@ -1,0 +1,95 @@
+{
+  "dataset": "fronkongames/steam-games-dataset",
+  "title": "Steam Games Dataset (Full)",
+  "license": "MIT",
+  "source": "https://www.kaggle.com/datasets/fronkongames/steam-games-dataset",
+  "source_date": "2026-08-09T17:45:28.806734+00:00",
+  "local_file": "games.csv (401 MB) + games.json (918 MB, not processed)",
+  "file_size_bytes": 401140503,
+  "total_games": 125855,
+  "columns": [
+    "AppID",
+    "Name",
+    "Release date",
+    "Estimated owners",
+    "Peak CCU",
+    "Required age",
+    "Price",
+    "DiscountDLC count",
+    "About the game",
+    "Supported languages",
+    "Full audio languages",
+    "Reviews",
+    "Header image",
+    "Website",
+    "Support url",
+    "Support email",
+    "Windows",
+    "Mac",
+    "Linux",
+    "Metacritic score",
+    "Metacritic url",
+    "User score",
+    "Positive",
+    "Negative",
+    "Score rank",
+    "Achievements",
+    "Recommendations",
+    "Notes",
+    "Average playtime forever",
+    "Average playtime two weeks",
+    "Median playtime forever",
+    "Median playtime two weeks",
+    "Developers",
+    "Publishers",
+    "Categories",
+    "Genres",
+    "Tags",
+    "Screenshots",
+    "Movies"
+  ],
+  "data_quality_note": "About-the-game column contains unescaped commas, causing DictReader column misalignment. Used csv.reader with explicit column-name-to-index mapping instead.",
+  "year_range": [
+    1997,
+    2026
+  ],
+  "platform_support": {
+    "Windows": 125811,
+    "Mac": 21719,
+    "Linux": 16069
+  },
+  "price_distribution": {
+    "<10": 86864,
+    "free": 26661,
+    "10-30": 11184,
+    ">30": 1146
+  },
+  "peak_ccu_distribution": {
+    "<1k": 125364,
+    "1k-10k": 396,
+    "10k-100k": 87,
+    ">100k": 8
+  },
+  "rating_stats": {
+    "positive": {
+      "min": 0,
+      "max": 7642084,
+      "mean": 1018.2,
+      "median": 4,
+      "count": 125855
+    },
+    "negative": {
+      "min": 0,
+      "max": 1173003,
+      "mean": 164.9,
+      "median": 1,
+      "count": 125855
+    }
+  },
+  "price_stats_usd": {
+    "min": 0.0,
+    "max": 999.98,
+    "mean": 4.81
+  },
+  "relevance": "Full Steam catalog (125k+ games) for engine adoption analysis, pricing distribution (mean $4.81, 21% free), platform support, and peak concurrent user analysis. Note: ~30% of games have 0 peak CCU."
+}

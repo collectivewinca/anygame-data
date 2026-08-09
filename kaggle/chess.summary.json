@@ -1,0 +1,105 @@
+{
+  "dataset": "datasnaek/chess",
+  "title": "Chess Game Dataset (Lichess)",
+  "source": "https://www.kaggle.com/datasets/datasnaek/chess",
+  "source_date": "2026-08-09T17:43:21.086574+00:00",
+  "local_file": "games.csv",
+  "file_size": 7672655,
+  "license": "CC0-1.0",
+  "total_rows": 20058,
+  "columns": [
+    "id",
+    "rated",
+    "created_at",
+    "last_move_at",
+    "turns",
+    "victory_status",
+    "winner",
+    "increment_code",
+    "white_id",
+    "white_rating",
+    "black_id",
+    "black_rating",
+    "moves",
+    "opening_eco",
+    "opening_name",
+    "opening_ply"
+  ],
+  "year_range": [
+    2013,
+    2017
+  ],
+  "victory_status_distribution": {
+    "outoftime": 1680,
+    "resign": 11147,
+    "mate": 6325,
+    "draw": 906
+  },
+  "winner_distribution": {
+    "white": 10001,
+    "black": 9107,
+    "draw": 950
+  },
+  "top_openings": {
+    "Van't Kruijs Opening": 368,
+    "Sicilian Defense": 358,
+    "Sicilian Defense: Bowdler Attack": 296,
+    "French Defense: Knight Variation": 271,
+    "Scotch Game": 271,
+    "Scandinavian Defense: Mieses-Kotroc Variation": 259,
+    "Queen's Pawn Game: Mason Attack": 232,
+    "Queen's Pawn Game: Chigorin Variation": 229,
+    "Scandinavian Defense": 223,
+    "Horwitz Defense": 209,
+    "Caro-Kann Defense": 199,
+    "Philidor Defense #3": 198,
+    "Philidor Defense #2": 193,
+    "Indian Game": 181,
+    "Italian Game: Anti-Fried Liver Defense": 180
+  },
+  "top_eco_codes": {
+    "A00": 1007,
+    "C00": 844,
+    "D00": 739,
+    "B01": 716,
+    "C41": 691,
+    "C20": 675,
+    "A40": 618,
+    "B00": 611,
+    "B20": 567,
+    "C50": 538
+  },
+  "increment_codes": {
+    "10+0": 7721,
+    "15+0": 1311,
+    "15+15": 850,
+    "5+5": 738,
+    "5+8": 697,
+    "8+0": 588,
+    "10+5": 579,
+    "15+10": 461,
+    "20+0": 448,
+    "30+0": 375
+  },
+  "rating_stats": {
+    "white_rating": {
+      "min": 784,
+      "max": 2700,
+      "mean": 1596.6,
+      "median": 1567.0
+    },
+    "black_rating": {
+      "min": 789,
+      "max": 2723,
+      "mean": 1588.8,
+      "median": 1562.0
+    }
+  },
+  "turns_stats": {
+    "min": 1,
+    "max": 349,
+    "mean": 60.5,
+    "median": 55.0
+  },
+  "relevance": "Game AI training data: 20k chess games with moves, openings, ratings. Supports MCTS/RL agent research, ties to UM Game Playing competition."
+}

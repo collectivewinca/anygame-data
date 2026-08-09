@@ -1,0 +1,166 @@
+{
+  "dataset": "nikdavis/steam-store-games",
+  "title": "Steam Store Games Dataset",
+  "license": "Attribution 4.0 International (CC BY 4.0)",
+  "source": "https://www.kaggle.com/datasets/nikdavis/steam-store-games",
+  "source_date": "2026-08-09T17:43:35.875022+00:00",
+  "local_file": "steam.csv (main data; 5 additional files in metadata/ dir)",
+  "file_size": 5815053,
+  "total_rows": 27075,
+  "columns": [
+    "appid",
+    "name",
+    "release_date",
+    "english",
+    "developer",
+    "publisher",
+    "platforms",
+    "required_age",
+    "categories",
+    "genres",
+    "steamspy_tags",
+    "achievements",
+    "positive_ratings",
+    "negative_ratings",
+    "average_playtime",
+    "median_playtime",
+    "owners",
+    "price"
+  ],
+  "year_range": [
+    1997,
+    2019
+  ],
+  "top_categories": {
+    "Single-player": 6110,
+    "Single-player;Steam Achievements": 2334,
+    "Single-player;Steam Achievements;Steam Trading Cards": 848,
+    "Single-player;Partial Controller Support": 804,
+    "Single-player;Steam Trading Cards": 792,
+    "Single-player;Steam Achievements;Steam Cloud": 653,
+    "Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud": 652,
+    "Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud": 585,
+    "Single-player;Full controller support": 562,
+    "Single-player;Steam Achievements;Full controller support": 477
+  },
+  "top_genres": {
+    "Action;Indie": 1852,
+    "Casual;Indie": 1482,
+    "Action;Adventure;Indie": 1229,
+    "Adventure;Indie": 1170,
+    "Action;Casual;Indie": 1004,
+    "Action": 843,
+    "Adventure;Casual;Indie": 801,
+    "Indie": 759,
+    "Casual": 560,
+    "Adventure": 535
+  },
+  "top_developers": {
+    "Choice of Games": 94,
+    "KOEI TECMO GAMES CO., LTD.": 72,
+    "Ripknot Systems": 62,
+    "Laush Dmitriy Sergeevich": 51,
+    "Nikita \"Ghost_RUS\"": 50,
+    "Dexion Games": 45,
+    "RewindApp": 43,
+    "Hosted Games": 42,
+    "Blender Games": 40,
+    "Humongous Entertainment": 36
+  },
+  "top_publishers": {
+    "Big Fish Games": 212,
+    "Strategy First": 136,
+    "Ubisoft": 111,
+    "THQ Nordic": 98,
+    "Square Enix": 97,
+    "Sekai Project": 96,
+    "Choice of Games": 94,
+    "1C Entertainment": 88,
+    "Dagestan Technology": 88,
+    "SEGA": 78
+  },
+  "positive_rating_stats": {
+    "min": 0,
+    "max": 2644404,
+    "mean": 1000.6,
+    "median": 24
+  },
+  "price_stats_usd": {
+    "min": 0.0,
+    "max": 421.99,
+    "mean": 6.08
+  },
+  "most_rated_games": [
+    {
+      "name": "Counter-Strike: Global Offensive",
+      "developer": "Valve;Hidden Path Entertainment",
+      "genres": "Action;Free to Play",
+      "positive_ratings": "2644404",
+      "price": "0.0"
+    },
+    {
+      "name": "Dota 2",
+      "developer": "Valve",
+      "genres": "Action;Free to Play;Strategy",
+      "positive_ratings": "863507",
+      "price": "0.0"
+    },
+    {
+      "name": "Team Fortress 2",
+      "developer": "Valve",
+      "genres": "Action;Free to Play",
+      "positive_ratings": "515879",
+      "price": "0.0"
+    },
+    {
+      "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+      "developer": "PUBG Corporation",
+      "genres": "Action;Adventure;Massively Multiplayer",
+      "positive_ratings": "496184",
+      "price": "26.99"
+    },
+    {
+      "name": "Garry's Mod",
+      "developer": "Facepunch Studios",
+      "genres": "Indie;Simulation",
+      "positive_ratings": "363721",
+      "price": "6.99"
+    },
+    {
+      "name": "Grand Theft Auto V",
+      "developer": "Rockstar North",
+      "genres": "Action;Adventure",
+      "positive_ratings": "329061",
+      "price": "24.99"
+    },
+    {
+      "name": "PAYDAY 2",
+      "developer": "OVERKILL - a Starbreeze Studio.",
+      "genres": "Action;RPG",
+      "positive_ratings": "308657",
+      "price": "7.49"
+    },
+    {
+      "name": "Unturned",
+      "developer": "Smartly Dressed Games",
+      "genres": "Action;Adventure;Casual;Free to Play;Indie",
+      "positive_ratings": "292574",
+      "price": "0.0"
+    },
+    {
+      "name": "Terraria",
+      "developer": "Re-Logic",
+      "genres": "Action;Adventure;Indie;RPG",
+      "positive_ratings": "255600",
+      "price": "6.99"
+    },
+    {
+      "name": "Left 4 Dead 2",
+      "developer": "Valve",
+      "genres": "Action",
+      "positive_ratings": "251789",
+      "price": "7.19"
+    }
+  ],
+  "relevance": "Steam game metadata for engine adoption analysis (Godot/Unity/Unreal detection via categories/tags), developer/publisher ecosystem mapping, price and rating distributions."
+}

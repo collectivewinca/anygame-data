@@ -1,0 +1,141 @@
+{
+  "dataset": "gregorut/videogamesales",
+  "title": "Video Game Sales",
+  "source": "https://www.kaggle.com/datasets/gregorut/videogamesales",
+  "source_date": "2026-08-09T17:43:18.017606+00:00",
+  "local_file": "vgsales.csv",
+  "file_size": 1355781,
+  "total_rows": 16598,
+  "columns": [
+    "Rank",
+    "Name",
+    "Platform",
+    "Year",
+    "Genre",
+    "Publisher",
+    "NA_Sales",
+    "EU_Sales",
+    "JP_Sales",
+    "Other_Sales",
+    "Global_Sales"
+  ],
+  "year_range": [
+    1980,
+    2020
+  ],
+  "top_platforms": {
+    "DS": 2163,
+    "PS2": 2161,
+    "PS3": 1329,
+    "Wii": 1325,
+    "X360": 1265,
+    "PSP": 1213,
+    "PS": 1196,
+    "PC": 960,
+    "XB": 824,
+    "GBA": 822
+  },
+  "top_genres": {
+    "Action": 3316,
+    "Sports": 2346,
+    "Misc": 1739,
+    "Role-Playing": 1488,
+    "Shooter": 1310,
+    "Adventure": 1286,
+    "Racing": 1249,
+    "Platform": 886,
+    "Simulation": 867,
+    "Fighting": 848
+  },
+  "top_publishers": {
+    "Electronic Arts": 1351,
+    "Activision": 975,
+    "Namco Bandai Games": 932,
+    "Ubisoft": 921,
+    "Konami Digital Entertainment": 832,
+    "THQ": 715,
+    "Nintendo": 703,
+    "Sony Computer Entertainment": 683,
+    "Sega": 639,
+    "Take-Two Interactive": 413
+  },
+  "regional_sales_millions_mill": {
+    "NA": 4392.95,
+    "EU": 2434.13,
+    "JP": 1291.02,
+    "Other": 797.75,
+    "Global": 8920.44
+  },
+  "best_global_sellers": [
+    {
+      "rank": "1",
+      "name": "Wii Sports",
+      "platform": "Wii",
+      "year": "2006",
+      "global_sales": "82.74"
+    },
+    {
+      "rank": "2",
+      "name": "Super Mario Bros.",
+      "platform": "NES",
+      "year": "1985",
+      "global_sales": "40.24"
+    },
+    {
+      "rank": "3",
+      "name": "Mario Kart Wii",
+      "platform": "Wii",
+      "year": "2008",
+      "global_sales": "35.82"
+    },
+    {
+      "rank": "4",
+      "name": "Wii Sports Resort",
+      "platform": "Wii",
+      "year": "2009",
+      "global_sales": "33"
+    },
+    {
+      "rank": "5",
+      "name": "Pokemon Red/Pokemon Blue",
+      "platform": "GB",
+      "year": "1996",
+      "global_sales": "31.37"
+    },
+    {
+      "rank": "6",
+      "name": "Tetris",
+      "platform": "GB",
+      "year": "1989",
+      "global_sales": "30.26"
+    },
+    {
+      "rank": "7",
+      "name": "New Super Mario Bros.",
+      "platform": "DS",
+      "year": "2006",
+      "global_sales": "30.01"
+    },
+    {
+      "rank": "8",
+      "name": "Wii Play",
+      "platform": "Wii",
+      "year": "2006",
+      "global_sales": "29.02"
+    },
+    {
+      "rank": "9",
+      "name": "New Super Mario Bros. Wii",
+      "platform": "Wii",
+      "year": "2009",
+      "global_sales": "28.62"
+    },
+    {
+      "rank": "10",
+      "name": "Duck Hunt",
+      "platform": "NES",
+      "year": "1984",
+      "global_sales": "28.31"
+    }
+  ]
+}

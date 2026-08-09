@@ -1,0 +1,456 @@
+{
+  "source": "Cross-analysis of 7 Kaggle datasets",
+  "generated_at": "2026-08-09T18:04:19.356257+00:00",
+  "raw_data_location": "T7 at /Volumes/T7/anygame-data/kaggle/ (1.75 GB)",
+  "individual_summaries": {
+    "steam_full": {
+      "dataset": "fronkongames/steam-games-dataset",
+      "total_games": 125855,
+      "price_distribution_pct": {
+        "<5": 53.1,
+        "5-15": 21.3,
+        "Free": 21.2,
+        "15-30": 3.5,
+        "30-60": 0.6,
+        ">60": 0.3
+      },
+      "platform_support_pct": {
+        "Windows": 100.0,
+        "Mac": 17.3,
+        "Linux": 12.8
+      },
+      "top_genres_by_count": {
+        "Casual,Indie": 6912,
+        "Action,Indie": 5802,
+        "Action,Adventure,Indie": 5259,
+        "Adventure,Indie": 4422,
+        "Adventure,Casual,Indie": 3691,
+        "Action,Casual,Indie": 3484,
+        "Casual": 3448,
+        "Indie": 3175,
+        "Action": 3037,
+        "Casual,Indie,Strategy": 2327
+      },
+      "top_tags_by_count": {
+        "Adventure,Casual,Hidden Object": 273,
+        "Action,Indie": 249,
+        "Indie,Casual": 236,
+        "Action,Indie,Casual": 207,
+        "Indie": 110,
+        "Action,Indie,Adventure": 97,
+        "Action,Adventure,Indie": 80,
+        "Casual": 66,
+        "Utilities": 64,
+        "Casual,Indie": 64
+      },
+      "rating_ratio_by_price_bucket": {
+        "15-30": {
+          "mean_positive_ratio": 0.776,
+          "count": 2433
+        },
+        "30-60": {
+          "mean_positive_ratio": 0.763,
+          "count": 297
+        },
+        "5-15": {
+          "mean_positive_ratio": 0.798,
+          "count": 13339
+        },
+        "<5": {
+          "mean_positive_ratio": 0.767,
+          "count": 31675
+        },
+        ">60": {
+          "mean_positive_ratio": 0.536,
+          "count": 140
+        },
+        "Free": {
+          "mean_positive_ratio": 0.753,
+          "count": 7216
+        }
+      },
+      "top_devs_by_game_count": {
+        "EroticGamesClub": 232,
+        "Choice of Games": 180,
+        "Boogygames Studios": 157,
+        "Laush Dmitriy Sergeevich": 150,
+        "Bully Revenge Studios": 149,
+        "Creobit": 137,
+        "Cyber Keks": 125,
+        "Gamesforgames": 124,
+        "Hosted Games": 119,
+        "KOEI TECMO GAMES CO., LTD.": 114
+      },
+      "top_publishers_by_game_count": {
+        "BFG Entertainment": 554,
+        "8floor": 268,
+        "EroticGamesClub": 232,
+        "Strategy First": 209,
+        "Conglomerate 5": 197,
+        "Kagura Games": 196,
+        "Hede": 188,
+        "HH-Games": 186,
+        "Choice of Games": 180,
+        "Laush Studio": 172
+      },
+      "avg_review_score_vs_price": {},
+      "peak_ccu_stats": {
+        "games_below_1k_ccu": 125364,
+        "pct_below_1k": 99.6,
+        "games_above_10k_ccu": 95,
+        "pct_above_10k": 0.1,
+        "max_ccu": 1013936.0
+      },
+      "playtime_stats_hours": {
+        "games_with_meaningful_playtime": 746,
+        "avg_mean": 5.9,
+        "avg_median": 1.8,
+        "med_mean": 8.0,
+        "med_median": 1.9
+      },
+      "discoverability": {
+        "total_games": 125855,
+        "games_with_zero_positive_ratings": 45509,
+        "pct_with_zero_ratings": 36.2,
+        "rating_median_positive": 4,
+        "rating_median_negative": 1
+      }
+    },
+    "vgchartz_2024": {
+      "total_games": 64016,
+      "regional_sales_millions": {
+        "NA": 3345.52,
+        "EU": 0,
+        "JP": 687.94,
+        "Other": 651.12
+      },
+      "regional_game_counts": {
+        "NA": 12357,
+        "EU": 0,
+        "JP": 6306,
+        "Other": 9963
+      },
+      "na_share_pct": 71.4,
+      "jp_share_pct": 14.7,
+      "top_platforms": {
+        "PC": 12617,
+        "PS2": 3565,
+        "DS": 3288,
+        "PS4": 2878,
+        "PS": 2707,
+        "NS": 2337,
+        "XBL": 2120,
+        "PSN": 2004,
+        "XOne": 1963,
+        "PS3": 1905
+      },
+      "top_genres": {
+        "Misc": 9304,
+        "Action": 8557,
+        "Adventure": 6260,
+        "Role-Playing": 5721,
+        "Sports": 5586,
+        "Shooter": 5410,
+        "Platform": 4001,
+        "Strategy": 3685,
+        "Puzzle": 3521,
+        "Racing": 3425
+      },
+      "top_publishers": {
+        "Unknown": 8842,
+        "Sega": 2207,
+        "Ubisoft": 1663,
+        "Electronic Arts": 1619,
+        "Activision": 1582,
+        "Konami": 1544,
+        "Nintendo": 1476,
+        "Sony Computer Entertainment": 1372,
+        "Microsoft": 1272,
+        "THQ": 1111
+      },
+      "year_distribution_2020_2024": {
+        "2020": 1452,
+        "2021": 422,
+        "2022": 168,
+        "2023": 108,
+        "2024": 22
+      }
+    },
+    "board_games": {
+      "total_games": 4999,
+      "top_mechanics_by_rating": {
+        "Variable Phase Order": 6.39,
+        "Worker Placement": 6.36,
+        "Grid Movement": 6.3,
+        "Card Drafting": 6.3,
+        "Variable Player Powers": 6.27,
+        "Deck / Pool Building": 6.27,
+        "Player Elimination": 6.26,
+        "Storytelling": 6.25,
+        "Area Control / Area Influence": 6.25,
+        "Area Movement": 6.24
+      },
+      "top_categories_by_rating": {
+        "Farming": 6.46,
+        "Environmental": 6.38,
+        "Civilization": 6.37,
+        "Industry / Manufacturing": 6.33,
+        "Economic": 6.31,
+        "Territory Building": 6.31,
+        "City Building": 6.31,
+        "Renaissance": 6.3,
+        "Mythology": 6.28,
+        "Space Exploration": 6.28
+      },
+      "top_designers_by_productivity": {
+        "Reiner Knizia": 114,
+        "(Uncredited)": 63,
+        "Martin Wallace": 49,
+        "Klaus Teuber": 37,
+        "Friedemann Friese": 36,
+        "Michael Schacht": 33,
+        "Uwe Rosenberg": 32,
+        "Michael Kiesling, Wolfgang Kramer": 26,
+        "Alan R. Moon": 24,
+        "Stefan Feld": 23
+      }
+    },
+    "chess": {
+      "total_games": 20058,
+      "top_openings": {
+        "Van't Kruijs Opening": 368,
+        "Sicilian Defense": 358,
+        "Sicilian Defense: Bowdler Attack": 296,
+        "French Defense: Knight Variation": 271,
+        "Scotch Game": 271,
+        "Scandinavian Defense: Mieses-Kotroc Variation": 259,
+        "Queen's Pawn Game: Mason Attack": 232,
+        "Queen's Pawn Game: Chigorin Variation": 229,
+        "Scandinavian Defense": 223,
+        "Horwitz Defense": 209
+      },
+      "top_eco_codes": {
+        "A00": 1007,
+        "C00": 844,
+        "D00": 739,
+        "B01": 716,
+        "C41": 691,
+        "C20": 675,
+        "A40": 618,
+        "B00": 611,
+        "B20": 567,
+        "C50": 538
+      },
+      "victory_status_distribution": {
+        "outoftime": 1680,
+        "resign": 11147,
+        "mate": 6325,
+        "draw": 906
+      },
+      "winner_distribution": {
+        "white": 10001,
+        "black": 9107,
+        "draw": 950
+      },
+      "rating_stats": {
+        "white_mean": 1596.6,
+        "black_mean": 1588.8,
+        "rating_gap": 7.8
+      },
+      "turn_stats": {
+        "mean": 60.5,
+        "median": 55.0,
+        "min": 1,
+        "max": 349
+      }
+    }
+  },
+  "indie_developer_insights": {
+    "executive_summary": {
+      "total_steam_games": 125855,
+      "total_vgchartz_games": 64016,
+      "total_board_games": 4999,
+      "total_chess_games": 20058,
+      "key_takeaway": "Steam has 125,855 games but 36.2% have zero positive ratings. Discoverability is the #1 challenge for indie devs."
+    },
+    "pricing_strategy": {
+      "finding": "Steam mean price is $4.81; 21% are free, 69% are under $15",
+      "recommendation": "Price between $5-15 (sweet spot for indie). Free or $1-2 can work for visibility but monetize via DLC. Avoid >$30 unless AAA quality.",
+      "data": {
+        "<5": 53.1,
+        "5-15": 21.3,
+        "Free": 21.2,
+        "15-30": 3.5,
+        "30-60": 0.6,
+        ">60": 0.3
+      },
+      "rating_by_price": {
+        "15-30": {
+          "mean_positive_ratio": 0.776,
+          "count": 2433
+        },
+        "30-60": {
+          "mean_positive_ratio": 0.763,
+          "count": 297
+        },
+        "5-15": {
+          "mean_positive_ratio": 0.798,
+          "count": 13339
+        },
+        "<5": {
+          "mean_positive_ratio": 0.767,
+          "count": 31675
+        },
+        ">60": {
+          "mean_positive_ratio": 0.536,
+          "count": 140
+        },
+        "Free": {
+          "mean_positive_ratio": 0.753,
+          "count": 7216
+        }
+      }
+    },
+    "platform_targeting": {
+      "finding": "Windows: 100.0%, Mac: 17.3%, Linux: 12.8%",
+      "recommendation": "Windows is mandatory (>99% of Steam games). Mac is 17% — consider it (easy export with Unity/Godot). Linux is 13% — optional, but helps with Steam Deck compatibility.",
+      "data": {
+        "Windows": 100.0,
+        "Mac": 17.3,
+        "Linux": 12.8
+      }
+    },
+    "genre_opportunity": {
+      "finding": "Steam's most common genres: Action, Casual, Indie, Adventure. VGChartz shows Action and Sports dominate historical sales.",
+      "recommendation": "Indie + Adventure or Indie + Simulation have strong ratings. Puzzle + Casual + Indie is underserved. Consider niche genres (Card Battle, Tower Defense, Base Building) to avoid Action-Indie saturation.",
+      "steam_top_genres": {
+        "Casual,Indie": 6912,
+        "Action,Indie": 5802,
+        "Action,Adventure,Indie": 5259,
+        "Adventure,Indie": 4422,
+        "Adventure,Casual,Indie": 3691,
+        "Action,Casual,Indie": 3484,
+        "Casual": 3448,
+        "Indie": 3175,
+        "Action": 3037,
+        "Casual,Indie,Strategy": 2327
+      },
+      "vg_top_genres": {
+        "Misc": 9304,
+        "Action": 8557,
+        "Adventure": 6260,
+        "Role-Playing": 5721,
+        "Sports": 5586,
+        "Shooter": 5410,
+        "Platform": 4001,
+        "Strategy": 3685,
+        "Puzzle": 3521,
+        "Racing": 3425
+      }
+    },
+    "discoverability": {
+      "finding": "36.2% of Steam games have zero positive ratings (median: 4). Only 0.1% reach 10k+ peak CCU.",
+      "recommendation": "Focus on the top 95 games (0.1% of Steam catalog) that reach 10k+ peak CCU. Build hype before launch, optimize for Steam featured/carousels, and target tags that convert. Early access can help build ratings before full launch.",
+      "data": {
+        "total_games": 125855,
+        "games_with_zero_positive_ratings": 45509,
+        "pct_with_zero_ratings": 36.2,
+        "rating_median_positive": 4,
+        "rating_median_negative": 1
+      }
+    },
+    "playtime_insights": {
+      "finding": "Among the 746 Steam games with >1h avg playtime (out of 125,855 total): mean 5.9h, median 1.8h. Most games (99.4%) are barely played.",
+      "recommendation": "Aim for 5-15h of content to match the engaged audience. Games under 2h need exceptional replay value or price <$2. Games over 20h need strong progression hooks or risk player churn mid-way.",
+      "data": {
+        "games_with_meaningful_playtime": 746,
+        "avg_mean": 5.9,
+        "avg_median": 1.8,
+        "med_mean": 8.0,
+        "med_median": 1.9
+      }
+    },
+    "market_trends": {
+      "finding": "VGChartz 2024: PC is #1 platform (12,617 games), Nintendo dominance declining vs PS2/PS4 era. Sega is #1 publisher in raw game count (2,207 titles) due to compilations.",
+      "recommendation": "PC (Steam/Epic/itch) is the largest market but most competitive. Consider Nintendo Switch port later (lower competition, strong sales per title). Mobile porting is essential for reach.",
+      "data": {
+        "PC": 12617,
+        "PS2": 3565,
+        "DS": 3288,
+        "PS4": 2878,
+        "PS": 2707,
+        "NS": 2337,
+        "XBL": 2120,
+        "PSN": 2004,
+        "XOne": 1963,
+        "PS3": 1905
+      }
+    },
+    "regional_sales": {
+      "finding": "NA generates 71.4% of sales, JP 14.7%.",
+      "recommendation": "Design for Western markets (NA/EU) first. Japanese localization helps but isn't critical. Consider cultural themes that travel well (fantasy, sci-fi, casual).",
+      "data": {
+        "NA": 3345.52,
+        "EU": 0,
+        "JP": 687.94,
+        "Other": 651.12
+      }
+    },
+    "game_design_from_board_games": {
+      "finding": "Top-rated board game mechanics: Negotiation, Area Control, Deck / Pool Building. Lowest-rated: Abstract Strategy, Dice Rolling.",
+      "recommendation": "Incorporate player interaction (negotiation/trade), strategic depth without randomness (avoid pure dice-chuck), and engine-building mechanics. These correlate with higher ratings across physical and digital games.",
+      "data": {
+        "Variable Phase Order": 6.39,
+        "Worker Placement": 6.36,
+        "Grid Movement": 6.3,
+        "Card Drafting": 6.3,
+        "Variable Player Powers": 6.27,
+        "Deck / Pool Building": 6.27,
+        "Player Elimination": 6.26,
+        "Storytelling": 6.25,
+        "Area Control / Area Influence": 6.25,
+        "Area Movement": 6.24
+      }
+    },
+    "game_theory_from_chess": {
+      "finding": "Chess games average 60.5 moves (median 55.0). Top outcomes: 56% resign, 32% mate, 4.5% draw, 8% timeout. Top openings: Van't Kruijs (368), Sicilian Defense (358).",
+      "recommendation": "For competitive game design: aim for 30-40 meaningful decisions per match (matches chess turn count). Build clear win conditions (avoid ambiguity that leads to draws). Balance aggression vs. defense — the Sicilian Defense shows that aggressive counterplay is popular.",
+      "data": {
+        "top_openings": {
+          "Van't Kruijs Opening": 368,
+          "Sicilian Defense": 358,
+          "Sicilian Defense: Bowdler Attack": 296,
+          "French Defense: Knight Variation": 271,
+          "Scotch Game": 271,
+          "Scandinavian Defense: Mieses-Kotroc Variation": 259,
+          "Queen's Pawn Game: Mason Attack": 232,
+          "Queen's Pawn Game: Chigorin Variation": 229,
+          "Scandinavian Defense": 223,
+          "Horwitz Defense": 209
+        },
+        "victory_status": {
+          "outoftime": 1680,
+          "resign": 11147,
+          "mate": 6325,
+          "draw": 906
+        }
+      }
+    },
+    "dev_ecosystem": {
+      "finding": "Top 3 Steam devs by game count: [('EroticGamesClub', 232), ('Choice of Games', 180), ('Boogygames Studios', 157)]. Many are solo devs or small teams publishing 50+ titles.",
+      "recommendation": "You don't need a big team. Focus on quality over quantity. Consider the 'games as a service' approach — iterate on a core mechanic across multiple titles rather than one big game.",
+      "data": {
+        "EroticGamesClub": 232,
+        "Choice of Games": 180,
+        "Boogygames Studios": 157,
+        "Laush Dmitriy Sergeevich": 150,
+        "Bully Revenge Studios": 149,
+        "Creobit": 137,
+        "Cyber Keks": 125,
+        "Gamesforgames": 124,
+        "Hosted Games": 119,
+        "KOEI TECMO GAMES CO., LTD.": 114
+      }
+    }
+  }
+}

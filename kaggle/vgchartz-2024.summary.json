@@ -1,0 +1,149 @@
+{
+  "dataset": "asaniczka/video-game-sales-2024",
+  "title": "Video Game Sales 2024",
+  "license": "ODC Attribution License (ODC-By)",
+  "source": "https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024",
+  "source_date": "2026-08-09T17:43:30.717202+00:00",
+  "local_file": "vgchartz-2024.csv",
+  "file_size": 8191622,
+  "total_rows": 64016,
+  "columns": [
+    "img",
+    "title",
+    "console",
+    "genre",
+    "publisher",
+    "developer",
+    "critic_score",
+    "total_sales",
+    "na_sales",
+    "jp_sales",
+    "pal_sales",
+    "other_sales",
+    "release_date",
+    "last_update"
+  ],
+  "year_range": [
+    1971,
+    2024
+  ],
+  "top_platforms": {
+    "PC": 12617,
+    "PS2": 3565,
+    "DS": 3288,
+    "PS4": 2878,
+    "PS": 2707,
+    "NS": 2337,
+    "XBL": 2120,
+    "PSN": 2004,
+    "XOne": 1963,
+    "PS3": 1905
+  },
+  "top_genres": {
+    "Misc": 9304,
+    "Action": 8557,
+    "Adventure": 6260,
+    "Role-Playing": 5721,
+    "Sports": 5586,
+    "Shooter": 5410,
+    "Platform": 4001,
+    "Strategy": 3685,
+    "Puzzle": 3521,
+    "Racing": 3425
+  },
+  "top_publishers": {
+    "Sega": 2207,
+    "Ubisoft": 1663,
+    "Electronic Arts": 1619,
+    "Activision": 1582,
+    "Konami": 1544,
+    "Nintendo": 1476,
+    "Sony Computer Entertainment": 1372,
+    "Microsoft": 1272,
+    "THQ": 1111,
+    "Capcom": 1092
+  },
+  "critic_score_stats": {
+    "min": 1.0,
+    "max": 10.0,
+    "mean": 7.22
+  },
+  "total_sales_stats_millions": {
+    "min": 0.01,
+    "max": 20.32,
+    "mean": 0.38
+  },
+  "top_selling_games": [
+    {
+      "title": "Grand Theft Auto V",
+      "console": "PS3",
+      "release_date": "2013-09-17",
+      "total_sales": "20.32",
+      "critic_score": "9.4"
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "console": "PS4",
+      "release_date": "2014-11-18",
+      "total_sales": "19.39",
+      "critic_score": "9.7"
+    },
+    {
+      "title": "Grand Theft Auto: Vice City",
+      "console": "PS2",
+      "release_date": "2002-10-28",
+      "total_sales": "16.15",
+      "critic_score": "9.6"
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "console": "X360",
+      "release_date": "2013-09-17",
+      "total_sales": "15.86",
+      "critic_score": ""
+    },
+    {
+      "title": "Call of Duty: Black Ops 3",
+      "console": "PS4",
+      "release_date": "2015-11-06",
+      "total_sales": "15.09",
+      "critic_score": "8.1"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 3",
+      "console": "X360",
+      "release_date": "2011-11-08",
+      "total_sales": "14.82",
+      "critic_score": "8.7"
+    },
+    {
+      "title": "Call of Duty: Black Ops",
+      "console": "X360",
+      "release_date": "2010-11-09",
+      "total_sales": "14.74",
+      "critic_score": "8.8"
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "console": "PS4",
+      "release_date": "2018-10-26",
+      "total_sales": "13.94",
+      "critic_score": "9.8"
+    },
+    {
+      "title": "Call of Duty: Black Ops II",
+      "console": "X360",
+      "release_date": "2012-11-13",
+      "total_sales": "13.86",
+      "critic_score": "8.4"
+    },
+    {
+      "title": "Call of Duty: Black Ops II",
+      "console": "PS3",
+      "release_date": "2012-11-13",
+      "total_sales": "13.8",
+      "critic_score": "8"
+    }
+  ],
+  "relevance": "Updated market data (64k+ games) for 2026 market analysis, platform/genre trends, and publisher performance."
+}

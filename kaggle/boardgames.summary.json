@@ -1,0 +1,161 @@
+{
+  "dataset": "mrpantherson/board-game-data",
+  "title": "Board Game Data",
+  "license": "CC0-1.0",
+  "source": "https://www.kaggle.com/datasets/mrpantherson/board-game-data",
+  "source_date": "2026-08-09T17:43:22.602320+00:00",
+  "local_file": "bgg_db_1806.csv",
+  "file_size": 1706957,
+  "total_rows": 4999,
+  "columns": [
+    "rank",
+    "bgg_url",
+    "game_id",
+    "names",
+    "min_players",
+    "max_players",
+    "avg_time",
+    "min_time",
+    "max_time",
+    "year",
+    "avg_rating",
+    "geek_rating",
+    "num_votes",
+    "image_url",
+    "age",
+    "mechanic",
+    "owned",
+    "category",
+    "designer",
+    "weight"
+  ],
+  "year_range": [
+    -3000,
+    2018
+  ],
+  "top_categories": {
+    "Wargame, World War II": 197,
+    "Card Game": 178,
+    "Abstract Strategy": 102,
+    "Card Game, Fantasy": 71,
+    "Economic": 58,
+    "Napoleonic, Wargame": 44,
+    "Dice": 43,
+    "American Civil War, Wargame": 43,
+    "none": 38,
+    "Modern Warfare, Wargame": 35
+  },
+  "top_mechanics": {
+    "none": 162,
+    "Hex-and-Counter": 114,
+    "Hand Management": 94,
+    "Dice Rolling, Hex-and-Counter": 76,
+    "Dice Rolling, Hex-and-Counter, Simulation": 65,
+    "Hand Management, Set Collection": 56,
+    "Dice Rolling": 55,
+    "Tile Placement": 45,
+    "Set Collection": 36,
+    "Card Drafting, Deck / Pool Building, Hand Management": 35
+  },
+  "top_designers": {
+    "Reiner Knizia": 114,
+    "(Uncredited)": 63,
+    "Martin Wallace": 49,
+    "Klaus Teuber": 37,
+    "Friedemann Friese": 36,
+    "none": 36,
+    "Michael Schacht": 33,
+    "Uwe Rosenberg": 32,
+    "Michael Kiesling, Wolfgang Kramer": 26,
+    "Alan R. Moon": 24
+  },
+  "weight_stats": {
+    "min": 0.0,
+    "max": 4.9,
+    "mean": 2.34,
+    "median": 2.29
+  },
+  "geek_rating_stats": {
+    "min": 5.64,
+    "max": 8.62,
+    "mean": 6.09
+  },
+  "num_votes_stats": {
+    "min": 62,
+    "max": 77423,
+    "mean": 2013.5
+  },
+  "top_rated_games": [
+    {
+      "name": "Gloomhaven",
+      "year": "2017",
+      "geek_rating": "8.61858",
+      "weight": "3.7543",
+      "category": "Adventure, Exploration, Fantasy, Fighting, Miniatures"
+    },
+    {
+      "name": "Pandemic Legacy: Season 1",
+      "year": "2015",
+      "geek_rating": "8.50163",
+      "weight": "2.821",
+      "category": "Environmental, Medical"
+    },
+    {
+      "name": "Through the Ages: A New Story of Civilization",
+      "year": "2015",
+      "geek_rating": "8.30183",
+      "weight": "4.3678",
+      "category": "Card Game, Civilization, Economic"
+    },
+    {
+      "name": "Terraforming Mars",
+      "year": "2016",
+      "geek_rating": "8.19914",
+      "weight": "3.2456",
+      "category": "Economic, Environmental, Industry / Manufacturing, Science Fiction, Territory Building"
+    },
+    {
+      "name": "Twilight Struggle",
+      "year": "2005",
+      "geek_rating": "8.19787",
+      "weight": "3.5518",
+      "category": "Modern Warfare, Political, Wargame"
+    },
+    {
+      "name": "Star Wars: Rebellion",
+      "year": "2016",
+      "geek_rating": "8.16545",
+      "weight": "3.6311",
+      "category": "Fighting, Miniatures, Movies / TV / Radio theme, Science Fiction, Wargame"
+    },
+    {
+      "name": "Scythe",
+      "year": "2016",
+      "geek_rating": "8.108",
+      "weight": "3.3609",
+      "category": "Civilization, Economic, Fighting, Miniatures, Science Fiction, Territory Building"
+    },
+    {
+      "name": "Terra Mystica",
+      "year": "2012",
+      "geek_rating": "8.09296",
+      "weight": "3.9505",
+      "category": "Civilization, Economic, Fantasy, Territory Building"
+    },
+    {
+      "name": "Great Western Trail",
+      "year": "2016",
+      "geek_rating": "8.04047",
+      "weight": "3.7011",
+      "category": "American West"
+    },
+    {
+      "name": "The 7th Continent",
+      "year": "2017",
+      "geek_rating": "8.02458",
+      "weight": "2.8578",
+      "category": "Adventure, Card Game, Exploration, Horror, Science Fiction"
+    }
+  ],
+  "relevance": "Strategy game mechanics for AI planning, game balance analysis, MCTS/RL agent benchmarks."
+}
