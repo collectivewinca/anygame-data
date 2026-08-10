@@ -1,6 +1,6 @@
 {
   "source": "Cross-analysis of 7 Kaggle datasets",
-  "generated_at": "2026-08-10T00:51:25.772424+00:00",
+  "generated_at": "2026-08-10T01:21:08.638771+00:00",
   "raw_data_location": "T7 at /Volumes/T7/anygame-data/kaggle/ (1.75 GB)",
   "individual_summaries": {
     "steam_full": {
@@ -140,6 +140,71 @@
         "pct_with_zero_ratings": 36.2,
         "rating_median_positive": 4,
         "rating_median_negative": 1
+      },
+      "price_value_hotspots": [
+        {
+          "ratio": 1.0,
+          "price": 9.99,
+          "name": "Pixel Game Maker Series Werewolf Princess Kaguya"
+        },
+        {
+          "ratio": 1.0,
+          "price": 0.89,
+          "name": "Who is Paul"
+        },
+        {
+          "ratio": 1.0,
+          "price": 2.09,
+          "name": "RoomNo.404"
+        },
+        {
+          "ratio": 1.0,
+          "price": 3.89,
+          "name": "Hexle"
+        },
+        {
+          "ratio": 1.0,
+          "price": 8.99,
+          "name": "Gelluloid Domination"
+        },
+        {
+          "ratio": 1.0,
+          "price": 5.99,
+          "name": "灵界  Sprites（测试版）"
+        },
+        {
+          "ratio": 1.0,
+          "price": 5.24,
+          "name": "Spitfire - Moonpie´s Mission"
+        },
+        {
+          "ratio": 1.0,
+          "price": 4.79,
+          "name": "Kinder Finders"
+        },
+        {
+          "ratio": 1.0,
+          "price": 4.99,
+          "name": "Stellaxy"
+        },
+        {
+          "ratio": 1.0,
+          "price": 0.55,
+          "name": "Bubble POP IT ASMR"
+        }
+      ],
+      "early_access_impact": {
+        "early_access_mean_ratio": 0.651,
+        "full_release_mean_ratio": 0.617,
+        "early_access_count": 10239,
+        "full_release_count": 115616
+      },
+      "rating_correlates": {
+        "avg_price_high_rated": 4.66,
+        "avg_price_low_rated": 4.86,
+        "high_rated_count": 15365,
+        "low_rated_count": 4589,
+        "avg_price_all": 4.81
       }
     },
     "vgchartz_2024": {
@@ -536,6 +601,83 @@
         "Oct": 12207,
         "Nov": 11542,
         "Dec": 10623
+      }
+    },
+    "early_access_impact": {
+      "finding": "Early Access games average 65.1% positive (n=10,239), vs 61.7% for full releases (n=115,616).",
+      "recommendation": "Early Access titles tend to have higher positive ratios — players self-select and are more forgiving. But full releases without early access also perform well if quality is high. Don't use EA as a crutch for unfinished games.",
+      "data": {
+        "early_access_mean_ratio": 0.651,
+        "full_release_mean_ratio": 0.617,
+        "early_access_count": 10239,
+        "full_release_count": 115616
+      }
+    },
+    "price_value_hotspots": {
+      "finding": "Found 10 games with >85% positive ratio at <$10. Top examples: [('Pixel Game Maker Series Werewolf Princess Kaguya', 1.0), ('Who is Paul', 1.0), ('RoomNo.404', 1.0)].",
+      "recommendation": "Study the design patterns of high-rated, low-price games. They achieve strong value perception through tight scope, polished execution, and clear genre identity. $5-10 is the sweet spot for indie visibility + profitability.",
+      "data": [
+        {
+          "ratio": 1.0,
+          "price": 9.99,
+          "name": "Pixel Game Maker Series Werewolf Princess Kaguya"
+        },
+        {
+          "ratio": 1.0,
+          "price": 0.89,
+          "name": "Who is Paul"
+        },
+        {
+          "ratio": 1.0,
+          "price": 2.09,
+          "name": "RoomNo.404"
+        },
+        {
+          "ratio": 1.0,
+          "price": 3.89,
+          "name": "Hexle"
+        },
+        {
+          "ratio": 1.0,
+          "price": 8.99,
+          "name": "Gelluloid Domination"
+        },
+        {
+          "ratio": 1.0,
+          "price": 5.99,
+          "name": "灵界  Sprites（测试版）"
+        },
+        {
+          "ratio": 1.0,
+          "price": 5.24,
+          "name": "Spitfire - Moonpie´s Mission"
+        },
+        {
+          "ratio": 1.0,
+          "price": 4.79,
+          "name": "Kinder Finders"
+        },
+        {
+          "ratio": 1.0,
+          "price": 4.99,
+          "name": "Stellaxy"
+        },
+        {
+          "ratio": 1.0,
+          "price": 0.55,
+          "name": "Bubble POP IT ASMR"
+        }
+      ]
+    },
+    "rating_correlates": {
+      "finding": "High-rated games (>90% positive) have avg price $4.66 vs $4.86 for low-rated (<50% positive). Overall avg price: $4.81. Price alone is a weak signal — 15,365 high-rated games exist at $4.66 avg, nearly matching the $4.86 avg for 4,589 low-rated games.",
+      "recommendation": "Price doesn't strongly correlate with rating quality — players care more about polish, scope, and value proposition. Focus on tight scope, clear communication, and community engagement rather than pricing strategy.",
+      "data": {
+        "avg_price_high_rated": 4.66,
+        "avg_price_low_rated": 4.86,
+        "high_rated_count": 15365,
+        "low_rated_count": 4589,
+        "avg_price_all": 4.81
       }
     }
   }
