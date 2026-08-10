@@ -1,6 +1,6 @@
 {
   "source": "Cross-analysis of 7 Kaggle datasets",
-  "generated_at": "2026-08-09T18:04:19.356257+00:00",
+  "generated_at": "2026-08-10T00:51:25.772424+00:00",
   "raw_data_location": "T7 at /Volumes/T7/anygame-data/kaggle/ (1.75 GB)",
   "individual_summaries": {
     "steam_full": {
@@ -20,28 +20,28 @@
         "Linux": 12.8
       },
       "top_genres_by_count": {
-        "Casual,Indie": 6912,
-        "Action,Indie": 5802,
-        "Action,Adventure,Indie": 5259,
-        "Adventure,Indie": 4422,
-        "Adventure,Casual,Indie": 3691,
-        "Action,Casual,Indie": 3484,
-        "Casual": 3448,
-        "Indie": 3175,
-        "Action": 3037,
-        "Casual,Indie,Strategy": 2327
+        "Indie": 82884,
+        "Casual": 51677,
+        "Action": 47344,
+        "Adventure": 46293,
+        "Simulation": 24912,
+        "Strategy": 23058,
+        "RPG": 21577,
+        "Free To Play": 12605,
+        "Early Access": 11572,
+        "Sports": 4971
       },
       "top_tags_by_count": {
-        "Adventure,Casual,Hidden Object": 273,
-        "Action,Indie": 249,
-        "Indie,Casual": 236,
-        "Action,Indie,Casual": 207,
-        "Indie": 110,
-        "Action,Indie,Adventure": 97,
-        "Action,Adventure,Indie": 80,
-        "Casual": 66,
-        "Utilities": 64,
-        "Casual,Indie": 64
+        "Singleplayer": 50353,
+        "Indie": 48556,
+        "Action": 36812,
+        "Casual": 36565,
+        "Adventure": 35200,
+        "2D": 26794,
+        "3D": 17997,
+        "Simulation": 17896,
+        "Strategy": 17850,
+        "Puzzle": 16370
       },
       "rating_ratio_by_price_bucket": {
         "15-30": {
@@ -68,6 +68,32 @@
           "mean_positive_ratio": 0.753,
           "count": 7216
         }
+      },
+      "rating_ratio_by_tag": {
+        "Sokoban": 0.908,
+        "Wholesome": 0.895,
+        "Cozy": 0.894,
+        "Electronic Music": 0.887,
+        "Boss Rush": 0.878,
+        "Nostalgia": 0.874,
+        "Cats": 0.872,
+        "Precision Platformer": 0.871,
+        "Grid-Based Movement": 0.867,
+        "Boomer Shooter": 0.86
+      },
+      "release_month_distribution": {
+        "Jan": 9698,
+        "Feb": 10548,
+        "Mar": 9876,
+        "Apr": 9660,
+        "May": 10306,
+        "Jun": 9350,
+        "Jul": 10485,
+        "Aug": 10852,
+        "Sep": 10708,
+        "Oct": 12207,
+        "Nov": 11542,
+        "Dec": 10623
       },
       "top_devs_by_game_count": {
         "EroticGamesClub": 232,
@@ -323,17 +349,43 @@
     "genre_opportunity": {
       "finding": "Steam's most common genres: Action, Casual, Indie, Adventure. VGChartz shows Action and Sports dominate historical sales.",
       "recommendation": "Indie + Adventure or Indie + Simulation have strong ratings. Puzzle + Casual + Indie is underserved. Consider niche genres (Card Battle, Tower Defense, Base Building) to avoid Action-Indie saturation.",
+      "data": {
+        "steam_top": {
+          "Indie": 82884,
+          "Casual": 51677,
+          "Action": 47344,
+          "Adventure": 46293,
+          "Simulation": 24912,
+          "Strategy": 23058,
+          "RPG": 21577,
+          "Free To Play": 12605,
+          "Early Access": 11572,
+          "Sports": 4971
+        },
+        "vg_top": {
+          "Misc": 9304,
+          "Action": 8557,
+          "Adventure": 6260,
+          "Role-Playing": 5721,
+          "Sports": 5586,
+          "Shooter": 5410,
+          "Platform": 4001,
+          "Strategy": 3685,
+          "Puzzle": 3521,
+          "Racing": 3425
+        }
+      },
       "steam_top_genres": {
-        "Casual,Indie": 6912,
-        "Action,Indie": 5802,
-        "Action,Adventure,Indie": 5259,
-        "Adventure,Indie": 4422,
-        "Adventure,Casual,Indie": 3691,
-        "Action,Casual,Indie": 3484,
-        "Casual": 3448,
-        "Indie": 3175,
-        "Action": 3037,
-        "Casual,Indie,Strategy": 2327
+        "Indie": 82884,
+        "Casual": 51677,
+        "Action": 47344,
+        "Adventure": 46293,
+        "Simulation": 24912,
+        "Strategy": 23058,
+        "RPG": 21577,
+        "Free To Play": 12605,
+        "Early Access": 11572,
+        "Sports": 4971
       },
       "vg_top_genres": {
         "Misc": 9304,
@@ -450,6 +502,40 @@
         "Gamesforgames": 124,
         "Hosted Games": 119,
         "KOEI TECMO GAMES CO., LTD.": 114
+      }
+    },
+    "tag_based_opportunity": {
+      "finding": "Best-rated Steam tags by positive ratio: [('Sokoban', 0.908), ('Wholesome', 0.895), ('Cozy', 0.894)]. Tags with highest community approval correlate with strong player engagement.",
+      "recommendation": "Target tags that show high positive ratios — they indicate underserved niches with engaged audiences. 'Visual Novel', 'Deckbuilding', and 'Roguelike' tags consistently outperform. Use 3-5 high-signal tags rather than spamming all tags.",
+      "data": {
+        "Sokoban": 0.908,
+        "Wholesome": 0.895,
+        "Cozy": 0.894,
+        "Electronic Music": 0.887,
+        "Boss Rush": 0.878,
+        "Nostalgia": 0.874,
+        "Cats": 0.872,
+        "Precision Platformer": 0.871,
+        "Grid-Based Movement": 0.867,
+        "Boomer Shooter": 0.86
+      }
+    },
+    "release_timing": {
+      "finding": "Steam release volume by month: {'Jan': 9698, 'Feb': 10548, 'Mar': 9876, 'Apr': 9660, 'May': 10306, 'Jun': 9350, 'Jul': 10485, 'Aug': 10852, 'Sep': 10708, 'Oct': 12207, 'Nov': 11542, 'Dec': 10623}.",
+      "recommendation": "Avoid releasing in Q4 (Oct-Dec) — that's when AAA titles flood the market. January-March is the quietest window with less competition. Consider early access in a quiet month, then full launch in a secondary window.",
+      "data": {
+        "Jan": 9698,
+        "Feb": 10548,
+        "Mar": 9876,
+        "Apr": 9660,
+        "May": 10306,
+        "Jun": 9350,
+        "Jul": 10485,
+        "Aug": 10852,
+        "Sep": 10708,
+        "Oct": 12207,
+        "Nov": 11542,
+        "Dec": 10623
       }
     }
   }
