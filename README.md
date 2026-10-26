@@ -1,6 +1,6 @@
 # anygame-data
 
-Public data plumbing for [anygame.dev](https://anygame.dev) — the published data layer behind the Steam Engine-Share Index and Minigame Distribution Terms Table.
+Public data plumbing for [anygame.dev](https://anygame.dev) — the published data layer behind the Steam Engine-Share Index, Minigame Distribution Terms Table, and market-gap briefs.
 
 **This repo does NOT deploy.** It holds pipelines, snapshots, and methodology. The anygame.dev SPA (`collectivewinca/anygamedev-ai-hub`) fetches JSON from this repo’s raw GitHub URLs at Vercel build time.
 
@@ -26,10 +26,24 @@ anygame-data/
   panel-results/                Optional anonymized panel aggregates (public)
     panel-results-YYYY-MM.json
 
+  market-gaps/
+    steam-YYYY-MM-DD/           Dated Steam catalog gap brief + gap-engine scripts
+      SOURCES.md
+      gaps-YYYY-MM-DD-full82k.json
+      index.html
+      find_gaps.py
+      find_gaps_chunked.py      Chunked runner if the full embed OOM's
+      # embeddings *.npy omitted from git (too large)
+
   methodology/
     engine-index-methodology.md
     minigame-terms-methodology.md
+    platform-scrape-pipeline.md Scrape → normalize → gap-engine → brief → publish
 ```
+
+## Market gaps
+
+Steam catalog gaps — tag triples where every pair exists and the triple never does — live under `market-gaps/`. Latest live brief: [https://lemon-paddle-m6n3.here.now/](https://lemon-paddle-m6n3.here.now/). Pipeline and top-10 platform roster: `methodology/platform-scrape-pipeline.md`. Embedding `.npy` files are not committed; regenerate with the gap-engine scripts.
 
 ## Stable fetch URLs (SPA contract)
 
@@ -54,7 +68,7 @@ If the SPA fetch fails, it falls back to last-committed JSON in `anygamedev-ai-h
 
 | Repo | Visibility | Role |
 |---|---|---|
-| `collectivewinca/anygame-data` (this) | **Public** | Engine index + minigame terms + public methodology |
+| `collectivewinca/anygame-data` (this) | **Public** | Engine index + minigame terms + market gaps + public methodology |
 | `collectivewinca/anygame-panel` | **Private** | PB schemas, migrations, panel runbooks, recruitment |
 | `collectivewinca/anygamedev-ai-hub` | Private | anygame.dev SPA + Vercel APIs |
 
