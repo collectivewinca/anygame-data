@@ -26,10 +26,22 @@ anygame-data/
   panel-results/                Optional anonymized panel aggregates (public)
     panel-results-YYYY-MM.json
 
+  platforms/
+    app-store.md                Apple App Store inventory (draft; actor planned)
+
   methodology/
     engine-index-methodology.md
     minigame-terms-methodology.md
+    platform-scrape-pipeline.md Scrape → normalize → gap-engine → brief
 ```
+
+## Platform catalogs
+
+Storefront scrape → normalize → gap-engine → brief, method (tag triples + `nnSim` / `bge-small`; **empty ≠ sellable**), and the top-10 roster: [`methodology/platform-scrape-pipeline.md`](methodology/platform-scrape-pipeline.md). Reports and gap-engine tooling belong in this repo.
+
+App Store inventory (public APIs, schema / tag gaps, planned actor `collectivewin/appstore-games-scraper`): [`platforms/app-store.md`](platforms/app-store.md).
+
+Steam 82k gap artifacts live in [PR #2](https://github.com/collectivewinca/anygame-data/pull/2) (`market-gaps/steam-2026-10-25/`) — do not duplicate them here. Live Steam brief: [https://lemon-paddle-m6n3.here.now/](https://lemon-paddle-m6n3.here.now/).
 
 ## Stable fetch URLs (SPA contract)
 
@@ -54,7 +66,7 @@ If the SPA fetch fails, it falls back to last-committed JSON in `anygamedev-ai-h
 
 | Repo | Visibility | Role |
 |---|---|---|
-| `collectivewinca/anygame-data` (this) | **Public** | Engine index + minigame terms + public methodology |
+| `collectivewinca/anygame-data` (this) | **Public** | Engine index + minigame terms + platform catalogs + public methodology |
 | `collectivewinca/anygame-panel` | **Private** | PB schemas, migrations, panel runbooks, recruitment |
 | `collectivewinca/anygamedev-ai-hub` | Private | anygame.dev SPA + Vercel APIs |
 
