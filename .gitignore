@@ -16,3 +16,6 @@
 *.tmp
 .env
 .env.*
+
+# Gap-engine embeddings (too large for git; regenerate with find_gaps.py)
+*.npy
