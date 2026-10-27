@@ -1,6 +1,6 @@
 # Apple App Store — catalog inventory
 
-Status: **draft** (2026-10-26). Nothing has been run. The actor is **planned**, not built.
+Status: **charts-only catalog scraped + tagged** (2026-10-26). Actor `collectivewin/appstore-games-scraper` is built; see [Catalog runs](#catalog-runs-2026-10-26) below. Sections further down are the original inventory notes.
 
 Next storefront after Steam in the scrape → normalize → gap → brief order. See [`methodology/platform-scrape-pipeline.md`](../methodology/platform-scrape-pipeline.md).
 
@@ -89,3 +89,28 @@ Intended phases:
 **Tag derivation stays off-actor** so the scrape run has no embedding / model dependency. Do that in the gap-engine after normalize.
 
 Planned rollout (none of this has started): local dry run (no Apify) on ~500 games → later smoke + larger pulls, only with owner go. No deploy, no here.now, no Apify runs from this notes PR.
+
+## Catalog runs (2026-10-26)
+
+Charts-only (RSS top free / paid / grossing × genres `7001`–`7019`), `expandDevelopers: false`, `delaySecs: 3.5`, 1024 MB, three country batches:
+
+| Countries | Apify run | Dataset | Games |
+|---|---|---|---|
+| US, GB, CA | `H5F2LhiHfhsSkdtnE` | `aNhPtgQvNjT49JV4U` | 4,343 |
+| DE, FR | `Gx3BgNFSJLdGTBZQH` | `sLM9DT5HcB04yRJAK` | 3,750 |
+| JP, AU | `VmmIXZOuTjGFYftxS` | `DNYpt7S5cJGjBuEes` | 4,622 |
+
+The actor dedupes within a run, so a game appears under the first country of its batch only.
+
+### Merge — `tools/app-store/merge.py`
+
+Merges the three batch `games.json` files by `(platform, id)` → **7,224 unique games** (4,372 free / 2,852 paid). Keeps the US/English record when present and adds `countries[]` and `chartHits[]` (`cc/chart/genreId/#rank`). Overlap: 3,859 games in one batch, 1,239 in two, 2,126 in all three. The merged JSON (~23 MB) is not committed; rebuild it from the datasets above.
+
+### Offline tags — `tools/app-store/derive_tags.py` (v0)
+
+`python3 derive_tags.py games.json games.tagged.json` fills `tags[]` / `tagVotes{}` in the Steam record shape:
+
+- chart `genreId` → English genre (weight 2), plus English `genres[]` strings
+- regex keyword tags (about 40; English plus some DE/FR/JP terms) over title / about / description
+
+Coverage on the 7,224-game merge: 100% of games have ≥1 tag (the chart genre is always present), 87.7% have ≥1 keyword tag, and games average 3.44 tags. This is a v0 keyword tagger, **not** the embedding-to-Steam-vocabulary approach planned above. Broad keyword matches (e.g. Story Rich, Educational, Offline) are noisy, and non-English descriptions get fewer keyword tags.

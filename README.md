@@ -27,7 +27,10 @@ anygame-data/
     panel-results-YYYY-MM.json
 
   platforms/
-    app-store.md                Apple App Store inventory (draft; actor planned)
+    app-store.md                Apple App Store inventory, runs, merge + tag notes
+
+  tools/
+    app-store/                  merge.py (batch merge) + derive_tags.py (offline tags v0)
 
   methodology/
     engine-index-methodology.md
@@ -39,7 +42,7 @@ anygame-data/
 
 Storefront scrape → normalize → gap-engine → brief, method (tag triples + `nnSim` / `bge-small`; **empty ≠ sellable**), and the top-10 roster: [`methodology/platform-scrape-pipeline.md`](methodology/platform-scrape-pipeline.md). Reports and gap-engine tooling belong in this repo.
 
-App Store inventory (public APIs, schema / tag gaps, planned actor `collectivewin/appstore-games-scraper`): [`platforms/app-store.md`](platforms/app-store.md).
+App Store inventory, 7-country charts-only runs, and the merge + offline tag step (`tools/app-store/`): [`platforms/app-store.md`](platforms/app-store.md).
 
 Steam 82k gap artifacts live in [PR #2](https://github.com/collectivewinca/anygame-data/pull/2) (`market-gaps/steam-2026-10-25/`) — do not duplicate them here. Live Steam brief: [https://lemon-paddle-m6n3.here.now/](https://lemon-paddle-m6n3.here.now/).
 
