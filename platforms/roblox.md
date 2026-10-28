@@ -1,6 +1,6 @@
 # Roblox (experiences)
 
-Scraped 2026-10-28 (ET) via `collectivewin/roblox-experiences-scraper` (Apify id [`tw3gPMN3uWG0c3ray`](https://console.apify.com/actors/tw3gPMN3uWG0c3ray), build 0.1.1).
+Scraped 2026-10-28 (ET) via `collectivewin/roblox-experiences-scraper ([aar#56](https://github.com/collectivewinca/apify-actor-replacements/pull/56))` (Apify id [`tw3gPMN3uWG0c3ray`](https://console.apify.com/actors/tw3gPMN3uWG0c3ray), build 0.1.1).
 
 ## Source
 Discovery: `apis.roblox.com/explore-api/v1/get-sorts` (locations all/us/gb/br/de/jp/ph/mx, 15 sort pages each) + `apis.roblox.com/search-api/omni-search` (140 keywords x up to 5 pages of 40). Detail: `games.roblox.com/v1/games` (50 universeIds/call). Schema: `platform: roblox`, `type: experience`, `id` = universeId, `placeId` = root place. Price = Robux paid access only (null = free to join); game passes/dev products are not price.
