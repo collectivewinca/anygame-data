@@ -30,10 +30,13 @@ anygame-data/
     app-store.md                Apple App Store inventory, runs, merge + tag notes
     google-play.md              Google Play runs, merge, tags, gaps (draft)
     google-play-gaps-2026-10-28.md  Ranked Google Play gap triples
+    playstation.md              PlayStation Store runs, merge, tags, gaps (draft)
+    playstation-gaps-2026-10-28.md  Ranked PlayStation gap triples
 
   tools/
     app-store/                  merge.py (batch merge) + derive_tags.py (offline tags v0)
     google-play/                merge.py + derive_tags.py (playChips first) + find_gaps.py
+    playstation/                merge.py + derive_tags.py (Sony genres + keywords) + find_gaps.py
 
   methodology/
     engine-index-methodology.md
@@ -48,6 +51,8 @@ Storefront scrape → normalize → gap-engine → brief, method (tag triples + 
 App Store inventory, 7-country charts-only runs, and the merge + offline tag step (`tools/app-store/`): [`platforms/app-store.md`](platforms/app-store.md).
 
 Google Play 7-country category runs, merge, playChips tags and gaps (`tools/google-play/`): [`platforms/google-play.md`](platforms/google-play.md).
+
+PlayStation Store 7-storefront GraphQL runs, merge, tags and gaps (`tools/playstation/`): [`platforms/playstation.md`](platforms/playstation.md).
 
 Steam 82k gap artifacts live in [PR #2](https://github.com/collectivewinca/anygame-data/pull/2) (`market-gaps/steam-2026-10-25/`) — do not duplicate them here. Live Steam brief: [https://lemon-paddle-m6n3.here.now/](https://lemon-paddle-m6n3.here.now/).
 
