@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-28 — Roblox experiences
+
+Actor `collectivewin/roblox-experiences-scraper` (`tw3gPMN3uWG0c3ray`). 11,050 experiences (charts + search sample). Tools `tools/roblox/`, notes `platforms/roblox.md`, gaps `platforms/roblox-gaps-2026-10-28.md`. Draft brief: https://quiet-falcon-9yw7.here.now/
+
 ## Unreleased
 - Epic Games Store: added `tools/epic/` (`merge.py`, `fix_free.py` pre-release $0 guard, `derive_tags.py`, `find_gaps.py`), `platforms/epic.md` (5 runs, about $0.06, 7,233 unique games) and `platforms/epic-gaps-2026-10-28.md` (19 gaps). Brief: https://keen-petal-4z6b.here.now/.
 - Nintendo eShop: added `tools/nintendo/` (`merge.py` with cross-region title merge, `derive_tags.py`, `find_gaps.py`), `platforms/nintendo.md` (5 runs, about $0.33, 31,151 unique games) and `platforms/nintendo-gaps-2026-10-28.md` (16 gaps). Brief: https://yearly-warden-5688.here.now/.

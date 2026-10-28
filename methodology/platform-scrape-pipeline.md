@@ -36,7 +36,7 @@ Steam 2026-10-25 run (done): dataset [`CE2Yt6rGh8fmQ4Amv`](https://console.apify
 | 7 | Epic Games Store | Planned |
 | 8 | GOG | Planned |
 | 9 | itch.io | Planned |
-| 10 | Roblox (experiences) | Planned |
+| 10 | Roblox (experiences) | Done 2026-10-28 — actor `collectivewin/roblox-experiences-scraper` (`tw3gPMN3uWG0c3ray`); brief https://quiet-falcon-9yw7.here.now/ |
 
 **Skip keyshops** (Eneba, GAMIVO, Kinguin, and similar) for v1. Optional later: Meta Horizon, WeGame / TapTap, Humble.
 
