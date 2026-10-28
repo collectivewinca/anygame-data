@@ -9,7 +9,7 @@ Steam 82k gap artifacts (2026-10-25) are already in [PR #2](https://github.com/c
 Never skip scrape. Never treat an empty region as a shippable product.
 
 1. **Scrape** the platform catalog (first-party public APIs where they exist; otherwise an Apify actor).
-2. **Normalize** to platform-agnostic game records (shared keys across storefronts).
+2. **Normalize** to platform-agnostic game records (shared keys across storefronts). Storefronts without user tags (App Store) get tags derived offline here, e.g. `tools/app-store/derive_tags.py`.
 3. **Gap-engine** — tag/genre triples; use the chunked runner if the full embed OOMs.
 4. **Brief** — developer-facing write-up with nearest real games as novelty evidence.
 5. **Publish artifacts here** under `market-gaps/<platform>-YYYY-MM-DD/`. Live web briefs (here.now / anygame.dev) are out of band and need owner go.
@@ -28,7 +28,7 @@ Steam 2026-10-25 run (done): dataset [`CE2Yt6rGh8fmQ4Amv`](https://console.apify
 | # | Platform | Status |
 |---|----------|--------|
 | 1 | Steam | **Done** — dataset `CE2Yt6rGh8fmQ4Amv`; brief https://lemon-paddle-m6n3.here.now/; artifacts in [PR #2](https://github.com/collectivewinca/anygame-data/pull/2) `market-gaps/steam-2026-10-25/` |
-| 2 | Apple App Store | **Next** — inventory + planned actor; see [`platforms/app-store.md`](../platforms/app-store.md) |
+| 2 | Apple App Store | **In progress** — 7-country charts-only catalog scraped (datasets `aNhPtgQvNjT49JV4U`, `sLM9DT5HcB04yRJAK`, `DNYpt7S5cJGjBuEes`), merged (7,224 games) and tagged (v0); see [`platforms/app-store.md`](../platforms/app-store.md) |
 | 3 | Google Play | Planned |
 | 4 | PlayStation Store | Planned |
 | 5 | Xbox / Microsoft Store | Planned |
