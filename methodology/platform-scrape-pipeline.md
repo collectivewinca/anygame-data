@@ -1,4 +1,4 @@
-| 8 | GOG | Done 2026-10-28 — actor `collectivewin/gog-games-scraper` (`5WeGrFRbrMQGPkgwg`); brief https://zingy-birch-r95j.here.now/ |
+| 8 | GOG | Done 2026-10-28 — actor `collectivewin/gog-games-scraper` (`5WeGrFRbrMQGPkgwg`); brief https://cosmic-vision-3ac3.here.now/ |
 
 Status: draft. **Reports, gap-engine scripts, and methodology live in this repo.** Actors live in [`collectivewinca/apify-actor-replacements`](https://github.com/collectivewinca/apify-actor-replacements). This repo does not deploy.
 
@@ -34,7 +34,7 @@ Steam 2026-10-25 run (done): dataset [`CE2Yt6rGh8fmQ4Amv`](https://console.apify
 | 5 | Xbox / Microsoft Store | Planned |
 | 6 | Nintendo eShop | Planned |
 | 7 | Epic Games Store | Planned |
-| 8 | GOG | Done 2026-10-28 — see platforms/gog.md; brief https://zingy-birch-r95j.here.now/ |
+| 8 | GOG | Done 2026-10-28 — see platforms/gog.md; brief https://cosmic-vision-3ac3.here.now/ |
 | 9 | itch.io | Planned |
 | 10 | Roblox (experiences) | Planned |
 

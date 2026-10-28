@@ -4,7 +4,7 @@
 
 ### NEW: GOG catalog + gaps + idea brief
 
-Alet greenlit ("we have Gog… + run this version too"). Actor `collectivewin/gog-games-scraper` ([apify-actor-replacements#54](https://github.com/collectivewinca/apify-actor-replacements/pull/54), Apify id `5WeGrFRbrMQGPkgwg`). 6,572 unique games across US/GB/CA/DE/FR/JP/AU. Tools under [`tools/gog/`](./tools/gog). Platform notes [`platforms/gog.md`](./platforms/gog.md), gaps [`platforms/gog-gaps-2026-10-28.md`](./platforms/gog-gaps-2026-10-28.md). Draft brief: https://zingy-birch-r95j.here.now/
+Alet greenlit ("we have Gog… + run this version too"). Actor `collectivewin/gog-games-scraper` ([apify-actor-replacements#54](https://github.com/collectivewinca/apify-actor-replacements/pull/54), Apify id `5WeGrFRbrMQGPkgwg`). 6,572 unique games across US/GB/CA/DE/FR/JP/AU. Tools under [`tools/gog/`](./tools/gog). Platform notes [`platforms/gog.md`](./platforms/gog.md), gaps [`platforms/gog-gaps-2026-10-28.md`](./platforms/gog-gaps-2026-10-28.md). Draft brief: https://cosmic-vision-3ac3.here.now/
 
 ## Unreleased
 - Epic Games Store: added `tools/epic/` (`merge.py`, `fix_free.py` pre-release $0 guard, `derive_tags.py`, `find_gaps.py`), `platforms/epic.md` (5 runs, about $0.06, 7,233 unique games) and `platforms/epic-gaps-2026-10-28.md` (19 gaps). Brief: https://keen-petal-4z6b.here.now/.

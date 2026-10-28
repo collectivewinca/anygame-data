@@ -19,6 +19,6 @@ Merged unique: **6,572** (435 free / 5,832 paid / 305 unknown). Price = list `ba
 ## Tags / gaps / brief
 - Offline `tools/gog/derive_tags.py` — 100% ≥1 tag, avg 12.1 (GOG catalog tags + genres + title keywords).
 - Gap engine `tools/gog/find_gaps.py` (bge-small-en-v1.5): 3,114 candidates → 40 ranked gaps; baseline nnSim p5 0.873.
-- Idea brief (draft): https://zingy-birch-r95j.here.now/
+- Idea brief (draft): https://cosmic-vision-3ac3.here.now/
 
 Actor PR: [apify-actor-replacements#54](https://github.com/collectivewinca/apify-actor-replacements/pull/54).
