@@ -36,6 +36,8 @@ anygame-data/
     xbox-gaps-2026-10-28.md     Ranked Xbox gap triples
     nintendo.md                 Nintendo eShop runs, merge, tags, gaps (draft)
     nintendo-gaps-2026-10-28.md Ranked Nintendo gap triples
+    epic.md                     Epic Games Store runs, merge, tags, gaps (draft)
+    epic-gaps-2026-10-28.md     Ranked Epic gap triples
 
   tools/
     app-store/                  merge.py (batch merge) + derive_tags.py (offline tags v0)

@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Epic Games Store: added `tools/epic/` (`merge.py`, `fix_free.py` pre-release $0 guard, `derive_tags.py`, `find_gaps.py`), `platforms/epic.md` (5 runs, about $0.06, 7,233 unique games) and `platforms/epic-gaps-2026-10-28.md` (19 gaps). Brief: https://keen-petal-4z6b.here.now/.
 - Nintendo eShop: added `tools/nintendo/` (`merge.py` with cross-region title merge, `derive_tags.py`, `find_gaps.py`), `platforms/nintendo.md` (5 runs, about $0.33, 31,151 unique games) and `platforms/nintendo-gaps-2026-10-28.md` (16 gaps). Brief: https://yearly-warden-5688.here.now/.
 - Xbox / Microsoft Store: added `tools/xbox/` (`merge.py`, `fix_free.py` Game Pass guard, `derive_tags.py`, `find_gaps.py`), `platforms/xbox.md` (5 runs/datasets, ~$0.23, 17,785 unique games) and `platforms/xbox-gaps-2026-10-28.md` (21 gaps); brief https://jolly-yarrow-t2xf.here.now/.
 - PlayStation Store: added `tools/playstation/` (`merge.py` with countries, `derive_tags.py`, `find_gaps.py`), `platforms/playstation.md` (6 runs/datasets, ~$0.39, 13,511 unique games) and `platforms/playstation-gaps-2026-10-28.md` (21 gaps); brief https://stormy-willow-g6jc.here.now/.
