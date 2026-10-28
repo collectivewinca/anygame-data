@@ -1,6 +1,6 @@
 """fix_free.py — apply the 0.1.2 Game Pass false-free guard (resolve_free) to records scraped with build 0.1.1 (US run)."""
 import json,sys
-sys.path.insert(0,'/workspace/xbox-actor/xbox-games-scraper')
+sys.path.insert(0,'xbox-games-scraper')  # run from an apify-actor-replacements checkout; resolve_free is in src/catalog.py
 from src.catalog import resolve_free
 for f in sys.argv[1:]:
     d=json.load(open(f));n=0
