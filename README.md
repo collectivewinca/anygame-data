@@ -34,12 +34,15 @@ anygame-data/
     playstation-gaps-2026-10-28.md  Ranked PlayStation gap triples
     xbox.md                     Xbox / Microsoft Store runs, merge, tags, gaps (draft)
     xbox-gaps-2026-10-28.md     Ranked Xbox gap triples
+    nintendo.md                 Nintendo eShop runs, merge, tags, gaps (draft)
+    nintendo-gaps-2026-10-28.md Ranked Nintendo gap triples
 
   tools/
     app-store/                  merge.py (batch merge) + derive_tags.py (offline tags v0)
     google-play/                merge.py + derive_tags.py (playChips first) + find_gaps.py
     playstation/                merge.py + derive_tags.py (Sony genres + keywords) + find_gaps.py
     xbox/                       merge.py + fix_free.py + derive_tags.py (Xbox categories + keywords) + find_gaps.py
+    nintendo/                   merge.py (nsuid + title) + derive_tags.py (genres/features + keywords) + find_gaps.py
 
   methodology/
     engine-index-methodology.md
@@ -58,6 +61,8 @@ Google Play 7-country category runs, merge, playChips tags and gaps (`tools/goog
 PlayStation Store 7-storefront GraphQL runs, merge, tags and gaps (`tools/playstation/`): [`platforms/playstation.md`](platforms/playstation.md).
 
 Xbox / Microsoft Store 7-storefront browse-API runs, merge, tags and gaps (`tools/xbox/`): [`platforms/xbox.md`](platforms/xbox.md).
+
+Nintendo eShop 6-storefront runs (US/CA Algolia, GB/DE/FR NoE, JP), merge, tags and gaps (`tools/nintendo/`): [`platforms/nintendo.md`](platforms/nintendo.md).
 
 Steam 82k gap artifacts live in [PR #2](https://github.com/collectivewinca/anygame-data/pull/2) (`market-gaps/steam-2026-10-25/`) — do not duplicate them here. Live Steam brief: [https://lemon-paddle-m6n3.here.now/](https://lemon-paddle-m6n3.here.now/).
 
