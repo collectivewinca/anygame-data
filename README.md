@@ -66,6 +66,8 @@ Xbox / Microsoft Store 7-storefront browse-API runs, merge, tags and gaps (`tool
 
 Nintendo eShop 6-storefront runs (US/CA Algolia, GB/DE/FR NoE, JP), merge, tags and gaps (`tools/nintendo/`): [`platforms/nintendo.md`](platforms/nintendo.md).
 
+GOG 7-storefront catalog API runs, merge, tags and gaps (`tools/gog/`): [`platforms/gog.md`](platforms/gog.md). Brief: https://zingy-birch-r95j.here.now/.
+
 Steam 82k gap artifacts live in [PR #2](https://github.com/collectivewinca/anygame-data/pull/2) (`market-gaps/steam-2026-10-25/`) — do not duplicate them here. Live Steam brief: [https://lemon-paddle-m6n3.here.now/](https://lemon-paddle-m6n3.here.now/).
 
 ## Stable fetch URLs (SPA contract)
