@@ -38,6 +38,12 @@ anygame-data/
     nintendo-gaps-2026-10-28.md Ranked Nintendo gap triples
     epic.md                     Epic Games Store runs, merge, tags, gaps (draft)
     epic-gaps-2026-10-28.md     Ranked Epic gap triples
+    gog.md                      GOG runs, merge, tags, gaps (draft)
+    gog-gaps-2026-10-28.md      Ranked GOG gap triples
+    itch.md                     itch.io runs, tags, gaps (draft)
+    itch-gaps-2026-10-28.md     Ranked itch.io gap triples
+    roblox.md                   Roblox experiences runs, tags, gaps (draft; partial catalog)
+    roblox-gaps-2026-10-28.md   Ranked Roblox gap triples
 
   tools/
     app-store/                  merge.py (batch merge) + derive_tags.py (offline tags v0)
@@ -45,6 +51,10 @@ anygame-data/
     playstation/                merge.py + derive_tags.py (Sony genres + keywords) + find_gaps.py
     xbox/                       merge.py + fix_free.py + derive_tags.py (Xbox categories + keywords) + find_gaps.py
     nintendo/                   merge.py (nsuid + title) + derive_tags.py (genres/features + keywords) + find_gaps.py
+    epic/                       merge.py + fix_free.py + derive_tags.py + find_gaps.py
+    gog/                        merge.py + derive_tags.py + find_gaps.py
+    itch/                       derive_tags.py + find_gaps.py
+    roblox/                     derive_tags.py + find_gaps.py
 
   methodology/
     engine-index-methodology.md
@@ -56,17 +66,23 @@ anygame-data/
 
 Storefront scrape → normalize → gap-engine → brief, method (tag triples + `nnSim` / `bge-small`; **empty ≠ sellable**), and the top-10 roster: [`methodology/platform-scrape-pipeline.md`](methodology/platform-scrape-pipeline.md). Reports and gap-engine tooling belong in this repo.
 
-App Store inventory, 7-country charts-only runs, and the merge + offline tag step (`tools/app-store/`): [`platforms/app-store.md`](platforms/app-store.md).
+App Store inventory, 7-country charts-only runs, and the merge + offline tag step (`tools/app-store/`): [`platforms/app-store.md`](platforms/app-store.md). Brief: https://mineral-salmon-ytt2.here.now/.
 
-Google Play 7-country category runs, merge, playChips tags and gaps (`tools/google-play/`): [`platforms/google-play.md`](platforms/google-play.md).
+Google Play 7-country category runs, merge, playChips tags and gaps (`tools/google-play/`): [`platforms/google-play.md`](platforms/google-play.md). Brief: https://dusky-sierra-jz6b.here.now/.
 
-PlayStation Store 7-storefront GraphQL runs, merge, tags and gaps (`tools/playstation/`): [`platforms/playstation.md`](platforms/playstation.md).
+PlayStation Store 7-storefront GraphQL runs, merge, tags and gaps (`tools/playstation/`): [`platforms/playstation.md`](platforms/playstation.md). Brief: https://stormy-willow-g6jc.here.now/.
 
-Xbox / Microsoft Store 7-storefront browse-API runs, merge, tags and gaps (`tools/xbox/`): [`platforms/xbox.md`](platforms/xbox.md).
+Xbox / Microsoft Store 7-storefront browse-API runs, merge, tags and gaps (`tools/xbox/`): [`platforms/xbox.md`](platforms/xbox.md). Brief: https://jolly-yarrow-t2xf.here.now/.
 
-Nintendo eShop 6-storefront runs (US/CA Algolia, GB/DE/FR NoE, JP), merge, tags and gaps (`tools/nintendo/`): [`platforms/nintendo.md`](platforms/nintendo.md).
+Nintendo eShop 6-storefront runs (US/CA Algolia, GB/DE/FR NoE, JP), merge, tags and gaps (`tools/nintendo/`): [`platforms/nintendo.md`](platforms/nintendo.md). Brief: https://yearly-warden-5688.here.now/.
 
 GOG 7-storefront catalog API runs, merge, tags and gaps (`tools/gog/`): [`platforms/gog.md`](platforms/gog.md). Brief: https://cosmic-vision-3ac3.here.now/.
+
+Epic Games Store 5-run catalog, merge, `fix_free.py` pre-release $0 guard, tags and gaps (`tools/epic/`): [`platforms/epic.md`](platforms/epic.md). Brief: https://dusky-wisdom-zc6g.here.now/.
+
+itch.io top-rated tag-feed sample (30,287 games), tags and gaps (`tools/itch/`): [`platforms/itch.md`](platforms/itch.md). Brief: https://mystic-aurora-q32t.here.now/.
+
+Roblox experiences (charts + search sample, 11,050 experiences; partial), tags and gaps (`tools/roblox/`): [`platforms/roblox.md`](platforms/roblox.md). Brief: https://quiet-falcon-9yw7.here.now/.
 
 Steam 82k gap artifacts live in [PR #2](https://github.com/collectivewinca/anygame-data/pull/2) (`market-gaps/steam-2026-10-25/`) — do not duplicate them here. Live Steam brief: [https://lemon-paddle-m6n3.here.now/](https://lemon-paddle-m6n3.here.now/).
 
