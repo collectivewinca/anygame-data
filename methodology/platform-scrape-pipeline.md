@@ -1,4 +1,4 @@
-| 8 | GOG | Done 2026-10-28 — actor `collectivewin/gog-games-scraper` (`5WeGrFRbrMQGPkgwg`); brief https://cosmic-vision-3ac3.here.now/ |
+# Platform scrape → normalize → gap → brief
 
 Status: draft. **Reports, gap-engine scripts, and methodology live in this repo.** Actors live in [`collectivewinca/apify-actor-replacements`](https://github.com/collectivewinca/apify-actor-replacements). This repo does not deploy.
 
@@ -28,15 +28,15 @@ Steam 2026-10-25 run (done): dataset [`CE2Yt6rGh8fmQ4Amv`](https://console.apify
 | # | Platform | Status |
 |---|----------|--------|
 | 1 | Steam | **Done** — dataset `CE2Yt6rGh8fmQ4Amv`; brief https://lemon-paddle-m6n3.here.now/; artifacts in [PR #2](https://github.com/collectivewinca/anygame-data/pull/2) `market-gaps/steam-2026-10-25/` |
-| 2 | Apple App Store | **In progress** — 7-country charts-only catalog scraped (datasets `aNhPtgQvNjT49JV4U`, `sLM9DT5HcB04yRJAK`, `DNYpt7S5cJGjBuEes`), merged (7,224 games) and tagged (v0); see [`platforms/app-store.md`](../platforms/app-store.md) |
-| 3 | Google Play | Planned |
-| 4 | PlayStation Store | Planned |
-| 5 | Xbox / Microsoft Store | Planned |
-| 6 | Nintendo eShop | Planned |
-| 7 | Epic Games Store | Planned |
-| 8 | GOG | Done 2026-10-28 — see platforms/gog.md; brief https://cosmic-vision-3ac3.here.now/ |
-| 9 | itch.io | Done 2026-10-28 — actor `collectivewin/itch-games-scraper` (`l7yIXTWjTL5hNJlzs`); brief https://mystic-aurora-q32t.here.now/ |
-| 10 | Roblox (experiences) | Done 2026-10-28 — actor `collectivewin/roblox-experiences-scraper ([aar#56](https://github.com/collectivewinca/apify-actor-replacements/pull/56))` (`tw3gPMN3uWG0c3ray`); brief https://quiet-falcon-9yw7.here.now/ |
+| 2 | Apple App Store | **Done** — actor `collectivewin/appstore-games-scraper`; 7-country charts-only catalog (datasets `aNhPtgQvNjT49JV4U`, `sLM9DT5HcB04yRJAK`, `DNYpt7S5cJGjBuEes`), 7,224 merged games, v0 tags; [`platforms/app-store.md`](../platforms/app-store.md); brief https://mineral-salmon-ytt2.here.now/ |
+| 3 | Google Play | **Done** 2026-10-28 — actor `collectivewin/googleplay-games-scraper` (`cIvzURzdWXoYbrd5G`); [`platforms/google-play.md`](../platforms/google-play.md); brief https://dusky-sierra-jz6b.here.now/ |
+| 4 | PlayStation Store | **Done** 2026-10-28 — actor `collectivewin/playstation-games-scraper` (`12Db4YeqNAtk9ovjQ`); [`platforms/playstation.md`](../platforms/playstation.md); brief https://stormy-willow-g6jc.here.now/ |
+| 5 | Xbox / Microsoft Store | **Done** 2026-10-28 — actor `collectivewin/xbox-games-scraper` (`eDY2c3sG4cwh99q0F`); [`platforms/xbox.md`](../platforms/xbox.md); brief https://jolly-yarrow-t2xf.here.now/ |
+| 6 | Nintendo eShop | **Done** 2026-10-28 — actor `collectivewin/nintendo-eshop-games-scraper` (`7evW6TQxMrCdeWqR5`); [`platforms/nintendo.md`](../platforms/nintendo.md); brief https://yearly-warden-5688.here.now/ |
+| 7 | Epic Games Store | **Done** 2026-10-28 — actor `collectivewin/epic-games-store-scraper` (`bMVnZ5K6cwjYFxuuQ`); [`platforms/epic.md`](../platforms/epic.md); brief https://dusky-wisdom-zc6g.here.now/ |
+| 8 | GOG | **Done** 2026-10-28 — actor `collectivewin/gog-games-scraper` (`5WeGrFRbrMQGPkgwg`); [`platforms/gog.md`](../platforms/gog.md); brief https://cosmic-vision-3ac3.here.now/ |
+| 9 | itch.io | **Done** 2026-10-28 — actor `collectivewin/itch-games-scraper` (`l7yIXTWjTL5hNJlzs`); [`platforms/itch.md`](../platforms/itch.md); brief https://mystic-aurora-q32t.here.now/ |
+| 10 | Roblox (experiences) | **Done** 2026-10-28 (partial: 11,050 experiences; full run aborted on 429s) — actor `collectivewin/roblox-experiences-scraper` ([aar#56](https://github.com/collectivewinca/apify-actor-replacements/pull/56), `tw3gPMN3uWG0c3ray`); [`platforms/roblox.md`](../platforms/roblox.md); brief https://quiet-falcon-9yw7.here.now/ |
 
 **Skip keyshops** (Eneba, GAMIVO, Kinguin, and similar) for v1. Optional later: Meta Horizon, WeGame / TapTap, Humble.
 
