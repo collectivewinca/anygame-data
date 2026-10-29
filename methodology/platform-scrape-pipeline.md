@@ -1,4 +1,4 @@
-# Platform scrape → normalize → gap → brief
+| 8 | GOG | Done 2026-10-28 — actor `collectivewin/gog-games-scraper` (`5WeGrFRbrMQGPkgwg`); brief https://cosmic-vision-3ac3.here.now/ |
 
 Status: draft. **Reports, gap-engine scripts, and methodology live in this repo.** Actors live in [`collectivewinca/apify-actor-replacements`](https://github.com/collectivewinca/apify-actor-replacements). This repo does not deploy.
 
@@ -34,8 +34,8 @@ Steam 2026-10-25 run (done): dataset [`CE2Yt6rGh8fmQ4Amv`](https://console.apify
 | 5 | Xbox / Microsoft Store | Planned |
 | 6 | Nintendo eShop | Planned |
 | 7 | Epic Games Store | Planned |
-| 8 | GOG | Planned |
-| 9 | itch.io | Planned |
+| 8 | GOG | Done 2026-10-28 — see platforms/gog.md; brief https://cosmic-vision-3ac3.here.now/ |
+| 9 | itch.io | Done 2026-10-28 — actor `collectivewin/itch-games-scraper` (`l7yIXTWjTL5hNJlzs`); brief https://mystic-aurora-q32t.here.now/ |
 | 10 | Roblox (experiences) | Done 2026-10-28 — actor `collectivewin/roblox-experiences-scraper ([aar#56](https://github.com/collectivewinca/apify-actor-replacements/pull/56))` (`tw3gPMN3uWG0c3ray`); brief https://quiet-falcon-9yw7.here.now/ |
 
 **Skip keyshops** (Eneba, GAMIVO, Kinguin, and similar) for v1. Optional later: Meta Horizon, WeGame / TapTap, Humble.
