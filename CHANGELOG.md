@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-28
+
+### NEW: GOG catalog + gaps + idea brief
+
+Alet greenlit ("we have Gog… + run this version too"). Actor `collectivewin/gog-games-scraper` ([apify-actor-replacements#54](https://github.com/collectivewinca/apify-actor-replacements/pull/54), Apify id `5WeGrFRbrMQGPkgwg`). 6,572 unique games across US/GB/CA/DE/FR/JP/AU. Tools under [`tools/gog/`](./tools/gog). Platform notes [`platforms/gog.md`](./platforms/gog.md), gaps [`platforms/gog-gaps-2026-10-28.md`](./platforms/gog-gaps-2026-10-28.md). Draft brief: https://cosmic-vision-3ac3.here.now/
+
 ## 2026-10-28 — itch.io
 
 Actor `collectivewin/itch-games-scraper` ([apify-actor-replacements#55](https://github.com/collectivewinca/apify-actor-replacements/pull/55), `l7yIXTWjTL5hNJlzs`). 30,287 unique games (top-rated sample of 110 tag feeds). Tools `tools/itch/`, notes `platforms/itch.md`, gaps `platforms/itch-gaps-2026-10-28.md`. Draft brief: https://mystic-aurora-q32t.here.now/
