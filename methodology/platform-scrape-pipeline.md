@@ -35,7 +35,7 @@ Steam 2026-10-25 run (done): dataset [`CE2Yt6rGh8fmQ4Amv`](https://console.apify
 | 6 | Nintendo eShop | Planned |
 | 7 | Epic Games Store | Planned |
 | 8 | GOG | Done 2026-10-28 — see platforms/gog.md; brief https://cosmic-vision-3ac3.here.now/ |
-| 9 | itch.io | Planned |
+| 9 | itch.io | Done 2026-10-28 — actor `collectivewin/itch-games-scraper` (`l7yIXTWjTL5hNJlzs`); brief https://mystic-aurora-q32t.here.now/ |
 | 10 | Roblox (experiences) | Planned |
 
 **Skip keyshops** (Eneba, GAMIVO, Kinguin, and similar) for v1. Optional later: Meta Horizon, WeGame / TapTap, Humble.
