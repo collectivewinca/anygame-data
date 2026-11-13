@@ -1,0 +1,2028 @@
+{
+ "games": 82441,
+ "candidates": 4913,
+ "baselineNnSimP5": 0.8324466347694397,
+ "gaps": [
+  {
+   "tags": [
+    "Beautiful",
+    "Crafting",
+    "Western"
+   ],
+   "nnSim": 0.7123860716819763,
+   "pairCounts": {
+    "Beautiful+Crafting": 3,
+    "Beautiful+Western": 2,
+    "Crafting+Western": 9
+   },
+   "nearest": [
+    {
+     "title": "Tristia:restore",
+     "url": "https://store.steampowered.com/app/2244150/",
+     "sim": 0.7123860716819763,
+     "tags": [
+      "Action",
+      "Casual",
+      "3D",
+      "Cute",
+      "Anime",
+      "Colorful"
+     ]
+    },
+    {
+     "title": "Hidden Shapes Old West - Jigsaw Puzzle Game",
+     "url": "https://store.steampowered.com/app/1653870/",
+     "sim": 0.7024665474891663,
+     "tags": [
+      "Casual",
+      "Western",
+      "Puzzle",
+      "Relaxing",
+      "Tabletop",
+      "Minimalist"
+     ]
+    },
+    {
+     "title": "Ah, Love!",
+     "url": "https://store.steampowered.com/app/937390/",
+     "sim": 0.6997114419937134,
+     "tags": [
+      "Indie",
+      "Casual",
+      "Puzzle",
+      "Relaxing",
+      "Free to Play"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Comedy",
+    "Science",
+    "Wholesome"
+   ],
+   "nnSim": 0.7247868776321411,
+   "pairCounts": {
+    "Comedy+Science": 9,
+    "Comedy+Wholesome": 11,
+    "Science+Wholesome": 2
+   },
+   "nearest": [
+    {
+     "title": "\u9ec4\u8272\u732b\u7247",
+     "url": "https://store.steampowered.com/app/3452790/",
+     "sim": 0.7247868776321411,
+     "tags": [
+      "Abstract",
+      "Comedy",
+      "Transhumanism",
+      "Cartoon",
+      "Cute",
+      "Casual"
+     ]
+    },
+    {
+     "title": "Seal World",
+     "url": "https://store.steampowered.com/app/1684410/",
+     "sim": 0.7166807651519775,
+     "tags": [
+      "Comedy",
+      "Cute",
+      "Funny",
+      "Exploration",
+      "Wholesome",
+      "Story Rich"
+     ]
+    },
+    {
+     "title": "ZooSim",
+     "url": "https://store.steampowered.com/app/1482790/",
+     "sim": 0.7093408703804016,
+     "tags": [
+      "Surreal",
+      "Funny",
+      "Story Rich",
+      "Conversation",
+      "Comedy",
+      "Colorful"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "1980s",
+    "Cooking",
+    "Demons"
+   ],
+   "nnSim": 0.7252781987190247,
+   "pairCounts": {
+    "1980s+Cooking": 6,
+    "1980s+Demons": 10,
+    "Cooking+Demons": 4
+   },
+   "nearest": [
+    {
+     "title": "COG Back To The 80s",
+     "url": "https://store.steampowered.com/app/1893150/",
+     "sim": 0.7252781987190247,
+     "tags": [
+      "Action",
+      "Shooter",
+      "FPS",
+      "3D",
+      "1980s",
+      "Dynamic Narration"
+     ]
+    },
+    {
+     "title": "Spacky's Nightshift",
+     "url": "https://store.steampowered.com/app/1254630/",
+     "sim": 0.7211031913757324,
+     "tags": [
+      "Indie",
+      "Horror",
+      "Arcade",
+      "Survival Horror",
+      "Atmospheric"
+     ]
+    },
+    {
+     "title": "Near Midnight",
+     "url": "https://store.steampowered.com/app/522590/",
+     "sim": 0.7122344970703125,
+     "tags": [
+      "Indie",
+      "Horror"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "4X",
+    "Crime",
+    "Funny"
+   ],
+   "nnSim": 0.727451503276825,
+   "pairCounts": {
+    "4X+Crime": 2,
+    "4X+Funny": 3,
+    "Crime+Funny": 47
+   },
+   "nearest": [
+    {
+     "title": "Magnet Jack & Roxanne",
+     "url": "https://store.steampowered.com/app/1491800/",
+     "sim": 0.727451503276825,
+     "tags": [
+      "Memes",
+      "Singleplayer",
+      "Pixel Graphics",
+      "Retro",
+      "Funny",
+      "1990's"
+     ]
+    },
+    {
+     "title": "Dark Tales: Edgar Allan Poe's The Masque of the Red Death Collector's Edition",
+     "url": "https://store.steampowered.com/app/514720/",
+     "sim": 0.7264010906219482,
+     "tags": [
+      "Adventure",
+      "Casual",
+      "Hidden Object"
+     ]
+    },
+    {
+     "title": "Hidden Clues: Gang Wars",
+     "url": "https://store.steampowered.com/app/2746400/",
+     "sim": 0.7200473546981812,
+     "tags": [
+      "Casual",
+      "Puzzle",
+      "2D",
+      "Linear",
+      "Crime",
+      "Singleplayer"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "1990's",
+    "Economy",
+    "Stylized"
+   ],
+   "nnSim": 0.7307192087173462,
+   "pairCounts": {
+    "1990's+Economy": 8,
+    "1990's+Stylized": 106,
+    "Economy+Stylized": 36
+   },
+   "nearest": [
+    {
+     "title": "Movie Tycoon Simulator 2020",
+     "url": "https://store.steampowered.com/app/1470220/",
+     "sim": 0.7307192087173462,
+     "tags": [
+      "Simulation",
+      "Management",
+      "Pixel Graphics",
+      "1990's",
+      "Capitalism",
+      "Retro"
+     ]
+    },
+    {
+     "title": "Math The Question",
+     "url": "https://store.steampowered.com/app/1176440/",
+     "sim": 0.7300550937652588,
+     "tags": [
+      "Indie",
+      "Casual",
+      "Education",
+      "Typing",
+      "Retro"
+     ]
+    },
+    {
+     "title": "Neon Breaker",
+     "url": "https://store.steampowered.com/app/967970/",
+     "sim": 0.7289744019508362,
+     "tags": [
+      "Casual",
+      "Family Friendly",
+      "PvE",
+      "Stylized",
+      "Controller",
+      "Colorful"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Dragons",
+    "Narration",
+    "Old School"
+   ],
+   "nnSim": 0.7325892448425293,
+   "pairCounts": {
+    "Dragons+Narration": 6,
+    "Dragons+Old School": 16,
+    "Narration+Old School": 10
+   },
+   "nearest": [
+    {
+     "title": "Merge Adventure: Magic Dragons",
+     "url": "https://store.steampowered.com/app/2495050/",
+     "sim": 0.7325892448425293,
+     "tags": [
+      "Casual",
+      "Exploration",
+      "2D",
+      "Cartoon",
+      "Cartoony",
+      "Colorful"
+     ]
+    },
+    {
+     "title": "Spirits of Mystery: Song of the Phoenix Collector's Edition",
+     "url": "https://store.steampowered.com/app/586740/",
+     "sim": 0.731810986995697,
+     "tags": [
+      "Adventure",
+      "Casual",
+      "Hidden Object"
+     ]
+    },
+    {
+     "title": "Dragon Lapis",
+     "url": "https://store.steampowered.com/app/1369740/",
+     "sim": 0.7311126589775085,
+     "tags": [
+      "RPG",
+      "JRPG",
+      "Dragons",
+      "Adventure",
+      "Fantasy",
+      "Casual"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Classic",
+    "Historical",
+    "Romance"
+   ],
+   "nnSim": 0.732909083366394,
+   "pairCounts": {
+    "Classic+Historical": 51,
+    "Classic+Romance": 3,
+    "Historical+Romance": 52
+   },
+   "nearest": [
+    {
+     "title": "Late photographer 6",
+     "url": "https://store.steampowered.com/app/2215820/",
+     "sim": 0.732909083366394,
+     "tags": [
+      "Visual Novel",
+      "Story Rich",
+      "Female Protagonist",
+      "Text-Based",
+      "Interactive Fiction",
+      "Drama"
+     ]
+    },
+    {
+     "title": "Cossacks: European Wars",
+     "url": "https://store.steampowered.com/app/4880/",
+     "sim": 0.7231495976448059,
+     "tags": [
+      "Strategy",
+      "RTS",
+      "Historical",
+      "Singleplayer",
+      "Classic"
+     ]
+    },
+    {
+     "title": "Alice in Wonderland - Hidden Objects",
+     "url": "https://store.steampowered.com/app/812110/",
+     "sim": 0.7221615314483643,
+     "tags": [
+      "Casual",
+      "Adventure",
+      "Hidden Object"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Agriculture",
+    "Detective",
+    "Rogue-lite"
+   ],
+   "nnSim": 0.7344481348991394,
+   "pairCounts": {
+    "Agriculture+Detective": 3,
+    "Agriculture+Rogue-lite": 10,
+    "Detective+Rogue-lite": 5
+   },
+   "nearest": [
+    {
+     "title": "Haunted Legends: The Scars of Lamia Collector's Edition",
+     "url": "https://store.steampowered.com/app/1142290/",
+     "sim": 0.7344481348991394,
+     "tags": [
+      "Adventure",
+      "Casual",
+      "Hidden Object"
+     ]
+    },
+    {
+     "title": "Slime & Friends",
+     "url": "https://store.steampowered.com/app/456660/",
+     "sim": 0.7337067127227783,
+     "tags": [
+      "Casual",
+      "Adventure",
+      "Rogue-lite",
+      "Rogue-like"
+     ]
+    },
+    {
+     "title": "Deadly Harvest",
+     "url": "https://store.steampowered.com/app/2158130/",
+     "sim": 0.7287334203720093,
+     "tags": [
+      "Action",
+      "Casual",
+      "RPG",
+      "Pixel Graphics",
+      "Shoot 'Em Up",
+      "Singleplayer"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Faith",
+    "Hand-drawn",
+    "LGBTQ+"
+   ],
+   "nnSim": 0.7351430058479309,
+   "pairCounts": {
+    "Faith+Hand-drawn": 10,
+    "Faith+LGBTQ+": 6,
+    "Hand-drawn+LGBTQ+": 55
+   },
+   "nearest": [
+    {
+     "title": "Endless Car",
+     "url": "https://store.steampowered.com/app/3522710/",
+     "sim": 0.7351430058479309,
+     "tags": [
+      "Casual",
+      "God Game",
+      "3D Platformer",
+      "3D",
+      "LGBTQ+",
+      "Crafting"
+     ]
+    },
+    {
+     "title": "The Holy Orange",
+     "url": "https://store.steampowered.com/app/1544850/",
+     "sim": 0.7297290563583374,
+     "tags": [
+      "Casual",
+      "Arcade",
+      "Platformer",
+      "3D Platformer",
+      "Collectathon",
+      "3D"
+     ]
+    },
+    {
+     "title": "optimal conditions for a sacrifice",
+     "url": "https://store.steampowered.com/app/3308320/",
+     "sim": 0.7139375805854797,
+     "tags": [
+      "Romance",
+      "Visual Novel",
+      "LGBTQ+",
+      "2D",
+      "Anime",
+      "Atmospheric"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Comic Book",
+    "Otome",
+    "Supernatural"
+   ],
+   "nnSim": 0.7358152866363525,
+   "pairCounts": {
+    "Comic Book+Otome": 2,
+    "Comic Book+Supernatural": 6,
+    "Otome+Supernatural": 3
+   },
+   "nearest": [
+    {
+     "title": "CABALL: sunset hour",
+     "url": "https://store.steampowered.com/app/3319370/",
+     "sim": 0.7358152866363525,
+     "tags": [
+      "Visual Novel",
+      "Female Protagonist",
+      "Romance",
+      "Atmospheric",
+      "Demons",
+      "Drama"
+     ]
+    },
+    {
+     "title": "Ten Trials of Babel: The Doppelganger Maze",
+     "url": "https://store.steampowered.com/app/1900340/",
+     "sim": 0.7342885732650757,
+     "tags": [
+      "Female Protagonist",
+      "Multiple Endings",
+      "Pixel Graphics",
+      "Story Rich",
+      "RPG",
+      "Choose Your Own Adventure"
+     ]
+    },
+    {
+     "title": "Psychedelica of the Black Butterfly",
+     "url": "https://store.steampowered.com/app/865820/",
+     "sim": 0.7342315316200256,
+     "tags": [
+      "Otome",
+      "Adventure",
+      "Visual Novel",
+      "Female Protagonist",
+      "Romance",
+      "Mystery"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Blood",
+    "Destruction",
+    "Family Friendly"
+   ],
+   "nnSim": 0.7389212846755981,
+   "pairCounts": {
+    "Blood+Destruction": 10,
+    "Blood+Family Friendly": 3,
+    "Destruction+Family Friendly": 46
+   },
+   "nearest": [
+    {
+     "title": "Award. Room of fear",
+     "url": "https://store.steampowered.com/app/733670/",
+     "sim": 0.7389212846755981,
+     "tags": [
+      "Action",
+      "Indie",
+      "Violent",
+      "Horror"
+     ]
+    },
+    {
+     "title": "Two Wars - Part 1",
+     "url": "https://store.steampowered.com/app/889210/",
+     "sim": 0.7293355464935303,
+     "tags": [
+      "Violent"
+     ]
+    },
+    {
+     "title": "UBERSLAUGHTER",
+     "url": "https://store.steampowered.com/app/2595540/",
+     "sim": 0.7202781438827515,
+     "tags": [
+      "Spectacle fighter",
+      "Arena Shooter",
+      "FPS",
+      "Capitalism",
+      "First-Person",
+      "Boomer Shooter"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Drama",
+    "Education",
+    "Perma Death"
+   ],
+   "nnSim": 0.7394830584526062,
+   "pairCounts": {
+    "Drama+Education": 19,
+    "Drama+Perma Death": 2,
+    "Education+Perma Death": 10
+   },
+   "nearest": [
+    {
+     "title": "Pestis",
+     "url": "https://store.steampowered.com/app/853480/",
+     "sim": 0.7394830584526062,
+     "tags": [
+      "Horror",
+      "Education",
+      "Outbreak Sim",
+      "Medical Sim",
+      "Survival",
+      "Exploration"
+     ]
+    },
+    {
+     "title": "Body Discovery",
+     "url": "https://store.steampowered.com/app/1063070/",
+     "sim": 0.7349837422370911,
+     "tags": [
+      "Action",
+      "Adventure"
+     ]
+    },
+    {
+     "title": "Narcissu 1st & 2nd",
+     "url": "https://store.steampowered.com/app/264380/",
+     "sim": 0.7301018834114075,
+     "tags": [
+      "Visual Novel",
+      "Anime",
+      "Free to Play",
+      "Indie",
+      "Story Rich",
+      "Great Soundtrack"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Conversation",
+    "Isometric",
+    "Mythology"
+   ],
+   "nnSim": 0.7395501732826233,
+   "pairCounts": {
+    "Conversation+Isometric": 10,
+    "Conversation+Mythology": 6,
+    "Isometric+Mythology": 19
+   },
+   "nearest": [
+    {
+     "title": "Blind Mind",
+     "url": "https://store.steampowered.com/app/837290/",
+     "sim": 0.7395501732826233,
+     "tags": [
+      "Indie",
+      "Casual"
+     ]
+    },
+    {
+     "title": "Museum Of Extravagance",
+     "url": "https://store.steampowered.com/app/1399460/",
+     "sim": 0.7381759881973267,
+     "tags": [
+      "Casual",
+      "Experimental",
+      "First-Person",
+      "3D",
+      "Colorful",
+      "Psychedelic"
+     ]
+    },
+    {
+     "title": "Great God Grove",
+     "url": "https://store.steampowered.com/app/2840190/",
+     "sim": 0.7368359565734863,
+     "tags": [
+      "Puzzle",
+      "Adventure",
+      "Funny",
+      "Cute",
+      "Psychedelic",
+      "Colorful"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Experimental",
+    "Software Training",
+    "World War II"
+   ],
+   "nnSim": 0.7413617968559265,
+   "pairCounts": {
+    "Experimental+Software Training": 2,
+    "Experimental+World War II": 2,
+    "Software Training+World War II": 2
+   },
+   "nearest": [
+    {
+     "title": "A Stroke of Fate: Operation Bunker",
+     "url": "https://store.steampowered.com/app/372570/",
+     "sim": 0.7413617968559265,
+     "tags": [
+      "Adventure",
+      "Point & Click",
+      "World War II"
+     ]
+    },
+    {
+     "title": "IL-2 Sturmovik: Cliffs of Dover",
+     "url": "https://store.steampowered.com/app/63950/",
+     "sim": 0.741200864315033,
+     "tags": [
+      "Simulation",
+      "Flight",
+      "World War II",
+      "Historical"
+     ]
+    },
+    {
+     "title": "World War 2 Craft (\u4e8c\u6218\u6f14\u4e49)",
+     "url": "https://store.steampowered.com/app/1132770/",
+     "sim": 0.7395131587982178,
+     "tags": [
+      "RTS",
+      "Real Time Tactics",
+      "Wargame",
+      "World War II",
+      "War",
+      "Strategy"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Colorful",
+    "FMV",
+    "Great Soundtrack"
+   ],
+   "nnSim": 0.7421485781669617,
+   "pairCounts": {
+    "Colorful+FMV": 13,
+    "Colorful+Great Soundtrack": 162,
+    "FMV+Great Soundtrack": 5
+   },
+   "nearest": [
+    {
+     "title": "THE AWKWARD STEVE DUOLOGY",
+     "url": "https://store.steampowered.com/app/536770/",
+     "sim": 0.7421485781669617,
+     "tags": [
+      "Indie",
+      "Adventure",
+      "Casual",
+      "FMV"
+     ]
+    },
+    {
+     "title": "Gem Exploration",
+     "url": "https://store.steampowered.com/app/3427470/",
+     "sim": 0.7416061758995056,
+     "tags": [
+      "Casual",
+      "2D",
+      "Pixel Graphics",
+      "Cute",
+      "Colorful"
+     ]
+    },
+    {
+     "title": "Crackhead",
+     "url": "https://store.steampowered.com/app/554530/",
+     "sim": 0.7415489554405212,
+     "tags": [
+      "Casual",
+      "Indie",
+      "Action",
+      "Violent",
+      "Great Soundtrack",
+      "Colorful"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "6DOF",
+    "America",
+    "Character Customization"
+   ],
+   "nnSim": 0.7424935698509216,
+   "pairCounts": {
+    "6DOF+America": 3,
+    "6DOF+Character Customization": 13,
+    "America+Character Customization": 9
+   },
+   "nearest": [
+    {
+     "title": "Barkelona",
+     "url": "https://store.steampowered.com/app/2434300/",
+     "sim": 0.7424935698509216,
+     "tags": [
+      "Education",
+      "Casual",
+      "Character Customization",
+      "2D",
+      "Cute",
+      "Funny"
+     ]
+    },
+    {
+     "title": "MySims\u2122 Kingdom",
+     "url": "https://store.steampowered.com/app/3328910/",
+     "sim": 0.7382163405418396,
+     "tags": [
+      "Character Customization",
+      "Adventure",
+      "Family Friendly",
+      "Retro",
+      "Gaming",
+      "Cute"
+     ]
+    },
+    {
+     "title": "Bigfield 2042",
+     "url": "https://store.steampowered.com/app/1902120/",
+     "sim": 0.7369375824928284,
+     "tags": [
+      "Action",
+      "FPS",
+      "Memes",
+      "War",
+      "Military",
+      "Gun Customization"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Abstract",
+    "Conspiracy",
+    "Investigation"
+   ],
+   "nnSim": 0.7425841093063354,
+   "pairCounts": {
+    "Abstract+Conspiracy": 5,
+    "Abstract+Investigation": 13,
+    "Conspiracy+Investigation": 46
+   },
+   "nearest": [
+    {
+     "title": "Haunted Legends: The Scars of Lamia Collector's Edition",
+     "url": "https://store.steampowered.com/app/1142290/",
+     "sim": 0.7425841093063354,
+     "tags": [
+      "Adventure",
+      "Casual",
+      "Hidden Object"
+     ]
+    },
+    {
+     "title": "A Hand With Many Fingers",
+     "url": "https://store.steampowered.com/app/1229030/",
+     "sim": 0.7422574162483215,
+     "tags": [
+      "Indie",
+      "Adventure",
+      "Investigation",
+      "Conspiracy",
+      "Mystery",
+      "Historical"
+     ]
+    },
+    {
+     "title": "Fatal Evidence: Cursed Island Collector's Edition",
+     "url": "https://store.steampowered.com/app/1084920/",
+     "sim": 0.7398775815963745,
+     "tags": [
+      "Casual",
+      "Adventure",
+      "Hidden Object"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Controller",
+    "Dark Comedy",
+    "Dog"
+   ],
+   "nnSim": 0.7462395429611206,
+   "pairCounts": {
+    "Controller+Dark Comedy": 15,
+    "Controller+Dog": 18,
+    "Dark Comedy+Dog": 4
+   },
+   "nearest": [
+    {
+     "title": "Tower of TORI",
+     "url": "https://store.steampowered.com/app/3592860/",
+     "sim": 0.7462395429611206,
+     "tags": [
+      "Action",
+      "Action-Adventure",
+      "2D Platformer",
+      "2.5D",
+      "Comedy",
+      "Fantasy"
+     ]
+    },
+    {
+     "title": "Anti-Grav Bamboo-copter",
+     "url": "https://store.steampowered.com/app/1005390/",
+     "sim": 0.7425776720046997,
+     "tags": [
+      "Action",
+      "Indie",
+      "Casual",
+      "Intentionally Awkward Controls",
+      "Difficult",
+      "Funny"
+     ]
+    },
+    {
+     "title": "Funny Truck",
+     "url": "https://store.steampowered.com/app/1697600/",
+     "sim": 0.7402529120445251,
+     "tags": [
+      "Casual",
+      "Sandbox",
+      "3D Platformer",
+      "3D",
+      "Driving",
+      "Controller"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Level Editor",
+    "Nature",
+    "Thriller"
+   ],
+   "nnSim": 0.7518216371536255,
+   "pairCounts": {
+    "Level Editor+Nature": 14,
+    "Level Editor+Thriller": 4,
+    "Nature+Thriller": 4
+   },
+   "nearest": [
+    {
+     "title": "Carrots and Cream",
+     "url": "https://store.steampowered.com/app/1247730/",
+     "sim": 0.7518216371536255,
+     "tags": [
+      "Surreal",
+      "Cooking",
+      "Nature",
+      "Minimalist",
+      "Horror",
+      "Short"
+     ]
+    },
+    {
+     "title": "Body Discovery",
+     "url": "https://store.steampowered.com/app/1063070/",
+     "sim": 0.7503786087036133,
+     "tags": [
+      "Action",
+      "Adventure"
+     ]
+    },
+    {
+     "title": "Parkland",
+     "url": "https://store.steampowered.com/app/812170/",
+     "sim": 0.7484318017959595,
+     "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Casual",
+      "Strategy"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Choices Matter",
+    "Psychological",
+    "Top-Down"
+   ],
+   "nnSim": 0.751870334148407,
+   "pairCounts": {
+    "Choices Matter+Psychological": 102,
+    "Choices Matter+Top-Down": 144,
+    "Psychological+Top-Down": 9
+   },
+   "nearest": [
+    {
+     "title": "Crossroads: On a Just Path Collector's Edition",
+     "url": "https://store.steampowered.com/app/1868550/",
+     "sim": 0.751870334148407,
+     "tags": [
+      "Hidden Object",
+      "Point & Click",
+      "Detective",
+      "Choices Matter",
+      "Multiple Endings",
+      "Casual"
+     ]
+    },
+    {
+     "title": "Backspace Backspace Backspace",
+     "url": "https://store.steampowered.com/app/3058940/",
+     "sim": 0.7431023716926575,
+     "tags": [
+      "Psychological Horror",
+      "Visual Novel",
+      "Conversation",
+      "Story Rich",
+      "Choose Your Own Adventure",
+      "Psychedelic"
+     ]
+    },
+    {
+     "title": "Life is sad",
+     "url": "https://store.steampowered.com/app/1546190/",
+     "sim": 0.7409696578979492,
+     "tags": [
+      "Simulation",
+      "Visual Novel",
+      "3D",
+      "Solitaire",
+      "Atmospheric",
+      "Choices Matter"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Modern",
+    "Philosophical",
+    "Runner"
+   ],
+   "nnSim": 0.7542626857757568,
+   "pairCounts": {
+    "Modern+Philosophical": 10,
+    "Modern+Runner": 3,
+    "Philosophical+Runner": 6
+   },
+   "nearest": [
+    {
+     "title": "Strata",
+     "url": "https://store.steampowered.com/app/286380/",
+     "sim": 0.7542626857757568,
+     "tags": [
+      "Casual",
+      "Strategy",
+      "Indie",
+      "Puzzle",
+      "Relaxing"
+     ]
+    },
+    {
+     "title": "Died Of Fear",
+     "url": "https://store.steampowered.com/app/663920/",
+     "sim": 0.7516659498214722,
+     "tags": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "2D",
+      "Side Scroller",
+      "Pixel Graphics"
+     ]
+    },
+    {
+     "title": "Nogibator: Way Of Legs",
+     "url": "https://store.steampowered.com/app/754330/",
+     "sim": 0.7498829364776611,
+     "tags": [
+      "Indie",
+      "Casual"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Physics",
+    "Politics",
+    "Real-Time with Pause"
+   ],
+   "nnSim": 0.7568134069442749,
+   "pairCounts": {
+    "Physics+Politics": 5,
+    "Physics+Real-Time with Pause": 6,
+    "Politics+Real-Time with Pause": 4
+   },
+   "nearest": [
+    {
+     "title": "Oik 2",
+     "url": "https://store.steampowered.com/app/611980/",
+     "sim": 0.7568134069442749,
+     "tags": [
+      "Minimalist",
+      "Physics",
+      "Casual",
+      "Clicker",
+      "Singleplayer",
+      "2D"
+     ]
+    },
+    {
+     "title": "mr.President Prologue Episode",
+     "url": "https://store.steampowered.com/app/530540/",
+     "sim": 0.753815233707428,
+     "tags": [
+      "Indie",
+      "Action",
+      "Simulation",
+      "Physics"
+     ]
+    },
+    {
+     "title": "Physics Sandbox VR",
+     "url": "https://store.steampowered.com/app/1403040/",
+     "sim": 0.752202033996582,
+     "tags": [
+      "Casual",
+      "Sandbox",
+      "VR",
+      "Physics",
+      "Singleplayer"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Building",
+    "Cats",
+    "Sailing"
+   ],
+   "nnSim": 0.7586901783943176,
+   "pairCounts": {
+    "Building+Cats": 7,
+    "Building+Sailing": 9,
+    "Cats+Sailing": 3
+   },
+   "nearest": [
+    {
+     "title": "Cat Cafe Manager",
+     "url": "https://store.steampowered.com/app/1354830/",
+     "sim": 0.7586901783943176,
+     "tags": [
+      "Cozy",
+      "Simulation",
+      "Management",
+      "Strategy",
+      "Life Sim",
+      "Building"
+     ]
+    },
+    {
+     "title": "cat notebook",
+     "url": "https://store.steampowered.com/app/1003490/",
+     "sim": 0.7500609159469604,
+     "tags": [
+      "Adventure",
+      "Abstract",
+      "Hand-drawn",
+      "Walking Simulator",
+      "Exploration",
+      "Cats"
+     ]
+    },
+    {
+     "title": "3d Bridges",
+     "url": "https://store.steampowered.com/app/358700/",
+     "sim": 0.7465300559997559,
+     "tags": [
+      "Simulation",
+      "Building",
+      "Physics",
+      "Indie",
+      "Sandbox"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Automation",
+    "Cartoon",
+    "Dark Humor"
+   ],
+   "nnSim": 0.7593182325363159,
+   "pairCounts": {
+    "Automation+Cartoon": 8,
+    "Automation+Dark Humor": 6,
+    "Cartoon+Dark Humor": 35
+   },
+   "nearest": [
+    {
+     "title": "Dave-Man",
+     "url": "https://store.steampowered.com/app/1103790/",
+     "sim": 0.7593182325363159,
+     "tags": [
+      "Retro",
+      "Pixel Graphics",
+      "Parody ",
+      "Arcade",
+      "Minimalist",
+      "Funny"
+     ]
+    },
+    {
+     "title": "INU",
+     "url": "https://store.steampowered.com/app/1212360/",
+     "sim": 0.7534800171852112,
+     "tags": [
+      "Utilities",
+      "Casual",
+      "Memes"
+     ]
+    },
+    {
+     "title": "Slavic Winter Simulator",
+     "url": "https://store.steampowered.com/app/1519150/",
+     "sim": 0.7514939308166504,
+     "tags": [
+      "Simulation",
+      "Immersive Sim",
+      "Memes",
+      "Satire",
+      "Funny",
+      "Dark Humor"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Diplomacy",
+    "Moddable",
+    "Third Person"
+   ],
+   "nnSim": 0.7610973119735718,
+   "pairCounts": {
+    "Diplomacy+Moddable": 6,
+    "Diplomacy+Third Person": 2,
+    "Moddable+Third Person": 17
+   },
+   "nearest": [
+    {
+     "title": "The Elder Scrolls Adventures: Redguard",
+     "url": "https://store.steampowered.com/app/1812410/",
+     "sim": 0.7610973119735718,
+     "tags": [
+      "Action",
+      "RPG",
+      "Fantasy",
+      "Story Rich",
+      "Action RPG",
+      "Singleplayer"
+     ]
+    },
+    {
+     "title": "Lootfest Wars",
+     "url": "https://store.steampowered.com/app/622510/",
+     "sim": 0.758956253528595,
+     "tags": [
+      "Strategy",
+      "Indie",
+      "Casual",
+      "RTS"
+     ]
+    },
+    {
+     "title": "Ashes of the Skyborn",
+     "url": "https://store.steampowered.com/app/3680980/",
+     "sim": 0.7539656162261963,
+     "tags": [
+      "Exploration",
+      "Action RPG",
+      "Indie",
+      "3D",
+      "RPG",
+      "Third Person"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Magic",
+    "Parody ",
+    "Superhero"
+   ],
+   "nnSim": 0.762183427810669,
+   "pairCounts": {
+    "Magic+Parody ": 6,
+    "Magic+Superhero": 5,
+    "Parody +Superhero": 6
+   },
+   "nearest": [
+    {
+     "title": "Mogh",
+     "url": "https://store.steampowered.com/app/1102940/",
+     "sim": 0.762183427810669,
+     "tags": [
+      "Indie"
+     ]
+    },
+    {
+     "title": "Crystal sword",
+     "url": "https://store.steampowered.com/app/1513710/",
+     "sim": 0.7423300743103027,
+     "tags": [
+      "Action",
+      "2D",
+      "Retro",
+      "Pixel Graphics",
+      "Fantasy"
+     ]
+    },
+    {
+     "title": "Arena",
+     "url": "https://store.steampowered.com/app/1291530/",
+     "sim": 0.7394692301750183,
+     "tags": [
+      "Free to Play",
+      "Action",
+      "Indie",
+      "FPS",
+      "Hand-drawn",
+      "Arena Shooter"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Memes",
+    "Sports",
+    "Trading"
+   ],
+   "nnSim": 0.7625954747200012,
+   "pairCounts": {
+    "Memes+Sports": 33,
+    "Memes+Trading": 3,
+    "Sports+Trading": 9
+   },
+   "nearest": [
+    {
+     "title": "Bitcoin",
+     "url": "https://store.steampowered.com/app/819650/",
+     "sim": 0.7625954747200012,
+     "tags": [
+      "Casual",
+      "Simulation",
+      "Indie",
+      "Clicker",
+      "Economy",
+      "Memes"
+     ]
+    },
+    {
+     "title": "\u6c99\u6f20\u98de\u8f66 Desert Racer",
+     "url": "https://store.steampowered.com/app/698340/",
+     "sim": 0.7624005675315857,
+     "tags": [
+      "Racing",
+      "Sports"
+     ]
+    },
+    {
+     "title": "Blockey: Block Yeah!",
+     "url": "https://store.steampowered.com/app/1145280/",
+     "sim": 0.7611680626869202,
+     "tags": [
+      "Casual",
+      "Sports"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Emotional",
+    "Martial Arts",
+    "Turn-Based"
+   ],
+   "nnSim": 0.7650367021560669,
+   "pairCounts": {
+    "Emotional+Martial Arts": 4,
+    "Emotional+Turn-Based": 2,
+    "Martial Arts+Turn-Based": 17
+   },
+   "nearest": [
+    {
+     "title": "\u9556\u884c\u5929\u4e0b",
+     "url": "https://store.steampowered.com/app/2743650/",
+     "sim": 0.7650367021560669,
+     "tags": [
+      "Strategy",
+      "Turn-Based Tactics",
+      "Martial Arts",
+      "Turn-Based Strategy",
+      "Indie",
+      "Character Customization"
+     ]
+    },
+    {
+     "title": "\u5927\u4fa0\u8bf7\u91cd\u6765",
+     "url": "https://store.steampowered.com/app/2011470/",
+     "sim": 0.7592540383338928,
+     "tags": [
+      "Casual",
+      "Visual Novel",
+      "Turn-Based Strategy",
+      "Word Game",
+      "Turn-Based Tactics",
+      "2D"
+     ]
+    },
+    {
+     "title": "\u82f1\u96c4\u7fa4\u4fa0\u4f20II",
+     "url": "https://store.steampowered.com/app/1115640/",
+     "sim": 0.7581002116203308,
+     "tags": [
+      "Turn-Based Tactics",
+      "Tactical RPG",
+      "2D Platformer",
+      "Martial Arts",
+      "Turn-Based",
+      "Turn-Based Strategy"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Driving",
+    "Nudity",
+    "Utilities"
+   ],
+   "nnSim": 0.7652876377105713,
+   "pairCounts": {
+    "Driving+Nudity": 3,
+    "Driving+Utilities": 3,
+    "Nudity+Utilities": 14
+   },
+   "nearest": [
+    {
+     "title": "Deep Dark Labyrinth",
+     "url": "https://store.steampowered.com/app/847260/",
+     "sim": 0.7652876377105713,
+     "tags": [
+      "Violent",
+      "Nudity",
+      "Sexual Content"
+     ]
+    },
+    {
+     "title": "Hacker News Reader",
+     "url": "https://store.steampowered.com/app/834410/",
+     "sim": 0.7606419324874878,
+     "tags": [
+      "Utilities",
+      "Education"
+     ]
+    },
+    {
+     "title": "Wallpaper Maker \uff08\u9020\u7269\u4e3b\u89c6\u9891\u684c\u9762\uff09",
+     "url": "https://store.steampowered.com/app/1010800/",
+     "sim": 0.7567805647850037,
+     "tags": [
+      "Utilities",
+      "Free to Play"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Hacking",
+    "Military",
+    "Relaxing"
+   ],
+   "nnSim": 0.765449583530426,
+   "pairCounts": {
+    "Hacking+Military": 3,
+    "Hacking+Relaxing": 6,
+    "Military+Relaxing": 9
+   },
+   "nearest": [
+    {
+     "title": "Lootfest Wars",
+     "url": "https://store.steampowered.com/app/622510/",
+     "sim": 0.765449583530426,
+     "tags": [
+      "Strategy",
+      "Indie",
+      "Casual",
+      "RTS"
+     ]
+    },
+    {
+     "title": "Griddy",
+     "url": "https://store.steampowered.com/app/2104790/",
+     "sim": 0.7552685141563416,
+     "tags": [
+      "Casual",
+      "Singleplayer",
+      "Puzzle",
+      "Relaxing",
+      "Strategy"
+     ]
+    },
+    {
+     "title": "Terminal Hacker",
+     "url": "https://store.steampowered.com/app/547010/",
+     "sim": 0.7536314129829407,
+     "tags": [
+      "Free to Play",
+      "Casual",
+      "Indie",
+      "Hacking"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Satire",
+    "Souls-like",
+    "Surreal"
+   ],
+   "nnSim": 0.7670152187347412,
+   "pairCounts": {
+    "Satire+Souls-like": 4,
+    "Satire+Surreal": 15,
+    "Souls-like+Surreal": 21
+   },
+   "nearest": [
+    {
+     "title": "Ossuary",
+     "url": "https://store.steampowered.com/app/363500/",
+     "sim": 0.7670152187347412,
+     "tags": [
+      "Adventure",
+      "Indie",
+      "Satire",
+      "Puzzle",
+      "Atmospheric",
+      "Dark Humor"
+     ]
+    },
+    {
+     "title": "PRIMAFLOOWS",
+     "url": "https://store.steampowered.com/app/1815270/",
+     "sim": 0.7645196914672852,
+     "tags": [
+      "Precision Platformer",
+      "Visual Novel",
+      "Platformer",
+      "Simulation",
+      "Zombies",
+      "Demons"
+     ]
+    },
+    {
+     "title": "Dujanah",
+     "url": "https://store.steampowered.com/app/681240/",
+     "sim": 0.759834349155426,
+     "tags": [
+      "Indie",
+      "Adventure",
+      "RPG",
+      "Action",
+      "Surreal",
+      "Experimental"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Linear",
+    "Nonlinear",
+    "Sokoban"
+   ],
+   "nnSim": 0.7677885890007019,
+   "pairCounts": {
+    "Linear+Nonlinear": 4,
+    "Linear+Sokoban": 44,
+    "Nonlinear+Sokoban": 21
+   },
+   "nearest": [
+    {
+     "title": "H+H=H2",
+     "url": "https://store.steampowered.com/app/3220520/",
+     "sim": 0.7677885890007019,
+     "tags": [
+      "Puzzle",
+      "Sokoban",
+      "Solitaire",
+      "2D",
+      "Pixel Graphics",
+      "Cute"
+     ]
+    },
+    {
+     "title": "BOND",
+     "url": "https://store.steampowered.com/app/2835670/",
+     "sim": 0.7600194215774536,
+     "tags": [
+      "Puzzle",
+      "Sokoban",
+      "3D",
+      "Logic",
+      "Relaxing",
+      "Minimalist"
+     ]
+    },
+    {
+     "title": "SokoMelody",
+     "url": "https://store.steampowered.com/app/2132710/",
+     "sim": 0.7538502812385559,
+     "tags": [
+      "Sokoban",
+      "Music",
+      "Casual",
+      "Relaxing",
+      "Pixel Graphics",
+      "Puzzle"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Noir",
+    "Racing",
+    "Story Rich"
+   ],
+   "nnSim": 0.7681718468666077,
+   "pairCounts": {
+    "Noir+Racing": 9,
+    "Noir+Story Rich": 176,
+    "Racing+Story Rich": 32
+   },
+   "nearest": [
+    {
+     "title": "Krautscape",
+     "url": "https://store.steampowered.com/app/268360/",
+     "sim": 0.7681718468666077,
+     "tags": [
+      "Racing",
+      "Indie",
+      "Multiplayer",
+      "Split Screen",
+      "Local Multiplayer",
+      "Procedural Generation"
+     ]
+    },
+    {
+     "title": "STAR WARS\u2122 Episode I Racer",
+     "url": "https://store.steampowered.com/app/808910/",
+     "sim": 0.7677115797996521,
+     "tags": [
+      "Racing",
+      "Action",
+      "Classic",
+      "Sci-fi",
+      "Multiplayer",
+      "Singleplayer"
+     ]
+    },
+    {
+     "title": "Highway Speeder",
+     "url": "https://store.steampowered.com/app/2264740/",
+     "sim": 0.7664743065834045,
+     "tags": [
+      "Racing",
+      "Arcade",
+      "Automobile Sim",
+      "Sandbox",
+      "Runner",
+      "3D"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Hunting",
+    "Medieval",
+    "Time Management"
+   ],
+   "nnSim": 0.769651472568512,
+   "pairCounts": {
+    "Hunting+Medieval": 11,
+    "Hunting+Time Management": 4,
+    "Medieval+Time Management": 36
+   },
+   "nearest": [
+    {
+     "title": "Night Hunter",
+     "url": "https://store.steampowered.com/app/1710500/",
+     "sim": 0.769651472568512,
+     "tags": [
+      "Action",
+      "Casual",
+      "Platformer",
+      "Shooter",
+      "3D Platformer",
+      "FPS"
+     ]
+    },
+    {
+     "title": "\u5bfb\u9f99\u5206\u91d1\u6a21\u62df\u5668",
+     "url": "https://store.steampowered.com/app/3503380/",
+     "sim": 0.7668092846870422,
+     "tags": [
+      "Open World",
+      "Singleplayer",
+      "First-Person",
+      "Action-Adventure",
+      "Immersive Sim",
+      "Detective"
+     ]
+    },
+    {
+     "title": "BugOut",
+     "url": "https://store.steampowered.com/app/790700/",
+     "sim": 0.7633804082870483,
+     "tags": [
+      "Open World Survival Craft",
+      "Survival",
+      "Crafting",
+      "First-Person",
+      "Singleplayer",
+      "Exploration"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Flight",
+    "Management",
+    "Short"
+   ],
+   "nnSim": 0.7702527046203613,
+   "pairCounts": {
+    "Flight+Management": 36,
+    "Flight+Short": 3,
+    "Management+Short": 6
+   },
+   "nearest": [
+    {
+     "title": "Airport CEO",
+     "url": "https://store.steampowered.com/app/673610/",
+     "sim": 0.7702527046203613,
+     "tags": [
+      "Flight",
+      "Resource Management",
+      "Moddable",
+      "Management",
+      "Simulation",
+      "Singleplayer"
+     ]
+    },
+    {
+     "title": "Airport Madness 4",
+     "url": "https://store.steampowered.com/app/387850/",
+     "sim": 0.7598910927772522,
+     "tags": [
+      "Adventure",
+      "Simulation",
+      "Strategy",
+      "Management",
+      "Flight"
+     ]
+    },
+    {
+     "title": "Aviation Manager",
+     "url": "https://store.steampowered.com/app/2026060/",
+     "sim": 0.7486450672149658,
+     "tags": [
+      "Time Management",
+      "Strategy",
+      "Flight",
+      "Casual",
+      "Simulation",
+      "Transportation"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Collectathon",
+    "Multiple Endings",
+    "Violent"
+   ],
+   "nnSim": 0.7719429135322571,
+   "pairCounts": {
+    "Collectathon+Multiple Endings": 30,
+    "Collectathon+Violent": 4,
+    "Multiple Endings+Violent": 108
+   },
+   "nearest": [
+    {
+     "title": "BUTCHERBOX",
+     "url": "https://store.steampowered.com/app/1046330/",
+     "sim": 0.7719429135322571,
+     "tags": [
+      "Action",
+      "Gore",
+      "Violent"
+     ]
+    },
+    {
+     "title": "Halo 3: ODST Mod Tools - MCC",
+     "url": "https://store.steampowered.com/app/1695794/",
+     "sim": 0.7695006132125854,
+     "tags": [
+      "Action"
+     ]
+    },
+    {
+     "title": "Primal Carnage: Extinction - Workshop Tool",
+     "url": "https://store.steampowered.com/app/1366270/",
+     "sim": 0.7695006132125854,
+     "tags": [
+      "Action"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Artificial Intelligence",
+    "Online Co-Op",
+    "Political"
+   ],
+   "nnSim": 0.7743988037109375,
+   "pairCounts": {
+    "Artificial Intelligence+Online Co-Op": 16,
+    "Artificial Intelligence+Political": 2,
+    "Online Co-Op+Political": 2
+   },
+   "nearest": [
+    {
+     "title": "Fate of the World: Tipping Point",
+     "url": "https://store.steampowered.com/app/901776/",
+     "sim": 0.7743988037109375,
+     "tags": [
+      "Strategy",
+      "Political Sim",
+      "Simulation",
+      "Turn-Based",
+      "Indie",
+      "Political"
+     ]
+    },
+    {
+     "title": "Democratic Socialism Simulator",
+     "url": "https://store.steampowered.com/app/1261760/",
+     "sim": 0.764788806438446,
+     "tags": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Political",
+      "Political Sim",
+      "Cute"
+     ]
+    },
+    {
+     "title": "Who made this art? Human or AI",
+     "url": "https://store.steampowered.com/app/2793280/",
+     "sim": 0.7607899904251099,
+     "tags": [
+      "Casual",
+      "Trivia",
+      "Online Co-Op",
+      "Artificial Intelligence",
+      "Arcade",
+      "Singleplayer"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Cult Classic",
+    "Cute",
+    "Fighting"
+   ],
+   "nnSim": 0.7749773263931274,
+   "pairCounts": {
+    "Cult Classic+Cute": 6,
+    "Cult Classic+Fighting": 4,
+    "Cute+Fighting": 55
+   },
+   "nearest": [
+    {
+     "title": "ROGO",
+     "url": "https://store.steampowered.com/app/965470/",
+     "sim": 0.7749773263931274,
+     "tags": [
+      "Action",
+      "Cute"
+     ]
+    },
+    {
+     "title": "Ortolan",
+     "url": "https://store.steampowered.com/app/1062660/",
+     "sim": 0.7640284895896912,
+     "tags": [
+      "Action",
+      "Indie",
+      "Casual",
+      "Nudity",
+      "Sexual Content"
+     ]
+    },
+    {
+     "title": "Super Weekend Mode",
+     "url": "https://store.steampowered.com/app/828590/",
+     "sim": 0.7637749314308167,
+     "tags": [
+      "Action",
+      "Indie",
+      "Pixel Graphics",
+      "Retro",
+      "Arcade",
+      "Shoot 'Em Up"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Assassin",
+    "Text-Based",
+    "Time Manipulation"
+   ],
+   "nnSim": 0.7758587002754211,
+   "pairCounts": {
+    "Assassin+Text-Based": 3,
+    "Assassin+Time Manipulation": 3,
+    "Text-Based+Time Manipulation": 8
+   },
+   "nearest": [
+    {
+     "title": "Relash",
+     "url": "https://store.steampowered.com/app/1713260/",
+     "sim": 0.7758587002754211,
+     "tags": [
+      "Puzzle",
+      "Action",
+      "Time Manipulation",
+      "Sci-fi",
+      "Casual",
+      "Third Person"
+     ]
+    },
+    {
+     "title": "Primal Carnage: Extinction - Workshop Tool",
+     "url": "https://store.steampowered.com/app/1366270/",
+     "sim": 0.7693495154380798,
+     "tags": [
+      "Action"
+     ]
+    },
+    {
+     "title": "Halo 3: ODST Mod Tools - MCC",
+     "url": "https://store.steampowered.com/app/1695794/",
+     "sim": 0.7693495154380798,
+     "tags": [
+      "Action"
+     ]
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Capitalism",
+    "Psychedelic",
+    "Turn-Based Tactics"
+   ],
+   "nnSim": 0.7800031900405884,
+   "pairCounts": {
+    "Capitalism+Psychedelic": 7,
+    "Capitalism+Turn-Based Tactics": 14,
+    "Psychedelic+Turn-Based Tactics": 6
+   },
+   "nearest": [
+    {
+     "title": "Cortex",
+     "url": "https://store.steampowered.com/app/998820/",
+     "sim": 0.7800031900405884,
+     "tags": [
+      "Action",
+      "Free to Play"
+     ]
+    },
+    {
+     "title": "Lost Frontier",
+     "url": "https://store.steampowered.com/app/928970/",
+     "sim": 0.7797608375549316,
+     "tags": [
+      "Strategy",
+      "Indie",
+      "Western",
+      "Turn-Based Tactics",
+      "Turn-Based"
+     ]
+    },
+    {
+     "title": "Everyone Goes Home",
+     "url": "https://store.steampowered.com/app/1100840/",
+     "sim": 0.7790861129760742,
+     "tags": [
+      "Adventure"
+     ]
+    }
+   ]
+  }
+ ]
+}
