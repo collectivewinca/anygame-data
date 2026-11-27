@@ -10,7 +10,9 @@ rank = {x["tag"]: i + 1 for i, x in enumerate(A["b_tagRank100plus"])}; nt = len(
 top3 = ", ".join(x["tag"] for x in A["b_tagRank100plus"][:3])
 st = ST["steam"]; tl = st["timeline"]
 def sv(s, key): return ST[s]["sim"][key], ST[s]["other"][key]
-V = {"title": "Do plain-looking sim games really sell better? We checked 10 stores",
+V = {"title": "Do plain-looking sim games really sell better? We checked 10 stores — November 2026 edition",
+ "edition": "November 2026 edition · data scraped Nov 27, 2026",
+ "previous": "<a href='https://plucky-sorbet-5wk7.here.now/'>Previous edition: October 2026 storefront briefs</a>",
  "date": "Nov 27, 2026",
  "lede": "A viral post says indie developers should make simple-looking management, factory, colony and idle games instead of pretty ones. We re-scraped all ten stores we track and tested each claim against the numbers.",
  "bottomLine": f"""<p><b>Partly true, mostly on Steam, and not the way the post says.</b> On Steam, sims do a bit better than the average paid game: {S['share100plus']:.0%} reach 100+ reviews, against {P['share100plus']:.0%} for all paid games. Colony, city-builder and factory games with 100+ reviews have some of the highest estimated sales of any genre. Idle and clicker games are the opposite: they rank last of {nt} Steam tags.</p>
@@ -96,7 +98,7 @@ V = {"title": "Do plain-looking sim games really sell better? We checked 10 stor
 <li><a href='https://newsletter.gamediscover.co/p/steam-sales-estimates-why-game-popularity'>GameDiscoverCo, "Steam sales estimates: why game popularity matters!" (Nov 14, 2022)</a> and <a href='https://newsletter.gamediscover.co/p/help-needed-whats-the-real-steam'>"What's the real Steam reviews/sales ratio?" (Jul 19, 2020)</a></li>
 <li><a href='https://www.steampageanalyzer.com/blog/how-much-does-steam-game-make'>Steam Page Analyzer: "How much does the average Steam game make?"</a></li>
 <li>Store data: Steam, App Store, Google Play, PlayStation Store, Xbox Store, Nintendo eShop, Epic Games Store, GOG, itch.io and Roblox public pages and APIs, via AnyGame's Apify actors.</li></ul>""",
- "footer": "AnyGame · private draft for review · scripts and data: collectivewinca/anygame-data, market-gaps/steam-sim-claim-2026-11-27/",
+ "footer": "AnyGame · November 2026 edition (data scraped Nov 27, 2026) · private draft for review · scripts and data: collectivewinca/anygame-data, market-gaps/steam-sim-claim-2026-11-27/",
  "runs": json.load(open("/workspace/anygame-sim-thesis/store-runs.json")) | {"steam": "24 runs; see Method and refresh/runs-steam-2026-11-27.json"}}
 V["runs"] = {s: ("Apify run / dataset: " + "; ".join(v) if isinstance(v, list) else v) for s, v in V["runs"].items()}
 json.dump(V, open("verdicts.json", "w"), indent=1, ensure_ascii=False)

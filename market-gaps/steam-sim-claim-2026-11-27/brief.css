@@ -24,3 +24,4 @@ h3{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;font-size:1.02rem;m
 .noimg{aspect-ratio:460/215;background:var(--soft);color:var(--muted);display:flex;align-items:center;justify-content:center;font-size:.75rem}
 .two{display:grid;gap:1em}@media(min-width:700px){.two{grid-template-columns:1fr 1fr}}
 .chart{width:100%;height:auto;font-family:system-ui,sans-serif;background:var(--card);border:1px solid var(--line);border-radius:8px}
+.edition{display:inline-block;font-family:system-ui,sans-serif;font-size:.85rem;font-weight:650;background:#eef2ff;color:#3730a3;border:1px solid #c7d2fe;border-radius:99px;padding:.2em .8em;margin:0 0 .6em}
