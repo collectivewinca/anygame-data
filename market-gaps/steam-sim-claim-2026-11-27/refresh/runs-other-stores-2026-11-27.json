@@ -1,0 +1,1670 @@
+{
+ "H5F2LhiHfhsSkdtnE": {
+  "store": "app-store",
+  "actor": "WckBf1ocAvad9YfCT",
+  "octDataset": "aNhPtgQvNjT49JV4U",
+  "build": "latest",
+  "memory": 1024,
+  "timeout": 3600,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "us",
+    "gb",
+    "ca"
+   ],
+   "genreIds": [
+    7001,
+    7002,
+    7003,
+    7004,
+    7005,
+    7006,
+    7007,
+    7008,
+    7009,
+    7011,
+    7012,
+    7013,
+    7014,
+    7015,
+    7016,
+    7017,
+    7018,
+    7019
+   ],
+   "charts": [
+    "topfree",
+    "toppaid",
+    "topgrossing"
+   ],
+   "seedSearchTerms": [],
+   "expandDevelopers": false,
+   "maxGames": 20000,
+   "lookupBatch": 150,
+   "delaySecs": 3.5,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 4343,
+  "octUsd": 0.08979509939456151,
+  "newRun": "hBlgc2neWqQhzePxg",
+  "newDataset": "5Dej7UDmfuHvINZN8",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "us",
+    "gb",
+    "ca"
+   ],
+   "genreIds": [
+    7001,
+    7002,
+    7003,
+    7004,
+    7005,
+    7006,
+    7007,
+    7008,
+    7009,
+    7011,
+    7012,
+    7013,
+    7014,
+    7015,
+    7016,
+    7017,
+    7018,
+    7019
+   ],
+   "charts": [
+    "topfree",
+    "toppaid",
+    "topgrossing"
+   ],
+   "seedSearchTerms": [],
+   "expandDevelopers": false,
+   "maxGames": 20000,
+   "lookupBatch": 150,
+   "delaySecs": 3.5,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.08982375088956952,
+  "newItems": 4413
+ },
+ "Gx3BgNFSJLdGTBZQH": {
+  "store": "app-store",
+  "actor": "WckBf1ocAvad9YfCT",
+  "octDataset": "sLM9DT5HcB04yRJAK",
+  "build": "latest",
+  "memory": 1024,
+  "timeout": 3600,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "de",
+    "fr"
+   ],
+   "genreIds": [
+    7001,
+    7002,
+    7003,
+    7004,
+    7005,
+    7006,
+    7007,
+    7008,
+    7009,
+    7011,
+    7012,
+    7013,
+    7014,
+    7015,
+    7016,
+    7017,
+    7018,
+    7019
+   ],
+   "charts": [
+    "topfree",
+    "toppaid",
+    "topgrossing"
+   ],
+   "seedSearchTerms": [],
+   "expandDevelopers": false,
+   "maxGames": 20000,
+   "lookupBatch": 150,
+   "delaySecs": 3.5,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 3750,
+  "octUsd": 0.06745893124293455,
+  "newRun": "7L2vz1KydpvcQKmtj",
+  "newDataset": "AAN1THPP4xk1HxOgu",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "de",
+    "fr"
+   ],
+   "genreIds": [
+    7001,
+    7002,
+    7003,
+    7004,
+    7005,
+    7006,
+    7007,
+    7008,
+    7009,
+    7011,
+    7012,
+    7013,
+    7014,
+    7015,
+    7016,
+    7017,
+    7018,
+    7019
+   ],
+   "charts": [
+    "topfree",
+    "toppaid",
+    "topgrossing"
+   ],
+   "seedSearchTerms": [],
+   "expandDevelopers": false,
+   "maxGames": 20000,
+   "lookupBatch": 150,
+   "delaySecs": 3.5,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.06781294589917361,
+  "newItems": 3810
+ },
+ "VmmIXZOuTjGFYftxS": {
+  "store": "app-store",
+  "actor": "WckBf1ocAvad9YfCT",
+  "octDataset": "DNYpt7S5cJGjBuEes",
+  "build": "latest",
+  "memory": 1024,
+  "timeout": 3600,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "jp",
+    "au"
+   ],
+   "genreIds": [
+    7001,
+    7002,
+    7003,
+    7004,
+    7005,
+    7006,
+    7007,
+    7008,
+    7009,
+    7011,
+    7012,
+    7013,
+    7014,
+    7015,
+    7016,
+    7017,
+    7018,
+    7019
+   ],
+   "charts": [
+    "topfree",
+    "toppaid",
+    "topgrossing"
+   ],
+   "seedSearchTerms": [],
+   "expandDevelopers": false,
+   "maxGames": 20000,
+   "lookupBatch": 150,
+   "delaySecs": 3.5,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 4622,
+  "octUsd": 0.07580905115822124,
+  "newRun": "Mt2LYYENYTv3Iat51",
+  "newDataset": "CqkXDx0uMqMsYAim7",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "jp",
+    "au"
+   ],
+   "genreIds": [
+    7001,
+    7002,
+    7003,
+    7004,
+    7005,
+    7006,
+    7007,
+    7008,
+    7009,
+    7011,
+    7012,
+    7013,
+    7014,
+    7015,
+    7016,
+    7017,
+    7018,
+    7019
+   ],
+   "charts": [
+    "topfree",
+    "toppaid",
+    "topgrossing"
+   ],
+   "seedSearchTerms": [],
+   "expandDevelopers": false,
+   "maxGames": 20000,
+   "lookupBatch": 150,
+   "delaySecs": 3.5,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.07593900988227793,
+  "newItems": 4728
+ },
+ "KHHsswQscLF5cfV3m": {
+  "store": "google-play",
+  "actor": "cIvzURzdWXoYbrd5G",
+  "octDataset": "cudodsrvC5Dwxck9W",
+  "build": "0.1.3",
+  "memory": 1024,
+  "timeout": 1500,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "us"
+   ],
+   "categories": [
+    "GAME_ACTION",
+    "GAME_ADVENTURE",
+    "GAME_ARCADE",
+    "GAME_BOARD",
+    "GAME_CARD",
+    "GAME_CASINO",
+    "GAME_CASUAL",
+    "GAME_EDUCATIONAL",
+    "GAME_MUSIC"
+   ],
+   "expandSimilar": false,
+   "maxGames": 380,
+   "delaySecs": 3.5,
+   "hl": "en",
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 380,
+  "octUsd": 0.08610245448004208,
+  "newRun": "J4yNUCcUIgxM9XBDF",
+  "newDataset": "nR4kHcdG4Vmc0aDyI",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "us"
+   ],
+   "categories": [
+    "GAME_ACTION",
+    "GAME_ADVENTURE",
+    "GAME_ARCADE",
+    "GAME_BOARD",
+    "GAME_CARD",
+    "GAME_CASINO",
+    "GAME_CASUAL",
+    "GAME_EDUCATIONAL",
+    "GAME_MUSIC"
+   ],
+   "expandSimilar": false,
+   "maxGames": 380,
+   "delaySecs": 3.5,
+   "hl": "en",
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.08379228507293929,
+  "newItems": 380
+ },
+ "QFc9hwwPOd5P5YdnS": {
+  "store": "google-play",
+  "actor": "cIvzURzdWXoYbrd5G",
+  "octDataset": "sUgwtdHOOPK7lL2gQ",
+  "build": "0.1.3",
+  "memory": 1024,
+  "timeout": 2400,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "us"
+   ],
+   "categories": [
+    "GAME_MUSIC",
+    "GAME_PUZZLE",
+    "GAME_RACING",
+    "GAME_ROLE_PLAYING",
+    "GAME_SIMULATION",
+    "GAME_SPORTS",
+    "GAME_STRATEGY",
+    "GAME_TRIVIA",
+    "GAME_WORD"
+   ],
+   "expandSimilar": false,
+   "maxGames": 550,
+   "delaySecs": 3.5,
+   "hl": "en",
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 486,
+  "octUsd": 0.1088918150207334,
+  "newRun": "PdB6fLb8EJkIGD9GP",
+  "newDataset": "W8RDQDhi6dUIBSC0k",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "us"
+   ],
+   "categories": [
+    "GAME_MUSIC",
+    "GAME_PUZZLE",
+    "GAME_RACING",
+    "GAME_ROLE_PLAYING",
+    "GAME_SIMULATION",
+    "GAME_SPORTS",
+    "GAME_STRATEGY",
+    "GAME_TRIVIA",
+    "GAME_WORD"
+   ],
+   "expandSimilar": false,
+   "maxGames": 550,
+   "delaySecs": 3.5,
+   "hl": "en",
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.10538332916696366,
+  "newItems": 467
+ },
+ "LxEfDeoiIzHkwTMI5": {
+  "store": "google-play",
+  "actor": "cIvzURzdWXoYbrd5G",
+  "octDataset": "19XeZM67LJ4xkErTd",
+  "build": "0.1.4",
+  "memory": 1024,
+  "timeout": 2700,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "gb",
+    "ca"
+   ],
+   "expandSimilar": false,
+   "maxGames": 560,
+   "delaySecs": 3.5,
+   "hl": "en",
+   "skipDatasetIds": [
+    "cudodsrvC5Dwxck9W",
+    "sUgwtdHOOPK7lL2gQ"
+   ],
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 218,
+  "octUsd": 0.055776238825103325,
+  "newRun": "tIHQdtPZNnToGY8Yw",
+  "newDataset": "fHJeebQfBNuNNAyC4",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "gb",
+    "ca"
+   ],
+   "expandSimilar": false,
+   "maxGames": 560,
+   "delaySecs": 3.5,
+   "hl": "en",
+   "skipDatasetIds": [
+    "nR4kHcdG4Vmc0aDyI",
+    "W8RDQDhi6dUIBSC0k"
+   ],
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.0612171837800142,
+  "newItems": 188
+ },
+ "FUK7ts2t9mYoyse9i": {
+  "store": "google-play",
+  "actor": "cIvzURzdWXoYbrd5G",
+  "octDataset": "ZfBdXBCLHk5TPjUlq",
+  "build": "0.1.4",
+  "memory": 1024,
+  "timeout": 2700,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "de",
+    "fr"
+   ],
+   "expandSimilar": false,
+   "maxGames": 560,
+   "delaySecs": 3.5,
+   "hl": "en",
+   "skipDatasetIds": [
+    "cudodsrvC5Dwxck9W",
+    "sUgwtdHOOPK7lL2gQ",
+    "19XeZM67LJ4xkErTd"
+   ],
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 85,
+  "octUsd": 0.026921557626524897,
+  "newRun": "0xJVi38V0WKR4wn9X",
+  "newDataset": "qwKzvYHbBpiAUfZc1",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "de",
+    "fr"
+   ],
+   "expandSimilar": false,
+   "maxGames": 560,
+   "delaySecs": 3.5,
+   "hl": "en",
+   "skipDatasetIds": [
+    "nR4kHcdG4Vmc0aDyI",
+    "W8RDQDhi6dUIBSC0k",
+    "fHJeebQfBNuNNAyC4"
+   ],
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.02923479889212714,
+  "newItems": 72
+ },
+ "bbVVoVGGCTOiu0SbF": {
+  "store": "google-play",
+  "actor": "cIvzURzdWXoYbrd5G",
+  "octDataset": "l7LcmDaqAkwU9dgzW",
+  "build": "0.1.4",
+  "memory": 1024,
+  "timeout": 2700,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "jp",
+    "au"
+   ],
+   "expandSimilar": false,
+   "maxGames": 560,
+   "delaySecs": 3.5,
+   "hl": "en",
+   "skipDatasetIds": [
+    "cudodsrvC5Dwxck9W",
+    "sUgwtdHOOPK7lL2gQ",
+    "19XeZM67LJ4xkErTd",
+    "ZfBdXBCLHk5TPjUlq"
+   ],
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 141,
+  "octUsd": 0.038984338974137445,
+  "newRun": "8rNwuf2fHniM0Vu48",
+  "newDataset": "R8u4SJnokA6dBrihr",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "jp",
+    "au"
+   ],
+   "expandSimilar": false,
+   "maxGames": 560,
+   "delaySecs": 3.5,
+   "hl": "en",
+   "skipDatasetIds": [
+    "nR4kHcdG4Vmc0aDyI",
+    "W8RDQDhi6dUIBSC0k",
+    "fHJeebQfBNuNNAyC4",
+    "qwKzvYHbBpiAUfZc1"
+   ],
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.059676877528529716,
+  "newItems": 177
+ },
+ "UcfcRLfZODNYFgUaS": {
+  "store": "playstation",
+  "actor": "12Db4YeqNAtk9ovjQ",
+  "octDataset": "2dw1yA1ZcuFxRMCfh",
+  "build": "0.1.4",
+  "memory": 256,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "locales": [
+    "en-us"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.4,
+   "concurrency": 5,
+   "fetchDetails": true,
+   "maxPerGenre": 10000,
+   "pageSize": 24,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "FAILED",
+  "octItems": 759,
+  "octUsd": 0.018792218499807844,
+  "newRun": "EEvqU0y1Kl6as68IZ",
+  "newDataset": "5zf9VaJxw9JPA9qAH",
+  "newStatus": "FAILED",
+  "newInput": {
+   "locales": [
+    "en-us"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.4,
+   "concurrency": 5,
+   "fetchDetails": true,
+   "maxPerGenre": 10000,
+   "pageSize": 24,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.014288214783279431,
+  "newItems": 400
+ },
+ "qcVBTvuZu0bdcWSup": {
+  "store": "playstation",
+  "actor": "12Db4YeqNAtk9ovjQ",
+  "octDataset": "ey0ewEI6WxkFqaWhO",
+  "build": "0.1.4",
+  "memory": 512,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "locales": [
+    "en-us"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.2,
+   "concurrency": 20,
+   "fetchDetails": true,
+   "skipDatasetIds": [
+    "2dw1yA1ZcuFxRMCfh"
+   ],
+   "maxPerGenre": 10000,
+   "pageSize": 24,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "FAILED",
+  "octItems": 4952,
+  "octUsd": 0.07732601860111885,
+  "newRun": "2xTqnWmPUAcUATfuq",
+  "newDataset": "hMRAc18uc2hUeVxIT",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "locales": [
+    "en-us"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.2,
+   "concurrency": 20,
+   "fetchDetails": true,
+   "skipDatasetIds": [
+    "5zf9VaJxw9JPA9qAH"
+   ],
+   "maxPerGenre": 10000,
+   "pageSize": 24,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.18970771340976178,
+  "newItems": 12689
+ },
+ "hz02oJyRMJs3KNbCX": {
+  "store": "playstation",
+  "actor": "12Db4YeqNAtk9ovjQ",
+  "octDataset": "BTJ9hoSh30NgyXrQC",
+  "build": "0.1.4",
+  "memory": 1024,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "locales": [
+    "en-us"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.3,
+   "concurrency": 10,
+   "fetchDetails": true,
+   "skipDatasetIds": [
+    "2dw1yA1ZcuFxRMCfh",
+    "ey0ewEI6WxkFqaWhO"
+   ],
+   "maxPerGenre": 10000,
+   "pageSize": 24,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "ABORTED",
+  "octItems": 6910,
+  "octUsd": 0.13660039214215247,
+  "newRun": "UlW1OsUnaxc4n4kUV",
+  "newDataset": "yfvd4qM6sxSX05aFo",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "locales": [
+    "en-us"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.3,
+   "concurrency": 10,
+   "fetchDetails": true,
+   "skipDatasetIds": [
+    "5zf9VaJxw9JPA9qAH",
+    "hMRAc18uc2hUeVxIT"
+   ],
+   "maxPerGenre": 10000,
+   "pageSize": 24,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.017607521247285277,
+  "newItems": 0
+ },
+ "VRVvy0PcQawjmswDk": {
+  "store": "playstation",
+  "actor": "12Db4YeqNAtk9ovjQ",
+  "octDataset": "uq6QdyM2ONYwLb2NT",
+  "build": "0.1.4",
+  "memory": 1024,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "locales": [
+    "en-gb",
+    "en-ca"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.4,
+   "concurrency": 5,
+   "fetchDetails": true,
+   "skipDatasetIds": [
+    "2dw1yA1ZcuFxRMCfh",
+    "ey0ewEI6WxkFqaWhO",
+    "BTJ9hoSh30NgyXrQC"
+   ],
+   "maxPerGenre": 10000,
+   "pageSize": 24,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 577,
+  "octUsd": 0.05309217407448821,
+  "newRun": "zdMHYvPZxP7XhRi7y",
+  "newDataset": "TtoLbjHh7jNOfgTy5",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "locales": [
+    "en-gb",
+    "en-ca"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.4,
+   "concurrency": 5,
+   "fetchDetails": true,
+   "skipDatasetIds": [
+    "5zf9VaJxw9JPA9qAH",
+    "hMRAc18uc2hUeVxIT",
+    "yfvd4qM6sxSX05aFo"
+   ],
+   "maxPerGenre": 10000,
+   "pageSize": 24,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.04385209412555828,
+  "newItems": 110
+ },
+ "knHU8cuoDrdJ2v6jO": {
+  "store": "playstation",
+  "actor": "12Db4YeqNAtk9ovjQ",
+  "octDataset": "XYmhfDa2UGkdeukQR",
+  "build": "0.1.4",
+  "memory": 1024,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "locales": [
+    "de-de",
+    "fr-fr"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.4,
+   "concurrency": 5,
+   "fetchDetails": true,
+   "skipDatasetIds": [
+    "2dw1yA1ZcuFxRMCfh",
+    "ey0ewEI6WxkFqaWhO",
+    "BTJ9hoSh30NgyXrQC"
+   ],
+   "maxPerGenre": 10000,
+   "pageSize": 24,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 646,
+  "octUsd": 0.053520288104480174,
+  "newRun": "qWTt0ReQB1DEUz0Hv",
+  "newDataset": "siTGFiFLB5WMsKRqa",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "locales": [
+    "de-de",
+    "fr-fr"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.4,
+   "concurrency": 5,
+   "fetchDetails": true,
+   "skipDatasetIds": [
+    "5zf9VaJxw9JPA9qAH",
+    "hMRAc18uc2hUeVxIT",
+    "yfvd4qM6sxSX05aFo"
+   ],
+   "maxPerGenre": 10000,
+   "pageSize": 24,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.04478775605191886,
+  "newItems": 209
+ },
+ "5e7CDCjDgTFhfNMhk": {
+  "store": "playstation",
+  "actor": "12Db4YeqNAtk9ovjQ",
+  "octDataset": "OUgtwL69IQArsBPYR",
+  "build": "0.1.4",
+  "memory": 1024,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "locales": [
+    "ja-jp",
+    "en-au"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.4,
+   "concurrency": 5,
+   "fetchDetails": true,
+   "skipDatasetIds": [
+    "2dw1yA1ZcuFxRMCfh",
+    "ey0ewEI6WxkFqaWhO",
+    "BTJ9hoSh30NgyXrQC"
+   ],
+   "maxPerGenre": 10000,
+   "pageSize": 24,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 1022,
+  "octUsd": 0.05997769362348385,
+  "newRun": "Knpboc4Cuqd3Vyaff",
+  "newDataset": "9dLdFY4ZqovYwXd6E",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "locales": [
+    "ja-jp",
+    "en-au"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.4,
+   "concurrency": 5,
+   "fetchDetails": true,
+   "skipDatasetIds": [
+    "5zf9VaJxw9JPA9qAH",
+    "hMRAc18uc2hUeVxIT",
+    "yfvd4qM6sxSX05aFo"
+   ],
+   "maxPerGenre": 10000,
+   "pageSize": 24,
+   "proxyConfiguration": {
+    "useApifyProxy": false
+   }
+  },
+  "newUsd": 0.05032726927978398,
+  "newItems": 657
+ },
+ "IOYAstNbgyZZaNdmz": {
+  "store": "xbox",
+  "actor": "eDY2c3sG4cwh99q0F",
+  "octDataset": "4jW6D2kLnSYXnZSGJ",
+  "build": "0.1.1",
+  "memory": 512,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "locales": [
+    "en-US"
+   ],
+   "maxGames": 30000,
+   "delaySecs": 0.3,
+   "gamesOnly": true,
+   "concurrency": 2
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 17336,
+  "octUsd": 0.1376806002813528,
+  "newRun": "GCv0OTFkvWrzSq4eg",
+  "newDataset": "l4BgVGPenkwZpbSZO",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "locales": [
+    "en-US"
+   ],
+   "maxGames": 30000,
+   "delaySecs": 0.3,
+   "gamesOnly": true,
+   "concurrency": 2
+  },
+  "newUsd": 0.1534211150679373,
+  "newItems": 17531
+ },
+ "dVwPIBdCxc30HNynQ": {
+  "store": "xbox",
+  "actor": "eDY2c3sG4cwh99q0F",
+  "octDataset": "3WQXEdqODbhALlFtu",
+  "build": "0.1.3",
+  "memory": 512,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "locales": [
+    "en-GB",
+    "en-CA"
+   ],
+   "maxGames": 30000,
+   "delaySecs": 0.3,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "4jW6D2kLnSYXnZSGJ"
+   ],
+   "gamesOnly": true
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 210,
+  "octUsd": 0.03165386308205029,
+  "newRun": "hNd6POeaRSzIuZng7",
+  "newDataset": "gYLbi5NmfC86Si2Mn",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "locales": [
+    "en-GB",
+    "en-CA"
+   ],
+   "maxGames": 30000,
+   "delaySecs": 0.3,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "l4BgVGPenkwZpbSZO"
+   ],
+   "gamesOnly": true
+  },
+  "newUsd": 0.04655121780939467,
+  "newItems": 248
+ },
+ "BJI3oauEcjGzewhVm": {
+  "store": "xbox",
+  "actor": "eDY2c3sG4cwh99q0F",
+  "octDataset": "88LA5afD3PQ2ldbTe",
+  "build": "0.1.3",
+  "memory": 512,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "locales": [
+    "de-DE",
+    "fr-FR"
+   ],
+   "maxGames": 30000,
+   "delaySecs": 0.3,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "4jW6D2kLnSYXnZSGJ"
+   ],
+   "gamesOnly": true
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 306,
+  "octUsd": 0.03356021104564169,
+  "newRun": "EEv1ZGiLJ4aABk7vD",
+  "newDataset": "1L4ckJ5FQNDsXSybI",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "locales": [
+    "de-DE",
+    "fr-FR"
+   ],
+   "maxGames": 30000,
+   "delaySecs": 0.3,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "l4BgVGPenkwZpbSZO"
+   ],
+   "gamesOnly": true
+  },
+  "newUsd": 0.04808527588528297,
+  "newItems": 352
+ },
+ "Z1SRSfE1wmMx3AdFP": {
+  "store": "xbox",
+  "actor": "eDY2c3sG4cwh99q0F",
+  "octDataset": "TKzdMIdjDZF1l8ceu",
+  "build": "0.1.3",
+  "memory": 512,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "locales": [
+    "ja-JP",
+    "en-AU"
+   ],
+   "maxGames": 30000,
+   "delaySecs": 0.3,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "4jW6D2kLnSYXnZSGJ"
+   ],
+   "gamesOnly": true
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 449,
+  "octUsd": 0.0342481028418233,
+  "newRun": "oh5xFWmeHXVnfkpBG",
+  "newDataset": "ISOwKgewhA35w7EpX",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "locales": [
+    "ja-JP",
+    "en-AU"
+   ],
+   "maxGames": 30000,
+   "delaySecs": 0.3,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "l4BgVGPenkwZpbSZO"
+   ],
+   "gamesOnly": true
+  },
+  "newUsd": 0.0485142070354561,
+  "newItems": 489
+ },
+ "P9LJmy5flOl9XPSD1": {
+  "store": "nintendo",
+  "actor": "7evW6TQxMrCdeWqR5",
+  "octDataset": "tVJ407HH6FXVRMbPc",
+  "build": "0.1.1",
+  "memory": 1024,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "US"
+   ],
+   "concurrency": 1,
+   "maxGames": 60000,
+   "delaySecs": 0.2,
+   "gamesOnly": true
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 19842,
+  "octUsd": 0.1197424321530511,
+  "newRun": "xY93X1RzFX0EYEKF4",
+  "newDataset": "OvYAea1ERUzjpTAmP",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "US"
+   ],
+   "concurrency": 1,
+   "maxGames": 60000,
+   "delaySecs": 0.2,
+   "gamesOnly": true
+  },
+  "newUsd": 0.0895085521737536,
+  "newItems": 19474
+ },
+ "Ulhgqf7Ec63Iy5Bom": {
+  "store": "nintendo",
+  "actor": "7evW6TQxMrCdeWqR5",
+  "octDataset": "fIjbAgVjv2Z9rD0Zd",
+  "build": "0.1.2",
+  "memory": 512,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "GB",
+    "CA"
+   ],
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "tVJ407HH6FXVRMbPc"
+   ],
+   "maxGames": 60000,
+   "delaySecs": 0.2,
+   "gamesOnly": true
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 20017,
+  "octUsd": 0.11187130040960479,
+  "newRun": "xp151SaudyiD4rx4z",
+  "newDataset": "7ZhCkuNmtH9O4mXfC",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "GB",
+    "CA"
+   ],
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "OvYAea1ERUzjpTAmP"
+   ],
+   "maxGames": 60000,
+   "delaySecs": 0.2,
+   "gamesOnly": true
+  },
+  "newUsd": 0.11294554784533282,
+  "newItems": 20415
+ },
+ "CcNh8ULsPRATf472h": {
+  "store": "nintendo",
+  "actor": "7evW6TQxMrCdeWqR5",
+  "octDataset": "1HQS0s7eSSNXJ4s51",
+  "build": "0.1.2",
+  "memory": 512,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "DE",
+    "FR"
+   ],
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "fIjbAgVjv2Z9rD0Zd"
+   ],
+   "maxGames": 60000,
+   "delaySecs": 0.2,
+   "gamesOnly": true
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 69,
+  "octUsd": 0.010248888570364649,
+  "newRun": "tQ173zypgd3C8zcCQ",
+  "newDataset": "7qjUr4Ba7cvESFwTM",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "DE",
+    "FR"
+   ],
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "7ZhCkuNmtH9O4mXfC"
+   ],
+   "maxGames": 60000,
+   "delaySecs": 0.2,
+   "gamesOnly": true
+  },
+  "newUsd": 0.010058164124266968,
+  "newItems": 101
+ },
+ "jFKiLxceTEBaQFPc5": {
+  "store": "nintendo",
+  "actor": "7evW6TQxMrCdeWqR5",
+  "octDataset": "lttYT0AqPMDRuFb9F",
+  "build": "0.1.2",
+  "memory": 512,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "JP",
+    "AU"
+   ],
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "tVJ407HH6FXVRMbPc"
+   ],
+   "maxGames": 60000,
+   "delaySecs": 0.2,
+   "gamesOnly": true
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 16247,
+  "octUsd": 0.09753838490134777,
+  "newRun": "6L8s2gwgknMuejfSy",
+  "newDataset": "9MMaMrSCHqqvByerj",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "JP",
+    "AU"
+   ],
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "OvYAea1ERUzjpTAmP"
+   ],
+   "maxGames": 60000,
+   "delaySecs": 0.2,
+   "gamesOnly": true
+  },
+  "newUsd": 0.09730053817299242,
+  "newItems": 16620
+ },
+ "k94BULhbnEdJGPmg9": {
+  "store": "epic",
+  "actor": "bMVnZ5K6cwjYFxuuQ",
+  "octDataset": "gkAf69T2P7IyZl2RF",
+  "build": "0.1.1",
+  "memory": 512,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "US"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.2,
+   "concurrency": 2
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 7210,
+  "octUsd": 0.041732485698901936,
+  "newRun": "pZuNLSb0ZneznFuju",
+  "newDataset": "aVzf1T2eIe2WL1bZO",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "US"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.2,
+   "concurrency": 2
+  },
+  "newUsd": 0.03672022300437756,
+  "newItems": 7444
+ },
+ "eUrlQe2hWH6DzTFAh": {
+  "store": "epic",
+  "actor": "bMVnZ5K6cwjYFxuuQ",
+  "octDataset": "HDoCBokoWXDBJDaTA",
+  "build": "0.1.2",
+  "memory": 512,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "GB",
+    "CA"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.2,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "gkAf69T2P7IyZl2RF"
+   ]
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 9,
+  "octUsd": 0.009112944508009488,
+  "newRun": "nx6AvlKAmaBmgi1II",
+  "newDataset": "wWgMpfrAjWH7v4xQi",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "GB",
+    "CA"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.2,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "aVzf1T2eIe2WL1bZO"
+   ]
+  },
+  "newUsd": 0.008356903162571459,
+  "newItems": 10
+ },
+ "EOYN2xaVaZjLY6JL3": {
+  "store": "epic",
+  "actor": "bMVnZ5K6cwjYFxuuQ",
+  "octDataset": "OlikrfEdkBAAONrhZ",
+  "build": "0.1.2",
+  "memory": 512,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "DE",
+    "FR"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.2,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "gkAf69T2P7IyZl2RF"
+   ]
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 9,
+  "octUsd": 0.008305894208326937,
+  "newRun": "jSSqM3zNAXZIijXAw",
+  "newDataset": "IQRAgGW0mfbgHxMLQ",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "DE",
+    "FR"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.2,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "aVzf1T2eIe2WL1bZO"
+   ]
+  },
+  "newUsd": 0.00698684361121489,
+  "newItems": 13
+ },
+ "IwXNLSpLg1lNdpA6X": {
+  "store": "epic",
+  "actor": "bMVnZ5K6cwjYFxuuQ",
+  "octDataset": "J50vvm4rpiVqpsA8z",
+  "build": "0.1.2",
+  "memory": 512,
+  "timeout": 14400,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "JP",
+    "AU"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.2,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "gkAf69T2P7IyZl2RF"
+   ]
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 17,
+  "octUsd": 0.008969833141061997,
+  "newStatus": "SUCCEEDED",
+  "error": "HTTP Error 402: Payment Required",
+  "newRun": "Mf6yJrJRlFgkOqynu",
+  "newDataset": "hVir2bf4f7eivPQxJ",
+  "newInput": {
+   "countries": [
+    "JP",
+    "AU"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.2,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "aVzf1T2eIe2WL1bZO"
+   ]
+  },
+  "newUsd": 0.008427233324998949,
+  "newItems": 17
+ },
+ "WQ8lhMbBe6zZItIO8": {
+  "store": "gog",
+  "actor": "5WeGrFRbrMQGPkgwg",
+  "octDataset": "aour8CAGOZ5s0BcGM",
+  "build": "0.1.1",
+  "memory": 1024,
+  "timeout": 1800,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "US"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.3,
+   "concurrency": 1
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 6569,
+  "octUsd": 0.040052438316757484,
+  "newRun": "QVJSCld45IcThnZIH",
+  "newDataset": "NCPJCKbEXKi3XvDva",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "US"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.3,
+   "concurrency": 1
+  },
+  "newUsd": 0.036913991888958546,
+  "newItems": 6657
+ },
+ "EbevAfQmPGzDDMmM6": {
+  "store": "gog",
+  "actor": "5WeGrFRbrMQGPkgwg",
+  "octDataset": "cjtCrq3XWBu1UOSM6",
+  "build": "0.1.1",
+  "memory": 1024,
+  "timeout": 1800,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "GB",
+    "CA"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.3,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "aour8CAGOZ5s0BcGM"
+   ]
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 0,
+  "octUsd": 0.010197713433140847,
+  "newRun": "XAlhOFaAMBF4b2B2i",
+  "newDataset": "YpJiddRDxq2IeiN2F",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "GB",
+    "CA"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.3,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "NCPJCKbEXKi3XvDva"
+   ]
+  },
+  "newUsd": 0.010432052233773472,
+  "newItems": 0
+ },
+ "p9eaKfv6afed6G7wq": {
+  "store": "gog",
+  "actor": "5WeGrFRbrMQGPkgwg",
+  "octDataset": "nCiCKlcsBTA5cK3HB",
+  "build": "0.1.1",
+  "memory": 1024,
+  "timeout": 1800,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "DE",
+    "FR"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.3,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "aour8CAGOZ5s0BcGM"
+   ]
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 2,
+  "octUsd": 0.00999932049420244,
+  "newRun": "ghXfCIhscKxq4N2E6",
+  "newDataset": "HNI8v2lOZWL9aso8B",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "DE",
+    "FR"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.3,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "NCPJCKbEXKi3XvDva"
+   ]
+  },
+  "newUsd": 0.010505673861458568,
+  "newItems": 3
+ },
+ "2Q5jrDJd5fAVZ8pZP": {
+  "store": "gog",
+  "actor": "5WeGrFRbrMQGPkgwg",
+  "octDataset": "f4ajcLifd6sAEuHlJ",
+  "build": "0.1.1",
+  "memory": 1024,
+  "timeout": 1800,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "JP",
+    "AU"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.3,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "aour8CAGOZ5s0BcGM",
+    "nCiCKlcsBTA5cK3HB"
+   ]
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 1,
+  "octUsd": 0.009731822723190653,
+  "newRun": "5cI8O1lMMO1xc0J2d",
+  "newDataset": "7ohfz9AHqKkaUjwQh",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "JP",
+    "AU"
+   ],
+   "maxGames": 20000,
+   "delaySecs": 0.3,
+   "concurrency": 2,
+   "skipDatasetIds": [
+    "NCPJCKbEXKi3XvDva",
+    "HNI8v2lOZWL9aso8B"
+   ]
+  },
+  "newUsd": 0.010049113797555367,
+  "newItems": 1
+ },
+ "cVDQAhlsUJxNTK8jo": {
+  "store": "itch",
+  "actor": "l7yIXTWjTL5hNJlzs",
+  "octDataset": "cn6ttImygXhMUQMxw",
+  "build": "latest",
+  "memory": 1024,
+  "timeout": 3000,
+  "maxCharge": null,
+  "input": {
+   "maxPagesPerTag": 15,
+   "concurrency": 3,
+   "delaySecs": 0.7,
+   "sort": "top-rated"
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 30287,
+  "octUsd": 0.17901508319284024,
+  "newRun": "XS29rr7tNxrF5h0UB",
+  "newDataset": "AdMAxvto3vKRYjegg",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "maxPagesPerTag": 15,
+   "concurrency": 3,
+   "delaySecs": 0.7,
+   "sort": "top-rated"
+  },
+  "newUsd": 0.026609056682621438,
+  "newItems": 30719
+ },
+ "tPDrVwDaJdi4h3bCu": {
+  "store": "roblox",
+  "actor": "tw3gPMN3uWG0c3ray",
+  "octDataset": "br1sPU8eCBUvfZ9pI",
+  "build": "latest",
+  "memory": 1024,
+  "timeout": 3000,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "all",
+    "us",
+    "gb",
+    "br",
+    "de",
+    "jp",
+    "ph",
+    "mx"
+   ],
+   "explorePages": 15,
+   "searchPages": 5,
+   "concurrency": 4,
+   "delaySecs": 0.3
+  },
+  "octStatus": "ABORTED",
+  "octItems": 11050,
+  "octUsd": 0.13309950159515777,
+  "newRun": "3qzioQAjzFaLRui3d",
+  "newDataset": "musL8uk08cVPbL7Kv",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "all",
+    "us",
+    "gb",
+    "br",
+    "de",
+    "jp",
+    "ph",
+    "mx"
+   ],
+   "explorePages": 15,
+   "searchPages": 5,
+   "concurrency": 4,
+   "delaySecs": 0.3
+  },
+  "newUsd": 0.16062979359674284,
+  "newItems": 12368
+ },
+ "NHdzWj3IEIXRNciEy": {
+  "store": "roblox",
+  "actor": "tw3gPMN3uWG0c3ray",
+  "octDataset": "shX0jRUaVFRx1FUDK",
+  "build": "latest",
+  "memory": 1024,
+  "timeout": 3600,
+  "maxCharge": null,
+  "input": {
+   "countries": [
+    "all",
+    "us",
+    "gb",
+    "br",
+    "de",
+    "jp",
+    "ph",
+    "mx"
+   ],
+   "explorePages": 15,
+   "searchPages": 5,
+   "concurrency": 2,
+   "delaySecs": 1,
+   "skipDatasetIds": [
+    "br1sPU8eCBUvfZ9pI"
+   ]
+  },
+  "octStatus": "SUCCEEDED",
+  "octItems": 436,
+  "octUsd": 0.0314944900389976,
+  "newRun": "yJzddadGi5W5kU3Xl",
+  "newDataset": "7LIKusTVk5aEi0iYg",
+  "newStatus": "SUCCEEDED",
+  "newInput": {
+   "countries": [
+    "all",
+    "us",
+    "gb",
+    "br",
+    "de",
+    "jp",
+    "ph",
+    "mx"
+   ],
+   "explorePages": 15,
+   "searchPages": 5,
+   "concurrency": 2,
+   "delaySecs": 1,
+   "skipDatasetIds": [
+    "musL8uk08cVPbL7Kv"
+   ]
+  },
+  "newUsd": 0.029855508997990356,
+  "newItems": 96
+ }
+}

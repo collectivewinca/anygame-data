@@ -1,0 +1,1657 @@
+{
+ "games": 83379,
+ "simTags": [
+  "Automation",
+  "Colony Sim",
+  "Management",
+  "Resource Management",
+  "Economy",
+  "Capitalism",
+  "City Builder",
+  "Idler",
+  "Clicker",
+  "Incremental"
+ ],
+ "plausibleTriples": 298231,
+ "unseenTriples": 200334,
+ "rankedCandidates": 20000,
+ "baselineNnSimP5": 0.8300253748893738,
+ "gaps": [
+  {
+   "tags": [
+    "6DOF",
+    "Investigation",
+    "Management"
+   ],
+   "nnSim": 0.690805196762085,
+   "pairCounts": {
+    "6DOF+Investigation": 4,
+    "6DOF+Management": 7,
+    "Investigation+Management": 18
+   },
+   "nearest": [
+    {
+     "title": "Parker & Lane: Criminal Justice",
+     "url": "https://store.steampowered.com/app/761790/",
+     "sim": 0.690805196762085,
+     "tags": [
+      "Casual",
+      "Adventure",
+      "Simulation",
+      "Detective",
+      "Crime",
+      "Time Management"
+     ],
+     "reviews": 69
+    },
+    {
+     "title": "Surveillance Work -Taboo-",
+     "url": "https://store.steampowered.com/app/2793240/",
+     "sim": 0.6891897320747375,
+     "tags": [
+      "Horror",
+      "Puzzle",
+      "Psychological Horror",
+      "Hidden Object",
+      "Multiple Endings",
+      "Indie"
+     ],
+     "reviews": 38
+    },
+    {
+     "title": "Devil's Trap",
+     "url": "https://store.steampowered.com/app/3072990/",
+     "sim": 0.6876827478408813,
+     "tags": [
+      "Action",
+      "Casual",
+      "Adventure",
+      "Action-Adventure",
+      "FPS",
+      "First-Person"
+     ],
+     "reviews": 10
+    }
+   ]
+  },
+  {
+   "tags": [
+    "1990's",
+    "Resource Management",
+    "Wholesome"
+   ],
+   "nnSim": 0.6914224624633789,
+   "pairCounts": {
+    "1990's+Resource Management": 14,
+    "1990's+Wholesome": 2,
+    "Resource Management+Wholesome": 9
+   },
+   "nearest": [
+    {
+     "title": "Wind field",
+     "url": "https://store.steampowered.com/app/2883620/",
+     "sim": 0.6914224624633789,
+     "tags": [
+      "Strategy",
+      "Adventure",
+      "Farming Sim",
+      "Top-Down Shooter",
+      "Top-Down",
+      "1990's"
+     ],
+     "reviews": 11
+    },
+    {
+     "title": "\u6211\u4eec\u7684\u56fd",
+     "url": "https://store.steampowered.com/app/1156970/",
+     "sim": 0.684394896030426,
+     "tags": [
+      "Casual",
+      "Indie",
+      "Strategy"
+     ],
+     "reviews": 5
+    },
+    {
+     "title": "Cozy Campzone",
+     "url": "https://store.steampowered.com/app/2965730/",
+     "sim": 0.6841812133789062,
+     "tags": [
+      "Cozy",
+      "Hidden Object",
+      "Family Friendly",
+      "Wholesome",
+      "Casual",
+      "Nature"
+     ],
+     "reviews": 2
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Great Soundtrack",
+    "Management",
+    "Western"
+   ],
+   "nnSim": 0.694977879524231,
+   "pairCounts": {
+    "Great Soundtrack+Management": 27,
+    "Great Soundtrack+Western": 11,
+    "Management+Western": 8
+   },
+   "nearest": [
+    {
+     "title": "Cosplay Maker",
+     "url": "https://store.steampowered.com/app/299090/",
+     "sim": 0.694977879524231,
+     "tags": [
+      "Simulation",
+      "Indie",
+      "Female Protagonist",
+      "Dating Sim",
+      "Management",
+      "Great Soundtrack"
+     ],
+     "reviews": 57
+    },
+    {
+     "title": "Crafting Tycoon",
+     "url": "https://store.steampowered.com/app/757440/",
+     "sim": 0.6925348043441772,
+     "tags": [
+      "Strategy",
+      "Indie",
+      "Simulation",
+      "Crafting",
+      "Management",
+      "Great Soundtrack"
+     ],
+     "reviews": 4
+    },
+    {
+     "title": "Maggie's Movies - Camera, Action!",
+     "url": "https://store.steampowered.com/app/691580/",
+     "sim": 0.6918378472328186,
+     "tags": [
+      "Casual",
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Time Management"
+     ],
+     "reviews": 45
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Blood",
+    "Hand-drawn",
+    "Resource Management"
+   ],
+   "nnSim": 0.7051830291748047,
+   "pairCounts": {
+    "Blood+Hand-drawn": 3,
+    "Blood+Resource Management": 2,
+    "Hand-drawn+Resource Management": 36
+   },
+   "nearest": [
+    {
+     "title": "Cyberlink Screen Recorder 4  - Record your games, RPG, car game, shooting gameplay - Game Recording and Streaming Software",
+     "url": "https://store.steampowered.com/app/978990/",
+     "sim": 0.7051830291748047,
+     "tags": [
+      "Video Production",
+      "Design & Illustration",
+      "Utilities",
+      "Audio Production"
+     ],
+     "reviews": 29
+    },
+    {
+     "title": "Body Discovery",
+     "url": "https://store.steampowered.com/app/1063070/",
+     "sim": 0.6981613039970398,
+     "tags": [
+      "Action",
+      "Adventure"
+     ],
+     "reviews": 3
+    },
+    {
+     "title": "StoryMaker",
+     "url": "https://store.steampowered.com/app/3125740/",
+     "sim": 0.6949682235717773,
+     "tags": [
+      "Design & Illustration",
+      "Utilities"
+     ],
+     "reviews": 4
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Cats",
+    "Historical",
+    "Management"
+   ],
+   "nnSim": 0.7097317576408386,
+   "pairCounts": {
+    "Cats+Historical": 7,
+    "Cats+Management": 14,
+    "Historical+Management": 165
+   },
+   "nearest": [
+    {
+     "title": "Cat Cafe Manager",
+     "url": "https://store.steampowered.com/app/1354830/",
+     "sim": 0.7097317576408386,
+     "tags": [
+      "Cozy",
+      "Simulation",
+      "Management",
+      "Strategy",
+      "Life Sim",
+      "Building"
+     ],
+     "reviews": 2844
+    },
+    {
+     "title": "Fierce Tales: Feline Sight Collector's Edition",
+     "url": "https://store.steampowered.com/app/805010/",
+     "sim": 0.7079485654830933,
+     "tags": [
+      "Casual",
+      "Adventure",
+      "Hidden Object"
+     ],
+     "reviews": 7
+    },
+    {
+     "title": "Kitten Cannon",
+     "url": "https://store.steampowered.com/app/550820/",
+     "sim": 0.7038624286651611,
+     "tags": [
+      "Casual",
+      "VR"
+     ],
+     "reviews": 44
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Economy",
+    "Old School",
+    "Story Rich"
+   ],
+   "nnSim": 0.7109257578849792,
+   "pairCounts": {
+    "Economy+Old School": 14,
+    "Economy+Story Rich": 24,
+    "Old School+Story Rich": 146
+   },
+   "nearest": [
+    {
+     "title": "Trace of the past",
+     "url": "https://store.steampowered.com/app/1115060/",
+     "sim": 0.7109257578849792,
+     "tags": [
+      "Adventure",
+      "Indie",
+      "Horror",
+      "Psychological Horror",
+      "Story Rich"
+     ],
+     "reviews": 12
+    },
+    {
+     "title": "Max Payne RU",
+     "url": "https://store.steampowered.com/app/210350/",
+     "sim": 0.7062069177627563,
+     "tags": [
+      "Action",
+      "Classic",
+      "Atmospheric",
+      "Story Rich",
+      "Shooter",
+      "Bullet Time"
+     ],
+     "reviews": 430
+    },
+    {
+     "title": "Unsung Heroes: The Golden Mask",
+     "url": "https://store.steampowered.com/app/1029870/",
+     "sim": 0.706170380115509,
+     "tags": [
+      "Casual",
+      "Strategy",
+      "Adventure",
+      "Time Management",
+      "Female Protagonist",
+      "Story Rich"
+     ],
+     "reviews": 85
+    }
+   ]
+  },
+  {
+   "tags": [
+    "1980s",
+    "Economy",
+    "Nature"
+   ],
+   "nnSim": 0.7129148244857788,
+   "pairCounts": {
+    "1980s+Economy": 4,
+    "1980s+Nature": 6,
+    "Economy+Nature": 30
+   },
+   "nearest": [
+    {
+     "title": "Chasm",
+     "url": "https://store.steampowered.com/app/3135560/",
+     "sim": 0.7129148244857788,
+     "tags": [
+      "Adventure",
+      "Casual",
+      "Action-Adventure",
+      "2D Platformer",
+      "2D",
+      "1980s"
+     ],
+     "reviews": 1
+    },
+    {
+     "title": "\u98a8\u8272\u5e7b\u60f34:\u8056\u6230\u7684\u7d42\u7109",
+     "url": "https://store.steampowered.com/app/2020510/",
+     "sim": 0.7084367871284485,
+     "tags": [
+      "Adventure",
+      "Strategy",
+      "RPG",
+      "Board Game",
+      "Anime",
+      "Cartoon"
+     ],
+     "reviews": 71
+    },
+    {
+     "title": "PAWN SHOP SIMULATOR",
+     "url": "https://store.steampowered.com/app/2074960/",
+     "sim": 0.7048266530036926,
+     "tags": [
+      "Immersive Sim",
+      "Life Sim",
+      "Trading",
+      "Management",
+      "Resource Management",
+      "1980s"
+     ],
+     "reviews": 45
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Faith",
+    "Family Friendly",
+    "Resource Management"
+   ],
+   "nnSim": 0.7165361642837524,
+   "pairCounts": {
+    "Faith+Family Friendly": 15,
+    "Faith+Resource Management": 4,
+    "Family Friendly+Resource Management": 89
+   },
+   "nearest": [
+    {
+     "title": "Mystery Maze Of Balthasar Castle",
+     "url": "https://store.steampowered.com/app/368880/",
+     "sim": 0.7165361642837524,
+     "tags": [
+      "Adventure",
+      "Casual",
+      "Family Friendly"
+     ],
+     "reviews": 10
+    },
+    {
+     "title": "Church Simulator",
+     "url": "https://store.steampowered.com/app/3112500/",
+     "sim": 0.7113779187202454,
+     "tags": [
+      "Simulation",
+      "Management",
+      "Faith",
+      "Resource Management",
+      "Immersive Sim",
+      "Inventory Management"
+     ],
+     "reviews": 81
+    },
+    {
+     "title": "Word",
+     "url": "https://store.steampowered.com/app/2151420/",
+     "sim": 0.7042208313941956,
+     "tags": [
+      "Typing",
+      "Faith",
+      "Singleplayer",
+      "Nonlinear",
+      "Historical",
+      "Casual"
+     ],
+     "reviews": 33
+    }
+   ]
+  },
+  {
+   "tags": [
+    "America",
+    "Colorful",
+    "Economy"
+   ],
+   "nnSim": 0.7171691656112671,
+   "pairCounts": {
+    "America+Colorful": 38,
+    "America+Economy": 9,
+    "Colorful+Economy": 81
+   },
+   "nearest": [
+    {
+     "title": "Gem Exploration",
+     "url": "https://store.steampowered.com/app/3427470/",
+     "sim": 0.7171691656112671,
+     "tags": [
+      "Casual",
+      "2D",
+      "Pixel Graphics",
+      "Cute",
+      "Colorful"
+     ],
+     "reviews": 1
+    },
+    {
+     "title": "Colorvore",
+     "url": "https://store.steampowered.com/app/1006190/",
+     "sim": 0.7165794968605042,
+     "tags": [
+      "Casual",
+      "Indie"
+     ],
+     "reviews": 1
+    },
+    {
+     "title": "RGBCELLS",
+     "url": "https://store.steampowered.com/app/889990/",
+     "sim": 0.7042969465255737,
+     "tags": [
+      "Indie",
+      "Casual",
+      "Puzzle",
+      "Logic",
+      "Strategy"
+     ],
+     "reviews": 4
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Automation",
+    "Crime",
+    "Multiple Endings"
+   ],
+   "nnSim": 0.7218101024627686,
+   "pairCounts": {
+    "Automation+Crime": 3,
+    "Automation+Multiple Endings": 4,
+    "Crime+Multiple Endings": 46
+   },
+   "nearest": [
+    {
+     "title": "Unused (OH)",
+     "url": "https://store.steampowered.com/app/1206740/",
+     "sim": 0.7218101024627686,
+     "tags": [
+      "Free to Play",
+      "Indie",
+      "Action",
+      "Utilities",
+      "Software",
+      "Automation"
+     ],
+     "reviews": 38
+    },
+    {
+     "title": "Dashbot Ninja",
+     "url": "https://store.steampowered.com/app/1193950/",
+     "sim": 0.7179712057113647,
+     "tags": [
+      "Action",
+      "Indie"
+     ],
+     "reviews": 6
+    },
+    {
+     "title": "Code Lab\uff08\u4ee3\u7801\u5b9e\u9a8c\u5ba4\uff09",
+     "url": "https://store.steampowered.com/app/1577860/",
+     "sim": 0.7165390253067017,
+     "tags": [
+      "Simulation",
+      "Strategy",
+      "Sandbox",
+      "Puzzle-Platformer",
+      "3D",
+      "Futuristic"
+     ],
+     "reviews": 2
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Detective",
+    "Idler",
+    "Martial Arts"
+   ],
+   "nnSim": 0.7243509888648987,
+   "pairCounts": {
+    "Detective+Idler": 11,
+    "Detective+Martial Arts": 3,
+    "Idler+Martial Arts": 10
+   },
+   "nearest": [
+    {
+     "title": "Idle Fairy Fantasy",
+     "url": "https://store.steampowered.com/app/2875090/",
+     "sim": 0.7243509888648987,
+     "tags": [
+      "Action RPG",
+      "Idler",
+      "Loot",
+      "RPG",
+      "Hack and Slash",
+      "Combat"
+     ],
+     "reviews": 95
+    },
+    {
+     "title": "Punished Talents: Seven Muses Collector's Edition",
+     "url": "https://store.steampowered.com/app/613350/",
+     "sim": 0.7231243252754211,
+     "tags": [
+      "Adventure",
+      "Casual",
+      "Hidden Object"
+     ],
+     "reviews": 3
+    },
+    {
+     "title": "1997",
+     "url": "https://store.steampowered.com/app/2013120/",
+     "sim": 0.7217684984207153,
+     "tags": [
+      "Visual Novel",
+      "Idler",
+      "Anime",
+      "1990's",
+      "Adventure",
+      "Detective"
+     ],
+     "reviews": 223
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Automation",
+    "Conversation",
+    "Fishing"
+   ],
+   "nnSim": 0.7271920442581177,
+   "pairCounts": {
+    "Automation+Conversation": 3,
+    "Automation+Fishing": 5,
+    "Conversation+Fishing": 3
+   },
+   "nearest": [
+    {
+     "title": "Unused (OH)",
+     "url": "https://store.steampowered.com/app/1206740/",
+     "sim": 0.7271920442581177,
+     "tags": [
+      "Free to Play",
+      "Indie",
+      "Action",
+      "Utilities",
+      "Software",
+      "Automation"
+     ],
+     "reviews": 38
+    },
+    {
+     "title": "Code Lab\uff08\u4ee3\u7801\u5b9e\u9a8c\u5ba4\uff09",
+     "url": "https://store.steampowered.com/app/1577860/",
+     "sim": 0.7259013652801514,
+     "tags": [
+      "Simulation",
+      "Strategy",
+      "Sandbox",
+      "Puzzle-Platformer",
+      "3D",
+      "Futuristic"
+     ],
+     "reviews": 2
+    },
+    {
+     "title": "Reincarnation : Hero of the Gun",
+     "url": "https://store.steampowered.com/app/2311410/",
+     "sim": 0.7255452275276184,
+     "tags": [
+      "Idler",
+      "Text-Based",
+      "Word Game",
+      "Automation",
+      "Casual",
+      "Relaxing"
+     ],
+     "reviews": 80
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Automation",
+    "Comic Book",
+    "Magic"
+   ],
+   "nnSim": 0.7325925230979919,
+   "pairCounts": {
+    "Automation+Comic Book": 2,
+    "Automation+Magic": 11,
+    "Comic Book+Magic": 12
+   },
+   "nearest": [
+    {
+     "title": "Code Lab\uff08\u4ee3\u7801\u5b9e\u9a8c\u5ba4\uff09",
+     "url": "https://store.steampowered.com/app/1577860/",
+     "sim": 0.7325925230979919,
+     "tags": [
+      "Simulation",
+      "Strategy",
+      "Sandbox",
+      "Puzzle-Platformer",
+      "3D",
+      "Futuristic"
+     ],
+     "reviews": 2
+    },
+    {
+     "title": "Mogh",
+     "url": "https://store.steampowered.com/app/1102940/",
+     "sim": 0.7229167222976685,
+     "tags": [
+      "Indie"
+     ],
+     "reviews": 5
+    },
+    {
+     "title": "Unused (OH)",
+     "url": "https://store.steampowered.com/app/1206740/",
+     "sim": 0.7213130593299866,
+     "tags": [
+      "Free to Play",
+      "Indie",
+      "Action",
+      "Utilities",
+      "Software",
+      "Automation"
+     ],
+     "reviews": 38
+    }
+   ]
+  },
+  {
+   "tags": [
+    "FMV",
+    "Idler",
+    "Military"
+   ],
+   "nnSim": 0.7416113018989563,
+   "pairCounts": {
+    "FMV+Idler": 13,
+    "FMV+Military": 2,
+    "Idler+Military": 5
+   },
+   "nearest": [
+    {
+     "title": "Alive Cursor",
+     "url": "https://store.steampowered.com/app/1606490/",
+     "sim": 0.7416113018989563,
+     "tags": [
+      "Utilities",
+      "Game Development",
+      "Dark Humor",
+      "Artificial Intelligence",
+      "Sci-fi",
+      "Tabletop"
+     ],
+     "reviews": 17
+    },
+    {
+     "title": "FlyManMissile",
+     "url": "https://store.steampowered.com/app/1200290/",
+     "sim": 0.7396901845932007,
+     "tags": [
+      "Wargame",
+      "Military",
+      "Action",
+      "War",
+      "Flight",
+      "Jet"
+     ],
+     "reviews": 14
+    },
+    {
+     "title": "Trump VS Covid: Save The World Clicker",
+     "url": "https://store.steampowered.com/app/1454580/",
+     "sim": 0.737777829170227,
+     "tags": [
+      "Clicker",
+      "Simulation",
+      "Idler",
+      "Outbreak Sim",
+      "Strategy",
+      "Political Sim"
+     ],
+     "reviews": 35
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Difficult",
+    "Diplomacy",
+    "Idler"
+   ],
+   "nnSim": 0.742986261844635,
+   "pairCounts": {
+    "Difficult+Diplomacy": 2,
+    "Difficult+Idler": 13,
+    "Diplomacy+Idler": 3
+   },
+   "nearest": [
+    {
+     "title": "Reincarnation : Hero of the Gun",
+     "url": "https://store.steampowered.com/app/2311410/",
+     "sim": 0.742986261844635,
+     "tags": [
+      "Idler",
+      "Text-Based",
+      "Word Game",
+      "Automation",
+      "Casual",
+      "Relaxing"
+     ],
+     "reviews": 80
+    },
+    {
+     "title": "Pukan Bye Bye",
+     "url": "https://store.steampowered.com/app/822530/",
+     "sim": 0.7390245795249939,
+     "tags": [
+      "Indie",
+      "Adventure",
+      "Casual",
+      "Action",
+      "Difficult",
+      "Retro"
+     ],
+     "reviews": 119
+    },
+    {
+     "title": "RUSSIAPHOBIA",
+     "url": "https://store.steampowered.com/app/1184160/",
+     "sim": 0.7386640906333923,
+     "tags": [
+      "Action-Adventure",
+      "Idler",
+      "Political Sim",
+      "Horror",
+      "Relaxing",
+      "Strategy"
+     ],
+     "reviews": 7209
+    }
+   ]
+  },
+  {
+   "tags": [
+    "City Builder",
+    "Dark Comedy",
+    "Education"
+   ],
+   "nnSim": 0.7445197105407715,
+   "pairCounts": {
+    "City Builder+Dark Comedy": 5,
+    "City Builder+Education": 30,
+    "Dark Comedy+Education": 3
+   },
+   "nearest": [
+    {
+     "title": "Heian City Story",
+     "url": "https://store.steampowered.com/app/3132250/",
+     "sim": 0.7445197105407715,
+     "tags": [
+      "Casual",
+      "Simulation",
+      "Strategy",
+      "City Builder",
+      "2D Platformer",
+      "2.5D"
+     ],
+     "reviews": 93
+    },
+    {
+     "title": "Villager comes alive",
+     "url": "https://store.steampowered.com/app/1876180/",
+     "sim": 0.743461012840271,
+     "tags": [
+      "Casual",
+      "Strategy",
+      "Simulation",
+      "City Builder",
+      "Sandbox",
+      "Tower Defense"
+     ],
+     "reviews": 5
+    },
+    {
+     "title": "Tile Cities 2",
+     "url": "https://store.steampowered.com/app/2838720/",
+     "sim": 0.7422754764556885,
+     "tags": [
+      "Casual",
+      "Strategy",
+      "Simulation",
+      "Puzzle",
+      "City Builder",
+      "Minimalist"
+     ],
+     "reviews": 30
+    }
+   ]
+  },
+  {
+   "tags": [
+    "City Builder",
+    "Romance",
+    "Satire"
+   ],
+   "nnSim": 0.7457261085510254,
+   "pairCounts": {
+    "City Builder+Romance": 10,
+    "City Builder+Satire": 4,
+    "Romance+Satire": 6
+   },
+   "nearest": [
+    {
+     "title": "City Play",
+     "url": "https://store.steampowered.com/app/422270/",
+     "sim": 0.7457261085510254,
+     "tags": [
+      "Indie",
+      "Strategy",
+      "Simulation",
+      "City Builder"
+     ],
+     "reviews": 33
+    },
+    {
+     "title": "Heian City Story",
+     "url": "https://store.steampowered.com/app/3132250/",
+     "sim": 0.7443882822990417,
+     "tags": [
+      "Casual",
+      "Simulation",
+      "Strategy",
+      "City Builder",
+      "2D Platformer",
+      "2.5D"
+     ],
+     "reviews": 93
+    },
+    {
+     "title": "Cat President ~A More Purrfect Union~",
+     "url": "https://store.steampowered.com/app/474980/",
+     "sim": 0.7403997182846069,
+     "tags": [
+      "Dating Sim",
+      "Visual Novel",
+      "Cats",
+      "Romance",
+      "Dialogue Heavy",
+      "Parody "
+     ],
+     "reviews": 174
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Agriculture",
+    "Capitalism",
+    "Comedy"
+   ],
+   "nnSim": 0.7483158707618713,
+   "pairCounts": {
+    "Agriculture+Capitalism": 15,
+    "Agriculture+Comedy": 6,
+    "Capitalism+Comedy": 36
+   },
+   "nearest": [
+    {
+     "title": "Homestead",
+     "url": "https://store.steampowered.com/app/966250/",
+     "sim": 0.7483158707618713,
+     "tags": [
+      "RPG",
+      "Indie",
+      "Early Access"
+     ],
+     "reviews": 2
+    },
+    {
+     "title": "Farming Life",
+     "url": "https://store.steampowered.com/app/1031270/",
+     "sim": 0.7482368350028992,
+     "tags": [
+      "Simulation",
+      "Farming Sim",
+      "Indie",
+      "Casual",
+      "Family Friendly",
+      "Farming"
+     ],
+     "reviews": 199
+    },
+    {
+     "title": "FarmCraft 2",
+     "url": "https://store.steampowered.com/app/2566450/",
+     "sim": 0.7415210604667664,
+     "tags": [
+      "Casual",
+      "Simulation",
+      "Farming Sim",
+      "Point & Click",
+      "Clicker",
+      "2D"
+     ],
+     "reviews": 14
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Capitalism",
+    "Drama",
+    "Perma Death"
+   ],
+   "nnSim": 0.7499632239341736,
+   "pairCounts": {
+    "Capitalism+Drama": 3,
+    "Capitalism+Perma Death": 3,
+    "Drama+Perma Death": 2
+   },
+   "nearest": [
+    {
+     "title": "Epic Dumpster Bear: Dumpster Fire Redux",
+     "url": "https://store.steampowered.com/app/701810/",
+     "sim": 0.7499632239341736,
+     "tags": [
+      "Action",
+      "Platformer",
+      "Side Scroller",
+      "2D",
+      "Comedy",
+      "Retro"
+     ],
+     "reviews": 31
+    },
+    {
+     "title": "Cloud Chasers - Journey of Hope",
+     "url": "https://store.steampowered.com/app/751670/",
+     "sim": 0.7482549548149109,
+     "tags": [
+      "Casual",
+      "Indie",
+      "Adventure",
+      "Survival",
+      "Beautiful",
+      "Steampunk"
+     ],
+     "reviews": 11
+    },
+    {
+     "title": "Democratic Socialism Simulator",
+     "url": "https://store.steampowered.com/app/1261760/",
+     "sim": 0.7471550107002258,
+     "tags": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Political",
+      "Political Sim",
+      "Cute"
+     ],
+     "reviews": 113
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Capitalism",
+    "Top-Down",
+    "Trivia"
+   ],
+   "nnSim": 0.7520611882209778,
+   "pairCounts": {
+    "Capitalism+Top-Down": 25,
+    "Capitalism+Trivia": 3,
+    "Top-Down+Trivia": 9
+   },
+   "nearest": [
+    {
+     "title": "Economica",
+     "url": "https://store.steampowered.com/app/1215380/",
+     "sim": 0.7520611882209778,
+     "tags": [
+      "Economy",
+      "Capitalism",
+      "Management",
+      "Simulation",
+      "Resource Management",
+      "Puzzle"
+     ],
+     "reviews": 6
+    },
+    {
+     "title": "Stophat",
+     "url": "https://store.steampowered.com/app/671270/",
+     "sim": 0.7503474354743958,
+     "tags": [
+      "Indie",
+      "Casual"
+     ],
+     "reviews": 18
+    },
+    {
+     "title": "Urban Entrepreneur",
+     "url": "https://store.steampowered.com/app/2648080/",
+     "sim": 0.746037483215332,
+     "tags": [
+      "Capitalism",
+      "Economy",
+      "Management",
+      "Time Management",
+      "Colony Sim",
+      "Immersive Sim"
+     ],
+     "reviews": 19
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Dark Humor",
+    "Dinosaurs",
+    "Incremental"
+   ],
+   "nnSim": 0.7538970708847046,
+   "pairCounts": {
+    "Dark Humor+Dinosaurs": 2,
+    "Dark Humor+Incremental": 7,
+    "Dinosaurs+Incremental": 2
+   },
+   "nearest": [
+    {
+     "title": "Slavic Winter Simulator",
+     "url": "https://store.steampowered.com/app/1519150/",
+     "sim": 0.7538970708847046,
+     "tags": [
+      "Simulation",
+      "Immersive Sim",
+      "Memes",
+      "Satire",
+      "Funny",
+      "Dark Humor"
+     ],
+     "reviews": 8
+    },
+    {
+     "title": "Don't Kill the Cow",
+     "url": "https://store.steampowered.com/app/1180800/",
+     "sim": 0.7536439895629883,
+     "tags": [
+      "Indie",
+      "Short",
+      "Free to Play",
+      "Dark Humor",
+      "Side Scroller",
+      "Dark"
+     ],
+     "reviews": 105
+    },
+    {
+     "title": "Tesla's Tower: The Wardenclyffe Mystery",
+     "url": "https://store.steampowered.com/app/507140/",
+     "sim": 0.7522855997085571,
+     "tags": [
+      "Adventure",
+      "Casual",
+      "Hidden Object"
+     ],
+     "reviews": 11
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Incremental",
+    "Programming",
+    "Score Attack"
+   ],
+   "nnSim": 0.7570036053657532,
+   "pairCounts": {
+    "Incremental+Programming": 2,
+    "Incremental+Score Attack": 2,
+    "Programming+Score Attack": 5
+   },
+   "nearest": [
+    {
+     "title": "Crazy Brain",
+     "url": "https://store.steampowered.com/app/2461040/",
+     "sim": 0.7570036053657532,
+     "tags": [
+      "Action",
+      "Arcade",
+      "Destruction",
+      "Psychedelic",
+      "Score Attack",
+      "Atmospheric"
+     ],
+     "reviews": 1
+    },
+    {
+     "title": "Decypher",
+     "url": "https://store.steampowered.com/app/2832340/",
+     "sim": 0.7456907629966736,
+     "tags": [
+      "Puzzle",
+      "Logic",
+      "Minimalist",
+      "Casual",
+      "Strategy",
+      "Singleplayer"
+     ],
+     "reviews": 7
+    },
+    {
+     "title": "4096",
+     "url": "https://store.steampowered.com/app/1512520/",
+     "sim": 0.7435399293899536,
+     "tags": [
+      "Programming",
+      "Sokoban",
+      "Casual",
+      "Experimental",
+      "2D",
+      "Puzzle"
+     ],
+     "reviews": 5
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Co-op",
+    "Incremental",
+    "Transportation"
+   ],
+   "nnSim": 0.7589927911758423,
+   "pairCounts": {
+    "Co-op+Incremental": 3,
+    "Co-op+Transportation": 3,
+    "Incremental+Transportation": 3
+   },
+   "nearest": [
+    {
+     "title": "Bus Simulator 23",
+     "url": "https://store.steampowered.com/app/2414950/",
+     "sim": 0.7589927911758423,
+     "tags": [
+      "Exploration",
+      "Driving",
+      "Simulation",
+      "3D",
+      "First-Person",
+      "Relaxing"
+     ],
+     "reviews": 47
+    },
+    {
+     "title": "Cities in Motion",
+     "url": "https://store.steampowered.com/app/73010/",
+     "sim": 0.7566205263137817,
+     "tags": [
+      "Simulation",
+      "Management",
+      "Strategy",
+      "City Builder",
+      "Singleplayer",
+      "Transportation"
+     ],
+     "reviews": 694
+    },
+    {
+     "title": "LOCO Railroad",
+     "url": "https://store.steampowered.com/app/1091240/",
+     "sim": 0.756130039691925,
+     "tags": [
+      "Simulation",
+      "Early Access",
+      "Trains"
+     ],
+     "reviews": 15
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Beat 'em up",
+    "Beautiful",
+    "City Builder"
+   ],
+   "nnSim": 0.7605368494987488,
+   "pairCounts": {
+    "Beat 'em up+Beautiful": 2,
+    "Beat 'em up+City Builder": 4,
+    "Beautiful+City Builder": 2
+   },
+   "nearest": [
+    {
+     "title": "Unnamed Arcade",
+     "url": "https://store.steampowered.com/app/2821600/",
+     "sim": 0.7605368494987488,
+     "tags": [
+      "Action",
+      "Casual",
+      "Strategy",
+      "3D Fighter",
+      "Arcade",
+      "City Builder"
+     ],
+     "reviews": 4
+    },
+    {
+     "title": "City Play",
+     "url": "https://store.steampowered.com/app/422270/",
+     "sim": 0.7572305202484131,
+     "tags": [
+      "Indie",
+      "Strategy",
+      "Simulation",
+      "City Builder"
+     ],
+     "reviews": 33
+    },
+    {
+     "title": "Gourmet Warriors",
+     "url": "https://store.steampowered.com/app/1104460/",
+     "sim": 0.7562214732170105,
+     "tags": [
+      "Action",
+      "Beat 'em up",
+      "Pixel Graphics",
+      "Retro"
+     ],
+     "reviews": 23
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Clicker",
+    "Conspiracy",
+    "Science"
+   ],
+   "nnSim": 0.7627231478691101,
+   "pairCounts": {
+    "Clicker+Conspiracy": 4,
+    "Clicker+Science": 10,
+    "Conspiracy+Science": 3
+   },
+   "nearest": [
+    {
+     "title": "Starship Clicker",
+     "url": "https://store.steampowered.com/app/744590/",
+     "sim": 0.7627231478691101,
+     "tags": [
+      "Indie",
+      "Casual",
+      "Incremental"
+     ],
+     "reviews": 18
+    },
+    {
+     "title": "Drawn\u00ae: Dark Flight\u2122 Collector's Edition",
+     "url": "https://store.steampowered.com/app/451140/",
+     "sim": 0.7576838135719299,
+     "tags": [
+      "Casual",
+      "Strategy",
+      "Simulation",
+      "Hidden Object",
+      "Puzzle",
+      "Point & Click"
+     ],
+     "reviews": 61
+    },
+    {
+     "title": "LEZORUB",
+     "url": "https://store.steampowered.com/app/2745220/",
+     "sim": 0.7562249898910522,
+     "tags": [
+      "Clicker",
+      "Idler",
+      "Crafting",
+      "Resource Management",
+      "Building",
+      "Economy"
+     ],
+     "reviews": 78
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Clicker",
+    "Flight",
+    "LGBTQ+"
+   ],
+   "nnSim": 0.7683120965957642,
+   "pairCounts": {
+    "Clicker+Flight": 19,
+    "Clicker+LGBTQ+": 14,
+    "Flight+LGBTQ+": 2
+   },
+   "nearest": [
+    {
+     "title": "White Dandelion",
+     "url": "https://store.steampowered.com/app/1467130/",
+     "sim": 0.7683120965957642,
+     "tags": [
+      "Anime",
+      "Atmospheric",
+      "Sexual Content",
+      "Colorful",
+      "Adventure",
+      "Minimalist"
+     ],
+     "reviews": 20
+    },
+    {
+     "title": "My Sweet Washing Machine!",
+     "url": "https://store.steampowered.com/app/1444730/",
+     "sim": 0.7681645154953003,
+     "tags": [
+      "Sexual Content",
+      "Anime",
+      "NSFW",
+      "Adventure",
+      "Casual",
+      "Puzzle"
+     ],
+     "reviews": 159
+    },
+    {
+     "title": "u evade",
+     "url": "https://store.steampowered.com/app/1558180/",
+     "sim": 0.7631519436836243,
+     "tags": [
+      "Flight",
+      "Casual",
+      "2.5D",
+      "Procedural Generation",
+      "Side Scroller",
+      "Family Friendly"
+     ],
+     "reviews": 40
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Clicker",
+    "Design & Illustration",
+    "Destruction"
+   ],
+   "nnSim": 0.7759477496147156,
+   "pairCounts": {
+    "Clicker+Design & Illustration": 27,
+    "Clicker+Destruction": 16,
+    "Design & Illustration+Destruction": 3
+   },
+   "nearest": [
+    {
+     "title": "Tasty Planet Forever",
+     "url": "https://store.steampowered.com/app/946010/",
+     "sim": 0.7759477496147156,
+     "tags": [
+      "Destruction",
+      "Arcade",
+      "2D",
+      "Cute",
+      "Split Screen",
+      "Top-Down"
+     ],
+     "reviews": 310
+    },
+    {
+     "title": "Box Cat Bash",
+     "url": "https://store.steampowered.com/app/1589560/",
+     "sim": 0.7688803672790527,
+     "tags": [
+      "Action",
+      "Casual",
+      "Arcade",
+      "Side Scroller",
+      "2D",
+      "Cute"
+     ],
+     "reviews": 9
+    },
+    {
+     "title": "Birdfont",
+     "url": "https://store.steampowered.com/app/2484760/",
+     "sim": 0.7675923109054565,
+     "tags": [
+      "Design & Illustration"
+     ],
+     "reviews": 7
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Artificial Intelligence",
+    "Colony Sim",
+    "Hidden Object"
+   ],
+   "nnSim": 0.8076226115226746,
+   "pairCounts": {
+    "Artificial Intelligence+Colony Sim": 7,
+    "Artificial Intelligence+Hidden Object": 12,
+    "Colony Sim+Hidden Object": 12
+   },
+   "nearest": [
+    {
+     "title": "Meu Mundo",
+     "url": "https://store.steampowered.com/app/1120340/",
+     "sim": 0.8076226115226746,
+     "tags": [
+      "City Builder",
+      "Colony Sim",
+      "Farming Sim",
+      "Life Sim",
+      "Sandbox",
+      "Time Management"
+     ],
+     "reviews": 6
+    },
+    {
+     "title": "A Shared Memory",
+     "url": "https://store.steampowered.com/app/2367280/",
+     "sim": 0.8070266842842102,
+     "tags": [
+      "Casual",
+      "Simulation",
+      "Utilities",
+      "Walking Simulator",
+      "Collectathon",
+      "Exploration"
+     ],
+     "reviews": 6
+    },
+    {
+     "title": "Code Lab\uff08\u4ee3\u7801\u5b9e\u9a8c\u5ba4\uff09",
+     "url": "https://store.steampowered.com/app/1577860/",
+     "sim": 0.8059050440788269,
+     "tags": [
+      "Simulation",
+      "Strategy",
+      "Sandbox",
+      "Puzzle-Platformer",
+      "3D",
+      "Futuristic"
+     ],
+     "reviews": 2
+    }
+   ]
+  },
+  {
+   "tags": [
+    "2.5D",
+    "Colony Sim",
+    "Match 3"
+   ],
+   "nnSim": 0.8114734888076782,
+   "pairCounts": {
+    "2.5D+Colony Sim": 16,
+    "2.5D+Match 3": 15,
+    "Colony Sim+Match 3": 3
+   },
+   "nearest": [
+    {
+     "title": "Atomic Sky",
+     "url": "https://store.steampowered.com/app/675980/",
+     "sim": 0.8114734888076782,
+     "tags": [
+      "Indie",
+      "Casual"
+     ],
+     "reviews": 3
+    },
+    {
+     "title": "Meu Mundo",
+     "url": "https://store.steampowered.com/app/1120340/",
+     "sim": 0.8087343573570251,
+     "tags": [
+      "City Builder",
+      "Colony Sim",
+      "Farming Sim",
+      "Life Sim",
+      "Sandbox",
+      "Time Management"
+     ],
+     "reviews": 6
+    },
+    {
+     "title": "Insect Simulator",
+     "url": "https://store.steampowered.com/app/1866090/",
+     "sim": 0.8021340370178223,
+     "tags": [
+      "Creature Collector",
+      "Colony Sim",
+      "Nature",
+      "PvE",
+      "Life Sim",
+      "3D"
+     ],
+     "reviews": 8
+    }
+   ]
+  },
+  {
+   "tags": [
+    "Colony Sim",
+    "Nonlinear",
+    "Text-Based"
+   ],
+   "nnSim": 0.8127866983413696,
+   "pairCounts": {
+    "Colony Sim+Nonlinear": 4,
+    "Colony Sim+Text-Based": 2,
+    "Nonlinear+Text-Based": 22
+   },
+   "nearest": [
+    {
+     "title": "Insect Simulator",
+     "url": "https://store.steampowered.com/app/1866090/",
+     "sim": 0.8127866983413696,
+     "tags": [
+      "Creature Collector",
+      "Colony Sim",
+      "Nature",
+      "PvE",
+      "Life Sim",
+      "3D"
+     ],
+     "reviews": 8
+    },
+    {
+     "title": "Meu Mundo",
+     "url": "https://store.steampowered.com/app/1120340/",
+     "sim": 0.8101046085357666,
+     "tags": [
+      "City Builder",
+      "Colony Sim",
+      "Farming Sim",
+      "Life Sim",
+      "Sandbox",
+      "Time Management"
+     ],
+     "reviews": 6
+    },
+    {
+     "title": "Parametric Creature: Lab",
+     "url": "https://store.steampowered.com/app/1813690/",
+     "sim": 0.797942042350769,
+     "tags": [
+      "Simulation",
+      "Exploration",
+      "Sandbox",
+      "Physics",
+      "Relaxing",
+      "Procedural Generation"
+     ],
+     "reviews": 32
+    }
+   ]
+  }
+ ]
+}

@@ -33,6 +33,11 @@ Actor `collectivewin/roblox-experiences-scraper` ([aar#56](https://github.com/co
 
 - App Store: added `tools/app-store/merge.py` and `tools/app-store/derive_tags.py` (v0 offline tagger); documented the three 2026-10-26 charts-only runs and their datasets, and the merge and tag coverage, in `platforms/app-store.md`. Brief: https://mineral-salmon-ytt2.here.now/.
 
+## 2026-11-27 — Sim-thesis check + all 10 stores re-scraped
+
+- Added `market-gaps/steam-sim-claim-2026-11-27/`: analysis scripts (`analyze.py`, `analyze_stores.py`, `find_sim_gaps.py`, `merge.py`), outputs (`analysis.json`, `stores.json`, `sim-gaps.json`), brief source (`index.html`, `build_brief.py`, `verdicts.py`) and run manifests in `refresh/`. Tests the froessell/Gemini "ugly sims" claim on Steam and compares sims vs other games on all 10 stores, with a release-year timeline.
+- Re-ran all 10 storefront actors with their October inputs. Steam needed 24 runs because SteamSpy's app list was failing; run ids in `refresh/runs-steam-2026-11-27.json`. PlayStation's first US batch failed after 400 rows (as in October). Locked draft brief: https://sable-ravine-hc34.here.now/
+
 ## Unreleased
 
 - (nothing pending)

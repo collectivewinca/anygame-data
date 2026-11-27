@@ -1,0 +1,2595 @@
+{
+ "simMap": {
+  "steam": [
+   "Automation",
+   "Colony Sim",
+   "Management",
+   "Resource Management",
+   "Economy",
+   "Capitalism",
+   "City Builder",
+   "Idler",
+   "Clicker",
+   "Incremental"
+  ],
+  "app-store": [
+   "Idle",
+   "Tycoon",
+   "City Builder"
+  ],
+  "google-play": [
+   "Idle",
+   "Idle RPG",
+   "Management",
+   "Tycoon",
+   "Time management",
+   "Business empire",
+   "City Builder",
+   "City-building",
+   "Empire building",
+   "Factory"
+  ],
+  "playstation": [
+   "Tycoon",
+   "City Builder",
+   "Idle"
+  ],
+  "xbox": [
+   "Tycoon",
+   "City Builder",
+   "Idle"
+  ],
+  "nintendo": [
+   "Tycoon",
+   "City Builder",
+   "Idle"
+  ],
+  "epic": [
+   "Tycoon",
+   "City Builder",
+   "Idle"
+  ],
+  "gog": [
+   "Management",
+   "Resource Management",
+   "Managerial",
+   "City builder",
+   "City Builder",
+   "Economic",
+   "Tycoon"
+  ],
+  "itch": [
+   "Idle",
+   "Incremental",
+   "Clicker",
+   "Management",
+   "City Builder",
+   "Colony Sim",
+   "Tycoon"
+  ],
+  "roblox": [
+   "Tycoon",
+   "Incremental Simulator",
+   "Idle",
+   "Clicker",
+   "Incremental",
+   "City Builder"
+  ]
+ },
+ "signals": {
+  "steam": "Steam user reviews (count, % positive), price",
+  "app-store": "App Store rating count + average stars (chart sample only), price",
+  "google-play": "Play rating count + stars, install band (category-page sample only), price",
+  "playstation": "PS Store star-rating count + average, price",
+  "xbox": "Xbox rating count + average, price",
+  "nintendo": "no ratings; eShop popularity rank, price",
+  "epic": "no ratings or sales signal; price only",
+  "gog": "GOG user-rating count + average (0-5), price",
+  "itch": "no ratings (top-rated feed order only), price",
+  "roblox": "likes/dislikes, visits, current players; free to play"
+ },
+ "stores": {
+  "steam": {
+   "games": 83366,
+   "signals": "Steam user reviews (count, % positive), price",
+   "sim": {
+    "n": 6882,
+    "rated": 6837,
+    "medianRatings": 31,
+    "share100plus": 0.3270851496657948,
+    "medianScore100plus": 0.8087,
+    "share85plus100plus": 0.39626832518880495,
+    "medianPaidPrice": 5.99,
+    "sharePaid": 0.8981400755594304
+   },
+   "other": {
+    "n": 76484,
+    "rated": 75858,
+    "medianRatings": 22.0,
+    "share100plus": 0.26119188326970344,
+    "medianScore100plus": 0.8344,
+    "share85plus100plus": 0.4562246583571107,
+    "medianPaidPrice": 4.99,
+    "sharePaid": 0.8608990115579729
+   },
+   "timeline": {
+    "2006": {
+     "releases": 72,
+     "sim": 6,
+     "simShare": 0.08333333333333333,
+     "simMedianRatings": 498.5,
+     "otherMedianRatings": 741.0
+    },
+    "2007": {
+     "releases": 107,
+     "sim": 4,
+     "simShare": 0.037383177570093455,
+     "simMedianRatings": 1246.5,
+     "otherMedianRatings": 997
+    },
+    "2008": {
+     "releases": 174,
+     "sim": 14,
+     "simShare": 0.08045977011494253,
+     "simMedianRatings": 290.0,
+     "otherMedianRatings": 471.5
+    },
+    "2009": {
+     "releases": 328,
+     "sim": 18,
+     "simShare": 0.054878048780487805,
+     "simMedianRatings": 552.0,
+     "otherMedianRatings": 367.5
+    },
+    "2010": {
+     "releases": 286,
+     "sim": 16,
+     "simShare": 0.055944055944055944,
+     "simMedianRatings": 445.5,
+     "otherMedianRatings": 269.5
+    },
+    "2011": {
+     "releases": 257,
+     "sim": 8,
+     "simShare": 0.0311284046692607,
+     "simMedianRatings": 701.5,
+     "otherMedianRatings": 605
+    },
+    "2012": {
+     "releases": 346,
+     "sim": 11,
+     "simShare": 0.031791907514450865,
+     "simMedianRatings": 2397,
+     "otherMedianRatings": 713
+    },
+    "2013": {
+     "releases": 479,
+     "sim": 26,
+     "simShare": 0.054279749478079335,
+     "simMedianRatings": 1391.5,
+     "otherMedianRatings": 728
+    },
+    "2014": {
+     "releases": 1559,
+     "sim": 60,
+     "simShare": 0.03848620910840282,
+     "simMedianRatings": 268.5,
+     "otherMedianRatings": 210
+    },
+    "2015": {
+     "releases": 2570,
+     "sim": 136,
+     "simShare": 0.05291828793774319,
+     "simMedianRatings": 260.0,
+     "otherMedianRatings": 102.5
+    },
+    "2016": {
+     "releases": 4161,
+     "sim": 165,
+     "simShare": 0.03965392934390771,
+     "simMedianRatings": 222,
+     "otherMedianRatings": 60
+    },
+    "2017": {
+     "releases": 5948,
+     "sim": 210,
+     "simShare": 0.03530598520511096,
+     "simMedianRatings": 117.5,
+     "otherMedianRatings": 32
+    },
+    "2018": {
+     "releases": 7480,
+     "sim": 304,
+     "simShare": 0.040641711229946524,
+     "simMedianRatings": 106,
+     "otherMedianRatings": 24.0
+    },
+    "2019": {
+     "releases": 6813,
+     "sim": 302,
+     "simShare": 0.0443270218699545,
+     "simMedianRatings": 95.0,
+     "otherMedianRatings": 21
+    },
+    "2020": {
+     "releases": 8112,
+     "sim": 572,
+     "simShare": 0.07051282051282051,
+     "simMedianRatings": 33.5,
+     "otherMedianRatings": 21
+    },
+    "2021": {
+     "releases": 8314,
+     "sim": 843,
+     "simShare": 0.10139523694972336,
+     "simMedianRatings": 24,
+     "otherMedianRatings": 18.0
+    },
+    "2022": {
+     "releases": 8319,
+     "sim": 862,
+     "simShare": 0.10361822334415194,
+     "simMedianRatings": 25,
+     "otherMedianRatings": 16
+    },
+    "2023": {
+     "releases": 9253,
+     "sim": 921,
+     "simShare": 0.09953528585323679,
+     "simMedianRatings": 23.0,
+     "otherMedianRatings": 14
+    },
+    "2024": {
+     "releases": 11605,
+     "sim": 1320,
+     "simShare": 0.11374407582938388,
+     "simMedianRatings": 16,
+     "otherMedianRatings": 12.0
+    },
+    "2025": {
+     "releases": 5501,
+     "sim": 797,
+     "simShare": 0.14488274859116523,
+     "simMedianRatings": 20,
+     "otherMedianRatings": 11.0
+    },
+    "2026": {
+     "releases": 1209,
+     "sim": 259,
+     "simShare": 0.2142266335814723,
+     "simMedianRatings": 17.5,
+     "otherMedianRatings": 15.0
+    }
+   },
+   "tagCounts": {
+    "Automation": 526,
+    "Colony Sim": 600,
+    "Management": 2554,
+    "Resource Management": 1229,
+    "Economy": 1059,
+    "Capitalism": 381,
+    "City Builder": 1286,
+    "Idler": 1237,
+    "Clicker": 1519,
+    "Incremental": 236
+   },
+   "breakouts": [
+    {
+     "title": "Schedule I",
+     "url": "https://store.steampowered.com/app/3164500/",
+     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1785744977",
+     "year": 2025,
+     "release": "Mar 24, 2025",
+     "ratings": 295718,
+     "score": 0.9781,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Management",
+      "Automation"
+     ]
+    },
+    {
+     "title": "Satisfactory",
+     "url": "https://store.steampowered.com/app/526870/",
+     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1791192059",
+     "year": 2024,
+     "release": "Sep 10, 2024",
+     "ratings": 239318,
+     "score": 0.9736,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Automation",
+      "Resource Management"
+     ]
+    },
+    {
+     "title": "Cities: Skylines",
+     "url": "https://store.steampowered.com/app/255710/",
+     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg?t=1795512447",
+     "year": 2015,
+     "release": "Mar 10, 2015",
+     "ratings": 220482,
+     "score": 0.9274,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "City Builder",
+      "Management",
+      "Economy",
+      "Resource Management"
+     ]
+    },
+    {
+     "title": "RimWorld",
+     "url": "https://store.steampowered.com/app/294100/",
+     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/76e0613b8197327299d5dbabb0a7fd7828a689a2/header.jpg?t=1782756789",
+     "year": 2018,
+     "release": "Oct 17, 2018",
+     "ratings": 212418,
+     "score": 0.9786,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Colony Sim",
+      "Management"
+     ]
+    },
+    {
+     "title": "Factorio",
+     "url": "https://store.steampowered.com/app/427520/",
+     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ab9a2df0a77caebde20dc45adc021de8cdcf7cc5/header.jpg?t=1792752343",
+     "year": 2020,
+     "release": "Aug 14, 2020",
+     "ratings": 194382,
+     "score": 0.9756,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Automation",
+      "Resource Management",
+      "Management"
+     ]
+    },
+    {
+     "title": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal",
+     "url": "https://store.steampowered.com/app/1468810/",
+     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468810/header.jpg?t=1769479020",
+     "year": 2023,
+     "release": "May 26, 2023",
+     "ratings": 190333,
+     "score": 0.5683,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Management"
+     ]
+    },
+    {
+     "title": "Age of Empires II: Definitive Edition",
+     "url": "https://store.steampowered.com/app/813780/",
+     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg?t=1790623375",
+     "year": 2019,
+     "release": "Nov 14, 2019",
+     "ratings": 161334,
+     "score": 0.95,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "City Builder",
+      "Resource Management"
+     ]
+    },
+    {
+     "title": "DAVE THE DIVER",
+     "url": "https://store.steampowered.com/app/1868140/",
+     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/81bdb3bce15d27ca1b4554a642d91096e89be229/header.jpg?t=1791478061",
+     "year": 2023,
+     "release": "Jun 28, 2023",
+     "ratings": 145715,
+     "score": 0.966,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Management"
+     ]
+    }
+   ]
+  },
+  "app-store": {
+   "games": 7454,
+   "signals": "App Store rating count + average stars (chart sample only), price",
+   "sim": {
+    "n": 371,
+    "rated": 359,
+    "medianRatings": 1926,
+    "share100plus": 0.7574123989218329,
+    "medianScore100plus": 0.9196,
+    "share85plus100plus": 0.8042704626334519,
+    "medianPaidPrice": 4.99,
+    "sharePaid": 0.23450134770889489
+   },
+   "other": {
+    "n": 7083,
+    "rated": 6653,
+    "medianRatings": 622,
+    "share100plus": 0.6298178737822956,
+    "medianScore100plus": 0.9184,
+    "share85plus100plus": 0.8312037659717552,
+    "medianPaidPrice": 3.99,
+    "sharePaid": 0.39884229846110403
+   },
+   "timeline": {
+    "2008": {
+     "releases": 32,
+     "sim": 1,
+     "simShare": 0.03125,
+     "simMedianRatings": 1806,
+     "otherMedianRatings": 32
+    },
+    "2009": {
+     "releases": 128,
+     "sim": 5,
+     "simShare": 0.0390625,
+     "simMedianRatings": 933,
+     "otherMedianRatings": 32.0
+    },
+    "2010": {
+     "releases": 137,
+     "sim": 1,
+     "simShare": 0.0072992700729927005,
+     "simMedianRatings": 15280,
+     "otherMedianRatings": 58
+    },
+    "2011": {
+     "releases": 203,
+     "sim": 5,
+     "simShare": 0.024630541871921183,
+     "simMedianRatings": 502,
+     "otherMedianRatings": 77.0
+    },
+    "2012": {
+     "releases": 228,
+     "sim": 4,
+     "simShare": 0.017543859649122806,
+     "simMedianRatings": 21477.5,
+     "otherMedianRatings": 307
+    },
+    "2013": {
+     "releases": 269,
+     "sim": 2,
+     "simShare": 0.007434944237918215,
+     "simMedianRatings": 607.0,
+     "otherMedianRatings": 633
+    },
+    "2014": {
+     "releases": 297,
+     "sim": 3,
+     "simShare": 0.010101010101010102,
+     "simMedianRatings": 35062,
+     "otherMedianRatings": 487.5
+    },
+    "2015": {
+     "releases": 282,
+     "sim": 16,
+     "simShare": 0.05673758865248227,
+     "simMedianRatings": 5491.5,
+     "otherMedianRatings": 1948.5
+    },
+    "2016": {
+     "releases": 317,
+     "sim": 14,
+     "simShare": 0.04416403785488959,
+     "simMedianRatings": 9193.5,
+     "otherMedianRatings": 1170.5
+    },
+    "2017": {
+     "releases": 409,
+     "sim": 11,
+     "simShare": 0.02689486552567237,
+     "simMedianRatings": 5544,
+     "otherMedianRatings": 3080.0
+    },
+    "2018": {
+     "releases": 354,
+     "sim": 19,
+     "simShare": 0.05367231638418079,
+     "simMedianRatings": 7295,
+     "otherMedianRatings": 4839.5
+    },
+    "2019": {
+     "releases": 384,
+     "sim": 18,
+     "simShare": 0.046875,
+     "simMedianRatings": 24611.5,
+     "otherMedianRatings": 1836
+    },
+    "2020": {
+     "releases": 372,
+     "sim": 12,
+     "simShare": 0.03225806451612903,
+     "simMedianRatings": 8347.0,
+     "otherMedianRatings": 2441.0
+    },
+    "2021": {
+     "releases": 367,
+     "sim": 20,
+     "simShare": 0.05449591280653951,
+     "simMedianRatings": 11066.0,
+     "otherMedianRatings": 2372
+    },
+    "2022": {
+     "releases": 399,
+     "sim": 26,
+     "simShare": 0.06516290726817042,
+     "simMedianRatings": 21524.0,
+     "otherMedianRatings": 1340
+    },
+    "2023": {
+     "releases": 419,
+     "sim": 20,
+     "simShare": 0.0477326968973747,
+     "simMedianRatings": 3871,
+     "otherMedianRatings": 1743.0
+    },
+    "2024": {
+     "releases": 542,
+     "sim": 32,
+     "simShare": 0.05904059040590406,
+     "simMedianRatings": 8837.5,
+     "otherMedianRatings": 1335
+    },
+    "2025": {
+     "releases": 739,
+     "sim": 43,
+     "simShare": 0.058186738836265225,
+     "simMedianRatings": 3671.0,
+     "otherMedianRatings": 850
+    },
+    "2026": {
+     "releases": 1576,
+     "sim": 119,
+     "simShare": 0.07550761421319797,
+     "simMedianRatings": 139,
+     "otherMedianRatings": 86.0
+    }
+   },
+   "tagCounts": {
+    "Idle": 232,
+    "Tycoon": 173,
+    "City Builder": 27
+   },
+   "breakouts": [
+    {
+     "title": "Idle Miner Tycoon clicker game",
+     "url": "https://apps.apple.com/us/app/idle-miner-tycoon-clicker-game/id1116645064?uo=4",
+     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/45/90/874590d2-cb03-9ce4-d5ef-591b8d702f5c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+     "year": 2016,
+     "release": "2016-07-01T06:43:42Z",
+     "ratings": 868637,
+     "score": 0.9474,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon",
+      "Idle"
+     ]
+    },
+    {
+     "title": "My Perfect Hotel",
+     "url": "https://apps.apple.com/us/app/my-perfect-hotel/id1635760774?uo=4",
+     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/6a/4d/a46a4d98-363c-3183-e56f-69eb0f394a4e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+     "year": 2022,
+     "release": "2022-07-29T07:00:00Z",
+     "ratings": 714528,
+     "score": 0.9437,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Hay Day",
+     "url": "https://apps.apple.com/us/app/hay-day/id506627515?uo=4",
+     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/50/bc/0e50bce7-2b3a-3964-832d-9951131a2746/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+     "year": 2012,
+     "release": "2012-06-21T08:10:22Z",
+     "ratings": 656339,
+     "score": 0.9391,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Hooked Inc: Fishing Games",
+     "url": "https://apps.apple.com/us/app/hooked-inc-fishing-games/id1436213906?uo=4",
+     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/5f/90/7e5f903d-3b85-3e49-7dcf-dbf10c007dee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+     "year": 2018,
+     "release": "2018-09-24T07:11:39Z",
+     "ratings": 505340,
+     "score": 0.9417,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Idle",
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Whiteout Survival",
+     "url": "https://apps.apple.com/us/app/whiteout-survival/id6443575749?uo=4",
+     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/9e/98/e69e9840-fa2b-7b53-c7f9-75a75021de26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+     "year": 2023,
+     "release": "2023-02-12T08:00:00Z",
+     "ratings": 480237,
+     "score": 0.9182,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Idle"
+     ]
+    },
+    {
+     "title": "AdVenture Capitalist Tycoon",
+     "url": "https://apps.apple.com/us/app/adventure-capitalist-tycoon/id927006017?uo=4",
+     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/f7/3a/7df73ad7-9b68-7648-6518-654b9417a8cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+     "year": 2015,
+     "release": "2015-02-19T01:26:20Z",
+     "ratings": 383813,
+     "score": 0.9447,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Idle",
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Bingo Cash - Win Real Money",
+     "url": "https://apps.apple.com/us/app/bingo-cash-win-real-money/id1522266397?uo=4",
+     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/7e/44/ae7e44c5-fbc2-dccd-64ba-f2b88cf516c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+     "year": 2021,
+     "release": "2021-06-01T07:00:00Z",
+     "ratings": 376329,
+     "score": 0.941,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Pizza Ready!",
+     "url": "https://apps.apple.com/us/app/pizza-ready/id6450917563?uo=4",
+     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/82/ae/7e82ae92-ad8a-99b3-b609-b164960a9549/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+     "year": 2023,
+     "release": "2023-07-06T07:00:00Z",
+     "ratings": 351764,
+     "score": 0.9136,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Idle",
+      "Tycoon"
+     ]
+    }
+   ]
+  },
+  "google-play": {
+   "games": 1284,
+   "signals": "Play rating count + stars, install band (category-page sample only), price",
+   "sim": {
+    "n": 140,
+    "rated": 140,
+    "medianRatings": 60375.0,
+    "share100plus": 1.0,
+    "medianScore100plus": 0.88175,
+    "share85plus100plus": 0.7214285714285714,
+    "medianPaidPrice": 324.495,
+    "sharePaid": 0.014285714285714285,
+    "medianInstalls": 1000000.0
+   },
+   "other": {
+    "n": 1144,
+    "rated": 1136,
+    "medianRatings": 149387.5,
+    "share100plus": 0.9912587412587412,
+    "medianScore100plus": 0.8951,
+    "share85plus100plus": 0.7239858906525574,
+    "medianPaidPrice": 400.0,
+    "sharePaid": 0.028846153846153848,
+    "medianInstalls": 10000000
+   },
+   "timeline": {
+    "2010": {
+     "releases": 3,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 2921181
+    },
+    "2011": {
+     "releases": 8,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 1730712.0
+    },
+    "2012": {
+     "releases": 23,
+     "sim": 1,
+     "simShare": 0.043478260869565216,
+     "simMedianRatings": 1133524,
+     "otherMedianRatings": 1459669.0
+    },
+    "2013": {
+     "releases": 25,
+     "sim": 2,
+     "simShare": 0.08,
+     "simMedianRatings": 13031868.5,
+     "otherMedianRatings": 6078548
+    },
+    "2014": {
+     "releases": 21,
+     "sim": 1,
+     "simShare": 0.047619047619047616,
+     "simMedianRatings": 54191278,
+     "otherMedianRatings": 2156956.0
+    },
+    "2015": {
+     "releases": 34,
+     "sim": 3,
+     "simShare": 0.08823529411764706,
+     "simMedianRatings": 1883932,
+     "otherMedianRatings": 758242
+    },
+    "2016": {
+     "releases": 58,
+     "sim": 4,
+     "simShare": 0.06896551724137931,
+     "simMedianRatings": 254561.0,
+     "otherMedianRatings": 838786.0
+    },
+    "2017": {
+     "releases": 88,
+     "sim": 4,
+     "simShare": 0.045454545454545456,
+     "simMedianRatings": 1605171.5,
+     "otherMedianRatings": 735076.0
+    },
+    "2018": {
+     "releases": 87,
+     "sim": 5,
+     "simShare": 0.05747126436781609,
+     "simMedianRatings": 299668,
+     "otherMedianRatings": 579302
+    },
+    "2019": {
+     "releases": 79,
+     "sim": 4,
+     "simShare": 0.05063291139240506,
+     "simMedianRatings": 259864.0,
+     "otherMedianRatings": 338738
+    },
+    "2020": {
+     "releases": 90,
+     "sim": 5,
+     "simShare": 0.05555555555555555,
+     "simMedianRatings": 170904,
+     "otherMedianRatings": 204479
+    },
+    "2021": {
+     "releases": 90,
+     "sim": 7,
+     "simShare": 0.07777777777777778,
+     "simMedianRatings": 778943,
+     "otherMedianRatings": 216838
+    },
+    "2022": {
+     "releases": 68,
+     "sim": 5,
+     "simShare": 0.07352941176470588,
+     "simMedianRatings": 321769,
+     "otherMedianRatings": 115495.0
+    },
+    "2023": {
+     "releases": 106,
+     "sim": 9,
+     "simShare": 0.08490566037735849,
+     "simMedianRatings": 735400,
+     "otherMedianRatings": 61033
+    },
+    "2024": {
+     "releases": 220,
+     "sim": 55,
+     "simShare": 0.25,
+     "simMedianRatings": 20996,
+     "otherMedianRatings": 38236
+    },
+    "2025": {
+     "releases": 98,
+     "sim": 9,
+     "simShare": 0.09183673469387756,
+     "simMedianRatings": 111089,
+     "otherMedianRatings": 50889.0
+    },
+    "2026": {
+     "releases": 183,
+     "sim": 26,
+     "simShare": 0.14207650273224043,
+     "simMedianRatings": 7884.0,
+     "otherMedianRatings": 12127
+    }
+   },
+   "tagCounts": {
+    "Idle": 68,
+    "Idle RPG": 29,
+    "Management": 42,
+    "Tycoon": 38,
+    "Time management": 19,
+    "Business empire": 5,
+    "City Builder": 7,
+    "City-building": 4,
+    "Empire building": 3,
+    "Factory": 1
+   },
+   "breakouts": [
+    {
+     "title": "Hay Day",
+     "url": "https://play.google.com/store/apps/details?id=com.supercell.hayday",
+     "image": "https://play-lh.googleusercontent.com/f_ANUktbqGVjj9DNAzZ7ZOAV2JjZfb72BbGhd1ooXdIIki9zeInSwK6RRfaRpX8cdzm9BGfWTMEa1CHJ80XxCw",
+     "year": 2013,
+     "release": "Nov 13, 2013",
+     "ratings": 13057678,
+     "score": 0.8842,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Management",
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Township",
+     "url": "https://play.google.com/store/apps/details?id=com.playrix.township",
+     "image": "https://play-lh.googleusercontent.com/bVg7mo4Mdc1bq882a-q3SxgiWKIiRLsW1MdYcwXvtLEDlXrKorLm3p8kHB2MUJhWL5tjVk6_-_I2DOAIwmR2EA",
+     "year": 2013,
+     "release": "Nov 8, 2013",
+     "ratings": 13006059,
+     "score": 0.9376,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Management"
+     ]
+    },
+    {
+     "title": "Cooking Fever: Restaurant Game",
+     "url": "https://play.google.com/store/apps/details?id=com.nordcurrent.canteenhd",
+     "image": "https://play-lh.googleusercontent.com/NXQfpYyB32CF-9K-9SUW7BNZ1WIq06lDt7BicOYCNZBR8LLLNzsqUJucyyfQbHSdCGbKudN2g9ce_yfO-O0MD44",
+     "year": 2015,
+     "release": "Feb 25, 2015",
+     "ratings": 5020505,
+     "score": 0.8796,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Time management"
+     ]
+    },
+    {
+     "title": "Cooking Madness: A Chef's Game",
+     "url": "https://play.google.com/store/apps/details?id=com.biglime.cookingmadness",
+     "image": "https://play-lh.googleusercontent.com/yU3f6Pnmvf2LAmgIOIcnlhL0ebH6BRfA_3gZQekKFeUfvu3cGD9jPL4eG8nyjxBUlCJr876IbStWfyz8ni2i",
+     "year": 2017,
+     "release": "Sep 30, 2017",
+     "ratings": 3280776,
+     "score": 0.9178,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Time management"
+     ]
+    },
+    {
+     "title": "Truck Simulator : Ultimate",
+     "url": "https://play.google.com/store/apps/details?id=com.zuuks.truck.simulator.ultimate",
+     "image": "https://play-lh.googleusercontent.com/N9zeMwpwv5JMzLc1QnLneKAjRScC-slCE_MIr69xh2EQtAemcZ3X6Im9reS9Y4V5lMNnXANw71zloUQateV1bw",
+     "year": 2021,
+     "release": "Sep 4, 2021",
+     "ratings": 2564924,
+     "score": 0.8496,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Zombie Catchers : Hunt & sell",
+     "url": "https://play.google.com/store/apps/details?id=fi.twomenandadog.zombiecatchers",
+     "image": "https://play-lh.googleusercontent.com/iFmB8vZLv6jKuFA7MkOCrcNMML0R2G_VnpMX3mis5LfSGQtWf9LQux1AvcLWnd4aaqgDfjGHRR_6mxydPu-h",
+     "year": 2016,
+     "release": "Jan 27, 2016",
+     "ratings": 2484419,
+     "score": 0.925,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Idle"
+     ]
+    },
+    {
+     "title": "Good Pizza, Great Pizza",
+     "url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness",
+     "image": "https://play-lh.googleusercontent.com/G1f17Gp0zcUwTLE4H2TQ-ETcMLFwBwUXckRcggE7z7Aqh0fVN6viqRYDHeg5mNrlv81bXqFLq-ea5Y6fl5cqrQ8",
+     "year": 2015,
+     "release": "Feb 6, 2015",
+     "ratings": 1883932,
+     "score": 0.9334,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Management"
+     ]
+    },
+    {
+     "title": "My Perfect Hotel",
+     "url": "https://play.google.com/store/apps/details?id=com.master.hotelmaster",
+     "image": "https://play-lh.googleusercontent.com/FNH6MJOs8mBe9JvmVGqK04n7LmpXblSkGGiMyJJItz_rZTGfwNTJ8NH7Yl6OyW6-pb7eJP_lZxK8EPEx2aSCOA",
+     "year": 2022,
+     "release": "Apr 13, 2022",
+     "ratings": 1877384,
+     "score": 0.9076,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon",
+      "Management"
+     ]
+    }
+   ]
+  },
+  "playstation": {
+   "games": 13733,
+   "signals": "PS Store star-rating count + average, price",
+   "sim": {
+    "n": 121,
+    "rated": 121,
+    "medianRatings": 105,
+    "share100plus": 0.5041322314049587,
+    "medianScore100plus": 0.776,
+    "share85plus100plus": 0.21311475409836064,
+    "medianPaidPrice": 17.99,
+    "sharePaid": 0.9669421487603306
+   },
+   "other": {
+    "n": 13612,
+    "rated": 13402,
+    "medianRatings": 130.0,
+    "share100plus": 0.5467969438730532,
+    "medianScore100plus": 0.826,
+    "share85plus100plus": 0.4222759639930136,
+    "medianPaidPrice": 14.99,
+    "sharePaid": 0.9699529826623567
+   },
+   "timeline": {
+    "2013": {
+     "releases": 19,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 54472
+    },
+    "2014": {
+     "releases": 157,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 9535
+    },
+    "2015": {
+     "releases": 321,
+     "sim": 1,
+     "simShare": 0.003115264797507788,
+     "simMedianRatings": 6889,
+     "otherMedianRatings": 2819.0
+    },
+    "2016": {
+     "releases": 539,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 1133
+    },
+    "2017": {
+     "releases": 668,
+     "sim": 5,
+     "simShare": 0.0074850299401197605,
+     "simMedianRatings": 2372,
+     "otherMedianRatings": 418
+    },
+    "2018": {
+     "releases": 718,
+     "sim": 3,
+     "simShare": 0.004178272980501393,
+     "simMedianRatings": 182,
+     "otherMedianRatings": 296
+    },
+    "2019": {
+     "releases": 818,
+     "sim": 3,
+     "simShare": 0.003667481662591687,
+     "simMedianRatings": 177,
+     "otherMedianRatings": 227
+    },
+    "2020": {
+     "releases": 744,
+     "sim": 3,
+     "simShare": 0.004032258064516129,
+     "simMedianRatings": 161,
+     "otherMedianRatings": 166
+    },
+    "2021": {
+     "releases": 836,
+     "sim": 11,
+     "simShare": 0.013157894736842105,
+     "simMedianRatings": 66,
+     "otherMedianRatings": 139
+    },
+    "2022": {
+     "releases": 1003,
+     "sim": 3,
+     "simShare": 0.0029910269192422734,
+     "simMedianRatings": 6411,
+     "otherMedianRatings": 100.0
+    },
+    "2023": {
+     "releases": 1352,
+     "sim": 17,
+     "simShare": 0.01257396449704142,
+     "simMedianRatings": 105,
+     "otherMedianRatings": 115
+    },
+    "2024": {
+     "releases": 1564,
+     "sim": 14,
+     "simShare": 0.008951406649616368,
+     "simMedianRatings": 122.0,
+     "otherMedianRatings": 92.0
+    },
+    "2025": {
+     "releases": 1694,
+     "sim": 15,
+     "simShare": 0.00885478158205431,
+     "simMedianRatings": 218,
+     "otherMedianRatings": 75.0
+    },
+    "2026": {
+     "releases": 1673,
+     "sim": 27,
+     "simShare": 0.016138673042438732,
+     "simMedianRatings": 39,
+     "otherMedianRatings": 46
+    }
+   },
+   "tagCounts": {
+    "Tycoon": 61,
+    "City Builder": 33,
+    "Idle": 30
+   },
+   "breakouts": [
+    {
+     "title": "Clicker Heroes",
+     "url": "https://store.playstation.com/en-us/concept/222227",
+     "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0322/4f12fbc6cf4a097d473095e4f166479fc814d4f0f5cd5412.png",
+     "year": 2017,
+     "release": "2017-03-07T00:00:00Z",
+     "ratings": 21268,
+     "score": 0.714,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Idle"
+     ]
+    },
+    {
+     "title": "Medieval Dynasty",
+     "url": "https://store.playstation.com/en-us/concept/10005204",
+     "image": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2708/e53879d48ea0df4b5377508a261125a86e4509246691db92.png",
+     "year": 2022,
+     "release": "2022-10-06T10:00:00Z",
+     "ratings": 8194,
+     "score": 0.89,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "City Builder"
+     ]
+    },
+    {
+     "title": "Planet Zoo: Console Edition",
+     "url": "https://store.playstation.com/en-us/concept/10009025",
+     "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1212/3e9face5939ff74cb52fc44508cd42d0481d85f3612a09e9.png",
+     "year": 2024,
+     "release": "2024-03-26T14:00:00Z",
+     "ratings": 8183,
+     "score": 0.808,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Titan Souls",
+     "url": "https://store.playstation.com/en-us/concept/204803",
+     "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01699_00/3/i_32f1ce51aa35232124a6ab91f3327112ac5478e19f61018179b8ccb83d3fbfe3/i/icon0.png",
+     "year": 2015,
+     "release": "2015-04-13T00:00:00Z",
+     "ratings": 6889,
+     "score": 0.806,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Idle"
+     ]
+    },
+    {
+     "title": "Outward Definitive Edition",
+     "url": "https://store.playstation.com/en-us/concept/231374",
+     "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2613/HFOUQfILDi1zwup0ac6wXDH3.png",
+     "year": 2022,
+     "release": "2022-05-17T17:00:00Z",
+     "ratings": 6411,
+     "score": 0.796,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "City Builder"
+     ]
+    },
+    {
+     "title": "Cities: Skylines - Remastered",
+     "url": "https://store.playstation.com/en-us/concept/10005732",
+     "image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2115/l09n20gk0yPS1tkuovvbSu6T.png",
+     "year": 2023,
+     "release": "2023-02-15T09:00:00Z",
+     "ratings": 4666,
+     "score": 0.84,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "City Builder"
+     ]
+    },
+    {
+     "title": "Constructor",
+     "url": "https://store.playstation.com/en-gb/concept/200798",
+     "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA04035_00/3/i_b802556e0ca197f104f4556d2a17dac34c9cd83031ec63e2cbbdf5741c2a770e/i/icon0.png",
+     "year": 2017,
+     "release": "2017-05-25T00:00:00Z",
+     "ratings": 2372,
+     "score": 0.808,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Idle Champions",
+     "url": "https://store.playstation.com/en-us/concept/232537",
+     "image": "https://image.api.playstation.com/vulcan/ap/rnd/202404/0220/1f3cc952d3414b635bae583f53ddc2a4b47a541d4c929709.png",
+     "year": 2018,
+     "release": "2018-12-11T00:00:00Z",
+     "ratings": 2329,
+     "score": 0.74,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Idle"
+     ]
+    }
+   ]
+  },
+  "xbox": {
+   "games": 17996,
+   "signals": "Xbox rating count + average, price",
+   "sim": {
+    "n": 188,
+    "rated": 182,
+    "medianRatings": 49.0,
+    "share100plus": 0.32978723404255317,
+    "medianScore100plus": 0.76,
+    "share85plus100plus": 0.20967741935483872,
+    "medianPaidPrice": 19.99,
+    "sharePaid": 0.8138297872340425
+   },
+   "other": {
+    "n": 17808,
+    "rated": 16503,
+    "medianRatings": 33,
+    "share100plus": 0.3304132973944295,
+    "medianScore100plus": 0.78,
+    "share85plus100plus": 0.3256288239292998,
+    "medianPaidPrice": 14.99,
+    "sharePaid": 0.9062219227313567
+   },
+   "timeline": {
+    "2006": {
+     "releases": 13,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 124
+    },
+    "2007": {
+     "releases": 19,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 56
+    },
+    "2008": {
+     "releases": 30,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 164
+    },
+    "2009": {
+     "releases": 68,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 85.5
+    },
+    "2010": {
+     "releases": 174,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 160.5
+    },
+    "2011": {
+     "releases": 60,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 152.5
+    },
+    "2012": {
+     "releases": 55,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 358
+    },
+    "2013": {
+     "releases": 63,
+     "sim": 1,
+     "simShare": 0.015873015873015872,
+     "simMedianRatings": 4118,
+     "otherMedianRatings": 240.5
+    },
+    "2014": {
+     "releases": 114,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 1713.0
+    },
+    "2015": {
+     "releases": 216,
+     "sim": 1,
+     "simShare": 0.004629629629629629,
+     "simMedianRatings": 207,
+     "otherMedianRatings": 829
+    },
+    "2016": {
+     "releases": 411,
+     "sim": 1,
+     "simShare": 0.0024330900243309003,
+     "simMedianRatings": 72405,
+     "otherMedianRatings": 350.5
+    },
+    "2017": {
+     "releases": 557,
+     "sim": 5,
+     "simShare": 0.008976660682226212,
+     "simMedianRatings": 1009,
+     "otherMedianRatings": 91
+    },
+    "2018": {
+     "releases": 644,
+     "sim": 3,
+     "simShare": 0.004658385093167702,
+     "simMedianRatings": 411,
+     "otherMedianRatings": 65.0
+    },
+    "2019": {
+     "releases": 775,
+     "sim": 6,
+     "simShare": 0.007741935483870968,
+     "simMedianRatings": 30.5,
+     "otherMedianRatings": 74
+    },
+    "2020": {
+     "releases": 1005,
+     "sim": 5,
+     "simShare": 0.004975124378109453,
+     "simMedianRatings": 70,
+     "otherMedianRatings": 65.0
+    },
+    "2021": {
+     "releases": 1196,
+     "sim": 14,
+     "simShare": 0.011705685618729096,
+     "simMedianRatings": 53.5,
+     "otherMedianRatings": 56
+    },
+    "2022": {
+     "releases": 1236,
+     "sim": 8,
+     "simShare": 0.006472491909385114,
+     "simMedianRatings": 660.5,
+     "otherMedianRatings": 43.5
+    },
+    "2023": {
+     "releases": 1557,
+     "sim": 34,
+     "simShare": 0.021836865767501604,
+     "simMedianRatings": 49.0,
+     "otherMedianRatings": 31
+    },
+    "2024": {
+     "releases": 1931,
+     "sim": 28,
+     "simShare": 0.014500258933195235,
+     "simMedianRatings": 122.0,
+     "otherMedianRatings": 24.0
+    },
+    "2025": {
+     "releases": 3202,
+     "sim": 30,
+     "simShare": 0.009369144284821987,
+     "simMedianRatings": 23.5,
+     "otherMedianRatings": 11.0
+    },
+    "2026": {
+     "releases": 3132,
+     "sim": 43,
+     "simShare": 0.013729246487867178,
+     "simMedianRatings": 13.5,
+     "otherMedianRatings": 9.0
+    }
+   },
+   "tagCounts": {
+    "Tycoon": 91,
+    "City Builder": 55,
+    "Idle": 48
+   },
+   "breakouts": [
+    {
+     "title": "Zoo Tycoon: Ultimate Animal Collection",
+     "url": "https://www.xbox.com/en-US/games/store/x/9PJ06TZX4NMH",
+     "image": "https://store-images.s-microsoft.com/image/apps.62724.14226270511206590.448f16df-2989-4b0e-baf3-2fba454ba5a8.6ffe63bf-d2e2-488e-adc6-729cbabf0c34",
+     "year": 2017,
+     "release": "2017-10-31T04:00:00.0000000Z",
+     "ratings": 11246,
+     "score": 0.9,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "City Island 5",
+     "url": "https://www.xbox.com/en-US/games/store/x/9PHCH7G3KLP0",
+     "image": "https://store-images.s-microsoft.com/image/apps.22519.14234188507119873.6a5dd581-3a69-417d-94d2-343fee43a2b5.65d4e412-98d1-4158-afb0-81177305bf85",
+     "year": 2018,
+     "release": "2018-12-16T16:00:00.0000000Z",
+     "ratings": 10360,
+     "score": 0.94,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "City Builder",
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Age of Empires III: Definitive Edition - The Complete History",
+     "url": "https://www.xbox.com/en-US/games/store/x/9PD9ZXP630NW",
+     "image": "https://store-images.s-microsoft.com/image/apps.47215.14153249993077116.000da79c-91bc-491d-a1ad-2a3020066aad.ae382e9c-6d3e-4e4c-a52d-0bc4932d600e",
+     "year": 2022,
+     "release": "2022-05-26T17:00:00.0000000Z",
+     "ratings": 4971,
+     "score": 0.9,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Zoo Tycoon",
+     "url": "https://www.xbox.com/en-US/games/store/x/BRWJS8P512VF",
+     "image": "https://store-images.s-microsoft.com/image/apps.29038.69412627236658734.9bed1508-916b-4abb-aaf2-33150817421a.e2f717c5-bf3b-47e6-b806-72909916cdd9",
+     "year": 2013,
+     "release": "2013-11-22T00:00:00.0000000Z",
+     "ratings": 4118,
+     "score": 0.78,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Medieval & Sengoku Dynasty Bundle",
+     "url": "https://www.xbox.com/en-US/games/store/x/9PMB5GPVD5ZN",
+     "image": "https://store-images.s-microsoft.com/image/apps.6409.14301187754630601.e54ab9d6-150a-4996-8e2e-92a6cb116af9.ba5589fc-287f-49b7-84a9-7663501b8994",
+     "year": 2025,
+     "release": "2025-09-06T00:00:00.0000000Z",
+     "ratings": 4064,
+     "score": 0.76,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "City Builder"
+     ]
+    },
+    {
+     "title": "Medieval Dynasty",
+     "url": "https://www.xbox.com/en-US/games/store/x/9PDDP6ML6XHF",
+     "image": "https://store-images.s-microsoft.com/image/apps.19781.14156112272410024.561899cb-32f5-403b-8341-36a17fdec2af.3fb37ec5-0491-4633-920e-5a2ef28059b6",
+     "year": 2022,
+     "release": "2022-10-06T18:00:00.0000000Z",
+     "ratings": 3571,
+     "score": 0.78,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "City Builder"
+     ]
+    },
+    {
+     "title": "Sid Meier's Civilization VI",
+     "url": "https://www.xbox.com/en-US/games/store/x/9N4RSG99KV1X",
+     "image": "https://store-images.s-microsoft.com/image/apps.4672.13977311502771693.72aef738-75a3-4db8-97c9-280f3b8c4daa.9cc876a1-b7ec-4ecb-9231-06448c3b3100",
+     "year": 2019,
+     "release": "2019-11-22T05:00:00.0000000Z",
+     "ratings": 2939,
+     "score": 0.56,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Cities: Skylines II - PC Edition",
+     "url": "https://www.xbox.com/en-US/games/store/x/9PGZ346PSLN0",
+     "image": "https://store-images.s-microsoft.com/image/apps.40541.14241982748923031.b7ab82d8-956b-4d85-b739-c1cd07cb25df.8996f92a-d276-4066-82cc-bee08083b900",
+     "year": 2023,
+     "release": "2023-10-24T16:00:00.0000000Z",
+     "ratings": 2496,
+     "score": 0.58,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "City Builder"
+     ]
+    }
+   ]
+  },
+  "nintendo": {
+   "games": 31733,
+   "signals": "no ratings; eShop popularity rank, price",
+   "sim": {
+    "n": 293,
+    "rated": 0,
+    "medianRatings": null,
+    "share100plus": 0.0,
+    "medianScore100plus": null,
+    "share85plus100plus": null,
+    "medianPaidPrice": 15.0,
+    "sharePaid": 0.9931740614334471,
+    "medianPopularityRank": 8065.0
+   },
+   "other": {
+    "n": 31440,
+    "rated": 0,
+    "medianRatings": null,
+    "share100plus": 0.0,
+    "medianScore100plus": null,
+    "share85plus100plus": null,
+    "medianPaidPrice": 9.99,
+    "sharePaid": 0.969529262086514,
+    "medianPopularityRank": 8897
+   },
+   "timeline": {
+    "2017": {
+     "releases": 522,
+     "sim": 1,
+     "simShare": 0.0019157088122605363,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2018": {
+     "releases": 1679,
+     "sim": 6,
+     "simShare": 0.00357355568790947,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2019": {
+     "releases": 2159,
+     "sim": 22,
+     "simShare": 0.010189902732746642,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2020": {
+     "releases": 2390,
+     "sim": 31,
+     "simShare": 0.01297071129707113,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2021": {
+     "releases": 3089,
+     "sim": 25,
+     "simShare": 0.00809323405632891,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2022": {
+     "releases": 3266,
+     "sim": 19,
+     "simShare": 0.005817513778322106,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2023": {
+     "releases": 3735,
+     "sim": 40,
+     "simShare": 0.0107095046854083,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2024": {
+     "releases": 4254,
+     "sim": 43,
+     "simShare": 0.010108133521391631,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2025": {
+     "releases": 4860,
+     "sim": 43,
+     "simShare": 0.008847736625514403,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2026": {
+     "releases": 5560,
+     "sim": 63,
+     "simShare": 0.011330935251798561,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    }
+   },
+   "tagCounts": {
+    "Tycoon": 240,
+    "City Builder": 19,
+    "Idle": 43
+   },
+   "breakouts": [
+    {
+     "title": "RollerCoaster Tycoon\u00ae Classic",
+     "url": "https://www.nintendo.com/us/store/products/rollercoaster-tycoon-classic-switch/",
+     "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000088763/41013e323389c76f4c9d45d54c2c82ab19e450c66dede5404f1e0ddcbed813dc",
+     "year": 2024,
+     "release": "2024-12-05T00:00:00.000Z",
+     "ratings": 0,
+     "score": null,
+     "visits": null,
+     "popularityRank": 398,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "RollerCoaster Tycoon 3 Complete Edition",
+     "url": "https://www.nintendo.com/us/store/products/rollercoaster-tycoon-3-complete-edition-switch/",
+     "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/6303b62c25954d05933d00631a4d8ba8_1024",
+     "year": 2020,
+     "release": "2020-09-24T00:00:00.000Z",
+     "ratings": 0,
+     "score": null,
+     "visits": null,
+     "popularityRank": 535,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "RollerCoaster Tycoon\u00ae Classic \u2013 Nintendo Switch\u2122 2 Edition",
+     "url": "https://www.nintendo.com/us/store/products/rollercoaster-tycoon-classic-nintendo-switch-2-edition-switch-2/",
+     "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000127473/1e3e2c447e444562f681d93c19edd1757c5d5448e8c712837af922dc2fb778d3",
+     "year": 2026,
+     "release": "2026-05-28T00:00:00.000Z",
+     "ratings": 0,
+     "score": null,
+     "visits": null,
+     "popularityRank": 913,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "RollerCoaster Tycoon Adventures Deluxe",
+     "url": "https://www.nintendo.com/us/store/products/rollercoaster-tycoon-adventures-deluxe-switch/",
+     "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/99ddddd265bd4fcaaf801cfe7920f282_1024",
+     "year": 2023,
+     "release": "2023-11-01T00:00:00.000Z",
+     "ratings": 0,
+     "score": null,
+     "visits": null,
+     "popularityRank": 1084,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Cooking Tycoons - 3 in 1 Bundle",
+     "url": "https://www.nintendo.com/us/store/products/cooking-tycoons-3-in-1-bundle-switch/",
+     "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7c8c3264bf5348259b725dd099d0adbe_1024",
+     "year": 2020,
+     "release": "2020-01-09T00:00:00.000Z",
+     "ratings": 0,
+     "score": null,
+     "visits": null,
+     "popularityRank": 2059,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Hotel Tycoon",
+     "url": "https://www.nintendo.com/us/store/products/hotel-tycoon-switch/",
+     "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000135048/a3d33f04d296cd4581fc193190db981453bba62642fe58cc8382f8dc1091a9fb",
+     "year": 2026,
+     "release": "2026-08-20T00:00:00.000Z",
+     "ratings": 0,
+     "score": null,
+     "visits": null,
+     "popularityRank": 2163,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Urbek City Builder",
+     "url": "https://www.nintendo.com/us/store/products/urbek-city-builder-switch/",
+     "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/6fbfcd1307ca40839e6b9605c766b531_1024",
+     "year": 2023,
+     "release": "2023-05-04T00:00:00.000Z",
+     "ratings": 0,
+     "score": null,
+     "visits": null,
+     "popularityRank": 2723,
+     "simTags": [
+      "City Builder"
+     ]
+    },
+    {
+     "title": "Shop Farm Tycoon",
+     "url": "https://www.nintendo.com/us/store/products/shop-farm-tycoon-switch/",
+     "image": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/3564533c1df34b48886dc33088483577_1024",
+     "year": 2026,
+     "release": "2026-03-20T00:00:00.000Z",
+     "ratings": 0,
+     "score": null,
+     "visits": null,
+     "popularityRank": 2742,
+     "simTags": [
+      "Tycoon"
+     ]
+    }
+   ]
+  },
+  "epic": {
+   "games": 7469,
+   "signals": "no ratings or sales signal; price only",
+   "sim": {
+    "n": 247,
+    "rated": 0,
+    "medianRatings": null,
+    "share100plus": 0.0,
+    "medianScore100plus": null,
+    "share85plus100plus": null,
+    "medianPaidPrice": 19.99,
+    "sharePaid": 0.8461538461538461
+   },
+   "other": {
+    "n": 7222,
+    "rated": 0,
+    "medianRatings": null,
+    "share100plus": 0.0,
+    "medianScore100plus": null,
+    "share85plus100plus": null,
+    "medianPaidPrice": 14.99,
+    "sharePaid": 0.8764885073386873
+   },
+   "timeline": {
+    "2008": {
+     "releases": 3,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2009": {
+     "releases": 1,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2010": {
+     "releases": 3,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2012": {
+     "releases": 5,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2013": {
+     "releases": 4,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2014": {
+     "releases": 8,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2015": {
+     "releases": 9,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2016": {
+     "releases": 15,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2017": {
+     "releases": 18,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2018": {
+     "releases": 25,
+     "sim": 1,
+     "simShare": 0.04,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2019": {
+     "releases": 74,
+     "sim": 1,
+     "simShare": 0.013513513513513514,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2020": {
+     "releases": 229,
+     "sim": 10,
+     "simShare": 0.043668122270742356,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2021": {
+     "releases": 470,
+     "sim": 18,
+     "simShare": 0.03829787234042553,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2022": {
+     "releases": 665,
+     "sim": 17,
+     "simShare": 0.02556390977443609,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2023": {
+     "releases": 1225,
+     "sim": 42,
+     "simShare": 0.03428571428571429,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2024": {
+     "releases": 1109,
+     "sim": 38,
+     "simShare": 0.034265103697024346,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2025": {
+     "releases": 1055,
+     "sim": 28,
+     "simShare": 0.026540284360189573,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2026": {
+     "releases": 1322,
+     "sim": 51,
+     "simShare": 0.038577912254160365,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    }
+   },
+   "tagCounts": {
+    "Tycoon": 39,
+    "City Builder": 179,
+    "Idle": 37
+   },
+   "breakouts": []
+  },
+  "gog": {
+   "games": 6661,
+   "signals": "GOG user-rating count + average (0-5), price",
+   "sim": {
+    "n": 909,
+    "rated": 802,
+    "medianRatings": 39.0,
+    "share100plus": 0.26952695269526955,
+    "medianScore100plus": 0.82,
+    "share85plus100plus": 0.37551020408163266,
+    "medianPaidPrice": 16.99,
+    "sharePaid": 0.8910891089108911
+   },
+   "other": {
+    "n": 5752,
+    "rated": 5064,
+    "medianRatings": 45.0,
+    "share100plus": 0.2851182197496523,
+    "medianScore100plus": 0.82,
+    "share85plus100plus": 0.36646341463414633,
+    "medianPaidPrice": 14.99,
+    "sharePaid": 0.8885605006954103
+   },
+   "timeline": {
+    "2006": {
+     "releases": 44,
+     "sim": 8,
+     "simShare": 0.18181818181818182,
+     "simMedianRatings": 187.0,
+     "otherMedianRatings": 169.5
+    },
+    "2007": {
+     "releases": 38,
+     "sim": 4,
+     "simShare": 0.10526315789473684,
+     "simMedianRatings": 44.0,
+     "otherMedianRatings": 180.0
+    },
+    "2008": {
+     "releases": 36,
+     "sim": 6,
+     "simShare": 0.16666666666666666,
+     "simMedianRatings": 156.5,
+     "otherMedianRatings": 147.0
+    },
+    "2009": {
+     "releases": 55,
+     "sim": 5,
+     "simShare": 0.09090909090909091,
+     "simMedianRatings": 93,
+     "otherMedianRatings": 185.5
+    },
+    "2010": {
+     "releases": 50,
+     "sim": 3,
+     "simShare": 0.06,
+     "simMedianRatings": 127,
+     "otherMedianRatings": 122
+    },
+    "2011": {
+     "releases": 56,
+     "sim": 5,
+     "simShare": 0.08928571428571429,
+     "simMedianRatings": 150,
+     "otherMedianRatings": 138
+    },
+    "2012": {
+     "releases": 82,
+     "sim": 5,
+     "simShare": 0.06097560975609756,
+     "simMedianRatings": 116,
+     "otherMedianRatings": 229
+    },
+    "2013": {
+     "releases": 126,
+     "sim": 9,
+     "simShare": 0.07142857142857142,
+     "simMedianRatings": 176,
+     "otherMedianRatings": 191.5
+    },
+    "2014": {
+     "releases": 169,
+     "sim": 16,
+     "simShare": 0.09467455621301775,
+     "simMedianRatings": 139.0,
+     "otherMedianRatings": 146
+    },
+    "2015": {
+     "releases": 198,
+     "sim": 24,
+     "simShare": 0.12121212121212122,
+     "simMedianRatings": 125.5,
+     "otherMedianRatings": 121.5
+    },
+    "2016": {
+     "releases": 255,
+     "sim": 28,
+     "simShare": 0.10980392156862745,
+     "simMedianRatings": 104.0,
+     "otherMedianRatings": 86.0
+    },
+    "2017": {
+     "releases": 233,
+     "sim": 25,
+     "simShare": 0.1072961373390558,
+     "simMedianRatings": 83,
+     "otherMedianRatings": 96
+    },
+    "2018": {
+     "releases": 277,
+     "sim": 42,
+     "simShare": 0.15162454873646208,
+     "simMedianRatings": 97,
+     "otherMedianRatings": 63
+    },
+    "2019": {
+     "releases": 332,
+     "sim": 48,
+     "simShare": 0.14457831325301204,
+     "simMedianRatings": 57,
+     "otherMedianRatings": 50
+    },
+    "2020": {
+     "releases": 428,
+     "sim": 57,
+     "simShare": 0.13317757009345793,
+     "simMedianRatings": 43,
+     "otherMedianRatings": 36.5
+    },
+    "2021": {
+     "releases": 532,
+     "sim": 94,
+     "simShare": 0.17669172932330826,
+     "simMedianRatings": 26.5,
+     "otherMedianRatings": 26
+    },
+    "2022": {
+     "releases": 538,
+     "sim": 82,
+     "simShare": 0.1524163568773234,
+     "simMedianRatings": 22.5,
+     "otherMedianRatings": 22
+    },
+    "2023": {
+     "releases": 566,
+     "sim": 70,
+     "simShare": 0.12367491166077739,
+     "simMedianRatings": 20.0,
+     "otherMedianRatings": 16
+    },
+    "2024": {
+     "releases": 497,
+     "sim": 69,
+     "simShare": 0.13883299798792756,
+     "simMedianRatings": 18.0,
+     "otherMedianRatings": 16
+    },
+    "2025": {
+     "releases": 410,
+     "sim": 53,
+     "simShare": 0.12926829268292683,
+     "simMedianRatings": 15.5,
+     "otherMedianRatings": 14
+    },
+    "2026": {
+     "releases": 394,
+     "sim": 78,
+     "simShare": 0.19796954314720813,
+     "simMedianRatings": 11.0,
+     "otherMedianRatings": 13.0
+    }
+   },
+   "tagCounts": {
+    "Management": 660,
+    "Resource Management": 477,
+    "Managerial": 291,
+    "City builder": 274,
+    "City Builder": 2,
+    "Economic": 73,
+    "Tycoon": 22
+   },
+   "breakouts": [
+    {
+     "title": "Heroes of Might and Magic\u00ae 3: Complete",
+     "url": "https://www.gog.com/en/game/heroes_of_might_and_magic_3_complete_edition",
+     "image": "https://images.gog-statics.com/869b56a1048405d97f48358ea537af2c08c9d8cd508f8e4a82883bf8eafad361.jpg",
+     "year": 1999,
+     "release": "1999-06-01",
+     "ratings": 16092,
+     "score": 0.96,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Management",
+      "Resource Management"
+     ]
+    },
+    {
+     "title": "Dungeon Keeper\u2122 2",
+     "url": "https://www.gog.com/en/game/dungeon_keeper_2",
+     "image": "https://images.gog-statics.com/30b33b50ee729e6c2a5b12e56a8df5ab79b0188c359a44f6e563be219c264f60.jpg",
+     "year": 1999,
+     "release": "1999-07-07",
+     "ratings": 4352,
+     "score": 0.9,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Management",
+      "Resource Management",
+      "City builder"
+     ]
+    },
+    {
+     "title": "Stardew Valley",
+     "url": "https://www.gog.com/en/game/stardew_valley",
+     "image": "https://images.gog-statics.com/882582078ddac553dd0a63c4a1f9cbe1a20774692cffce786cf9bc89338be930.jpg",
+     "year": 2016,
+     "release": "2016-02-26",
+     "ratings": 4244,
+     "score": 0.96,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Managerial"
+     ]
+    },
+    {
+     "title": "Heroes of Might and Magic\u00ae 2: Gold",
+     "url": "https://www.gog.com/en/game/heroes_of_might_and_magic_2_gold_edition",
+     "image": "https://images.gog-statics.com/c4b1b24140312a918b3fc79827964e33842bf40d6c58ac9572a21d9db01486cf.jpg",
+     "year": 1996,
+     "release": "1996-10-01",
+     "ratings": 3839,
+     "score": 0.96,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Management",
+      "Resource Management"
+     ]
+    },
+    {
+     "title": "Master of Magic Classic",
+     "url": "https://www.gog.com/en/game/master_of_magic_classic",
+     "image": "https://images.gog-statics.com/41ecbd9f7639c632f118192378498339da47034617e695a266b298f860baada0.jpg",
+     "year": 1994,
+     "release": "1994-09-01",
+     "ratings": 3655,
+     "score": 0.96,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Management"
+     ]
+    },
+    {
+     "title": "Dungeon Keeper Gold\u2122",
+     "url": "https://www.gog.com/en/game/dungeon_keeper",
+     "image": "https://images.gog-statics.com/6333a565d773c78a1f7a2620a37f9a30446818da643ff2c38e838f65015e2b45.jpg",
+     "year": 1997,
+     "release": "1997-06-26",
+     "ratings": 3477,
+     "score": 0.92,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Management",
+      "Resource Management",
+      "City builder"
+     ]
+    },
+    {
+     "title": "Theme Hospital\u2122",
+     "url": "https://www.gog.com/en/game/theme_hospital",
+     "image": "https://images.gog-statics.com/94faf5f81ac14ece133b4953a64ca80765e571b12d069d31f577b308d6bea1a4.jpg",
+     "year": 1997,
+     "release": "1997-03-31",
+     "ratings": 3375,
+     "score": 0.94,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Managerial",
+      "Management"
+     ]
+    },
+    {
+     "title": "RollerCoaster Tycoon\u00ae Deluxe",
+     "url": "https://www.gog.com/en/game/rollercoaster_tycoon_deluxe",
+     "image": "https://images.gog-statics.com/f47a83795c3288ab58a6f3bed94d9124deaeecec8fb4bc5f5613900a117b51ed.jpg",
+     "year": 1999,
+     "release": "1999-03-31",
+     "ratings": 3246,
+     "score": 0.92,
+     "visits": null,
+     "popularityRank": null,
+     "simTags": [
+      "Managerial",
+      "Management",
+      "Resource Management",
+      "City builder",
+      "Tycoon"
+     ]
+    }
+   ]
+  },
+  "itch": {
+   "games": 30719,
+   "signals": "no ratings (top-rated feed order only), price",
+   "sim": {
+    "n": 2016,
+    "rated": 0,
+    "medianRatings": null,
+    "share100plus": 0.0,
+    "medianScore100plus": null,
+    "share85plus100plus": null,
+    "medianPaidPrice": 6.0,
+    "sharePaid": 0.08581349206349206
+   },
+   "other": {
+    "n": 28703,
+    "rated": 0,
+    "medianRatings": null,
+    "share100plus": 0.0,
+    "medianScore100plus": null,
+    "share85plus100plus": null,
+    "medianPaidPrice": 5.0,
+    "sharePaid": 0.10995366338013449
+   },
+   "timeline": {
+    "2013": {
+     "releases": 25,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2014": {
+     "releases": 275,
+     "sim": 6,
+     "simShare": 0.02181818181818182,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2015": {
+     "releases": 566,
+     "sim": 18,
+     "simShare": 0.03180212014134275,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2016": {
+     "releases": 1035,
+     "sim": 38,
+     "simShare": 0.03671497584541063,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2017": {
+     "releases": 1319,
+     "sim": 58,
+     "simShare": 0.04397270659590599,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2018": {
+     "releases": 1829,
+     "sim": 64,
+     "simShare": 0.034991798797156914,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2019": {
+     "releases": 1960,
+     "sim": 67,
+     "simShare": 0.034183673469387756,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2020": {
+     "releases": 3009,
+     "sim": 138,
+     "simShare": 0.045862412761714856,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2021": {
+     "releases": 3148,
+     "sim": 148,
+     "simShare": 0.04701397712833545,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2022": {
+     "releases": 3022,
+     "sim": 136,
+     "simShare": 0.04500330906684315,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2023": {
+     "releases": 3196,
+     "sim": 149,
+     "simShare": 0.046620775969962454,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2024": {
+     "releases": 3368,
+     "sim": 220,
+     "simShare": 0.06532066508313539,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2025": {
+     "releases": 3894,
+     "sim": 318,
+     "simShare": 0.08166409861325115,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    },
+    "2026": {
+     "releases": 4073,
+     "sim": 656,
+     "simShare": 0.16106064326049596,
+     "simMedianRatings": null,
+     "otherMedianRatings": null
+    }
+   },
+   "tagCounts": {
+    "Idle": 684,
+    "Incremental": 537,
+    "Clicker": 535,
+    "Management": 535,
+    "City Builder": 524,
+    "Colony Sim": 55,
+    "Tycoon": 46
+   },
+   "breakouts": []
+  },
+  "roblox": {
+   "games": 12464,
+   "signals": "likes/dislikes, visits, current players; free to play",
+   "sim": {
+    "n": 3707,
+    "rated": 3707,
+    "medianRatings": 3100,
+    "share100plus": 0.8222282168869706,
+    "medianScore100plus": 0.9,
+    "share85plus100plus": 0.6709317585301837,
+    "medianPaidPrice": 0.795,
+    "sharePaid": 0.0010790396547073105,
+    "medianVisits": 1810312
+   },
+   "other": {
+    "n": 8757,
+    "rated": 8756,
+    "medianRatings": 5223.5,
+    "share100plus": 0.899394769898367,
+    "medianScore100plus": 0.81,
+    "share85plus100plus": 0.3876333164042661,
+    "medianPaidPrice": 0.8,
+    "sharePaid": 0.008450382551101976,
+    "medianVisits": 5212349
+   },
+   "timeline": {
+    "2008": {
+     "releases": 7,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 106633
+    },
+    "2009": {
+     "releases": 16,
+     "sim": 3,
+     "simShare": 0.1875,
+     "simMedianRatings": 285592,
+     "otherMedianRatings": 189825
+    },
+    "2010": {
+     "releases": 10,
+     "sim": 3,
+     "simShare": 0.3,
+     "simMedianRatings": 190124,
+     "otherMedianRatings": 335425
+    },
+    "2011": {
+     "releases": 11,
+     "sim": 1,
+     "simShare": 0.09090909090909091,
+     "simMedianRatings": 151633,
+     "otherMedianRatings": 70657.0
+    },
+    "2012": {
+     "releases": 11,
+     "sim": 2,
+     "simShare": 0.18181818181818182,
+     "simMedianRatings": 1183987.5,
+     "otherMedianRatings": 37572
+    },
+    "2013": {
+     "releases": 14,
+     "sim": 0,
+     "simShare": 0.0,
+     "simMedianRatings": null,
+     "otherMedianRatings": 37536.0
+    },
+    "2014": {
+     "releases": 18,
+     "sim": 3,
+     "simShare": 0.16666666666666666,
+     "simMedianRatings": 128764,
+     "otherMedianRatings": 504979
+    },
+    "2015": {
+     "releases": 39,
+     "sim": 5,
+     "simShare": 0.1282051282051282,
+     "simMedianRatings": 509634,
+     "otherMedianRatings": 111410.5
+    },
+    "2016": {
+     "releases": 54,
+     "sim": 10,
+     "simShare": 0.18518518518518517,
+     "simMedianRatings": 136199.0,
+     "otherMedianRatings": 156647.5
+    },
+    "2017": {
+     "releases": 79,
+     "sim": 9,
+     "simShare": 0.11392405063291139,
+     "simMedianRatings": 272945,
+     "otherMedianRatings": 69121.0
+    },
+    "2018": {
+     "releases": 119,
+     "sim": 17,
+     "simShare": 0.14285714285714285,
+     "simMedianRatings": 376325,
+     "otherMedianRatings": 91296.0
+    },
+    "2019": {
+     "releases": 201,
+     "sim": 40,
+     "simShare": 0.19900497512437812,
+     "simMedianRatings": 117986.5,
+     "otherMedianRatings": 89678
+    },
+    "2020": {
+     "releases": 331,
+     "sim": 44,
+     "simShare": 0.13293051359516617,
+     "simMedianRatings": 62913.0,
+     "otherMedianRatings": 68932
+    },
+    "2021": {
+     "releases": 431,
+     "sim": 49,
+     "simShare": 0.1136890951276102,
+     "simMedianRatings": 165549,
+     "otherMedianRatings": 31319.0
+    },
+    "2022": {
+     "releases": 506,
+     "sim": 81,
+     "simShare": 0.1600790513833992,
+     "simMedianRatings": 86070,
+     "otherMedianRatings": 20192
+    },
+    "2023": {
+     "releases": 605,
+     "sim": 79,
+     "simShare": 0.1305785123966942,
+     "simMedianRatings": 29682,
+     "otherMedianRatings": 19131.5
+    },
+    "2024": {
+     "releases": 926,
+     "sim": 136,
+     "simShare": 0.1468682505399568,
+     "simMedianRatings": 30902.5,
+     "otherMedianRatings": 13602.0
+    },
+    "2025": {
+     "releases": 1756,
+     "sim": 388,
+     "simShare": 0.22095671981776766,
+     "simMedianRatings": 20297.5,
+     "otherMedianRatings": 9731.5
+    },
+    "2026": {
+     "releases": 7330,
+     "sim": 2837,
+     "simShare": 0.38703956343792634,
+     "simMedianRatings": 1189,
+     "otherMedianRatings": 1137.0
+    }
+   },
+   "tagCounts": {
+    "Tycoon": 1787,
+    "Incremental Simulator": 1762,
+    "Idle": 278,
+    "Clicker": 179,
+    "Incremental": 187,
+    "City Builder": 15
+   },
+   "breakouts": [
+    {
+     "title": "Steal a Brainrot",
+     "url": "https://www.roblox.com/games/109983668079237",
+     "image": null,
+     "year": 2025,
+     "release": "2025-05-16",
+     "ratings": 18259487,
+     "score": 0.85,
+     "visits": 74580734320,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "[\u2696\ufe0f] Grow a Garden \ud83c\udf36\ufe0f",
+     "url": "https://www.roblox.com/games/126884695634066",
+     "image": null,
+     "year": 2025,
+     "release": "2025-03-25",
+     "ratings": 10508129,
+     "score": 0.9,
+     "visits": 36034925187,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Steal An Egg",
+     "url": "https://www.roblox.com/games/107778070777162",
+     "image": null,
+     "year": 2026,
+     "release": "2026-07-25",
+     "ratings": 4766163,
+     "score": 0.91,
+     "visits": 12050114620,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "Pet Simulator X! \ud83d\udc3e",
+     "url": "https://www.roblox.com/games/6284583030",
+     "image": null,
+     "year": 2021,
+     "release": "2021-01-22",
+     "ratings": 4616377,
+     "score": 0.91,
+     "visits": 8997207429,
+     "popularityRank": null,
+     "simTags": [
+      "Incremental Simulator"
+     ]
+    },
+    {
+     "title": "+1 Speed Keyboard Escape | Candy & Chocolate",
+     "url": "https://www.roblox.com/games/95082159892680",
+     "image": null,
+     "year": 2026,
+     "release": "2026-01-18",
+     "ratings": 10488165,
+     "score": 0.97,
+     "visits": 6746347048,
+     "popularityRank": null,
+     "simTags": [
+      "Incremental Simulator",
+      "Clicker"
+     ]
+    },
+    {
+     "title": "[\ud83c\udf0a] Escape Tsunami For Brainrots!",
+     "url": "https://www.roblox.com/games/131623223084840",
+     "image": null,
+     "year": 2025,
+     "release": "2025-12-15",
+     "ratings": 2341780,
+     "score": 0.83,
+     "visits": 5755515883,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    },
+    {
+     "title": "[\ud83d\udddd\ufe0fUPD] Fish It! \ud83d\udc1f",
+     "url": "https://www.roblox.com/games/121864768012064",
+     "image": null,
+     "year": 2024,
+     "release": "2024-10-21",
+     "ratings": 1631399,
+     "score": 0.83,
+     "visits": 4842037992,
+     "popularityRank": null,
+     "simTags": [
+      "Incremental Simulator",
+      "Incremental"
+     ]
+    },
+    {
+     "title": "[\ud83e\uddec] Plants & Brainrots \ud83c\udf3b",
+     "url": "https://www.roblox.com/games/127742093697776",
+     "image": null,
+     "year": 2025,
+     "release": "2025-08-01",
+     "ratings": 3195648,
+     "score": 0.95,
+     "visits": 4730226605,
+     "popularityRank": null,
+     "simTags": [
+      "Tycoon"
+     ]
+    }
+   ]
+  }
+ }
+}

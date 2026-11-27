@@ -1,0 +1,231 @@
+{
+ "records": 83468,
+ "runs": [
+  {
+   "page": "0",
+   "run": "mBXtvxsZthPCSm0Bj",
+   "dataset": "wawiQEHJcIcu2R7F3",
+   "status": "SUCCEEDED",
+   "items": 1000,
+   "usd": 0.04243214199221134
+  },
+  {
+   "page": "1",
+   "run": "8La0WKA8ILagyHl3M",
+   "dataset": "adCpaBTmGUOaHohWy",
+   "status": "SUCCEEDED",
+   "items": 1000,
+   "usd": 0.04250184975790315
+  },
+  {
+   "page": "2",
+   "run": "fZde6hQ5fxGR7HlI4",
+   "dataset": "u0g70Kz6SsHdKMKJc",
+   "status": "SUCCEEDED",
+   "items": 292,
+   "usd": 0.022362945954950322
+  },
+  {
+   "page": "2",
+   "run": "MMjswNcKKKVcufMeZ",
+   "dataset": "agA6gtQFpRQMqTc3l",
+   "status": "SUCCEEDED",
+   "items": 292,
+   "usd": 0.022598906245984964
+  },
+  {
+   "page": "3",
+   "run": "OaRBOjA979OwGbBT0",
+   "dataset": "uLzsQF2xg5vK7dx8l",
+   "status": "ABORTED",
+   "items": 832,
+   "usd": 0.03089152218721973,
+   "resurrected": true,
+   "chunk": 76934
+  },
+  {
+   "page": "3",
+   "run": "6vv8pz71bGnrR01yu",
+   "dataset": "JVacNukG9dDxrCSRz",
+   "status": "SUCCEEDED",
+   "items": 5781,
+   "usd": 0.8366081638619806,
+   "resurrected": true,
+   "chunk": 5781
+  },
+  {
+   "page": "3",
+   "run": "UebmqJJzHFOnX3DTm",
+   "dataset": "a62HmhbUmz9hXNTAf",
+   "status": "SUCCEEDED",
+   "usd": 0.8360637990864882,
+   "items": 5781,
+   "resurrected": true,
+   "chunk": 5781
+  },
+  {
+   "page": "4",
+   "run": "dt3AcDnkrLVLa6e2s",
+   "dataset": "6LC5FzfvvKpSMZg3s",
+   "status": "SUCCEEDED",
+   "items": 1000,
+   "usd": 0.04304129572100109
+  },
+  {
+   "page": "5",
+   "run": "KSNu8uE602wKPP9X7",
+   "dataset": "KyTlFJMm5r6KhBeEM",
+   "status": "SUCCEEDED",
+   "items": 5781,
+   "usd": 0.8347302665794075,
+   "resurrected": true,
+   "chunk": 5781
+  },
+  {
+   "page": "5",
+   "run": "xG41fezm76AXQAATt",
+   "dataset": "yXoOiDak3DaFhDBBv",
+   "status": "SUCCEEDED",
+   "items": 5781,
+   "usd": 0.8369195849543698,
+   "resurrected": true,
+   "chunk": 5781
+  },
+  {
+   "page": "5",
+   "run": "cNF3xbAagLgpH10NO",
+   "dataset": "pqa4d58T66apJPAef",
+   "status": "SUCCEEDED",
+   "usd": 0.838473255815761,
+   "items": 5781,
+   "resurrected": true,
+   "chunk": 5781
+  },
+  {
+   "page": "6",
+   "run": "lrqnQ5WpGkQHu8zAq",
+   "dataset": "bfM163hZOQx9DmiSC",
+   "status": "SUCCEEDED",
+   "items": 5781,
+   "usd": 0.8372721090878099,
+   "resurrected": true,
+   "chunk": 5781
+  },
+  {
+   "page": "6",
+   "run": "M6mB4Ngkj2DwePNhi",
+   "dataset": "6GKirQjlIUDslg5Z2",
+   "status": "SUCCEEDED",
+   "usd": 0.8360905551385088,
+   "items": 5781,
+   "resurrected": true,
+   "chunk": 5781
+  },
+  {
+   "page": "7",
+   "run": "ui5DmUzfka1sW9D9E",
+   "dataset": "SKtasUaEoUm0qPJtp",
+   "status": "SUCCEEDED",
+   "items": 1000,
+   "usd": 0.043052725747000836
+  },
+  {
+   "page": "8",
+   "run": "wSy3y5MUI5L5b1oXD",
+   "dataset": "8l4tlO4L0XqcoAa7Q",
+   "status": "SUCCEEDED",
+   "items": 5781,
+   "usd": 0.8342753932717509,
+   "resurrected": true,
+   "chunk": 5781
+  },
+  {
+   "page": "8",
+   "run": "Ac1mZZq77j4NPiKHu",
+   "dataset": "1HuHI8b3jkU8M6bsu",
+   "status": "SUCCEEDED",
+   "usd": 0.8335875740973335,
+   "items": 5781,
+   "resurrected": true,
+   "chunk": 5781
+  },
+  {
+   "page": "9",
+   "run": "oY9hUneLPXYVJVtFh",
+   "dataset": "cGqCA9AMInL8VMZaU",
+   "status": "SUCCEEDED",
+   "items": 1000,
+   "usd": 0.04370078281735547
+  },
+  {
+   "page": "10",
+   "run": "KruvrkEeOpg7nA5yN",
+   "dataset": "So1soVChtk6dxJcqC",
+   "status": "SUCCEEDED",
+   "items": 5781,
+   "usd": 0.8362857731510067,
+   "resurrected": true,
+   "chunk": 5781
+  },
+  {
+   "page": "10",
+   "run": "BirBx0za8IsUpo4qy",
+   "dataset": "7RqPyieaPU6UaLebU",
+   "status": "SUCCEEDED",
+   "usd": 0.8379530642579779,
+   "items": 5781,
+   "resurrected": true,
+   "chunk": 5781
+  },
+  {
+   "page": "11",
+   "run": "9XhuayShm9mnIrqlE",
+   "dataset": "gVcuLorFsFlYD08wm",
+   "status": "SUCCEEDED",
+   "items": 5781,
+   "usd": 0.8387850246080758,
+   "resurrected": true,
+   "chunk": 5781
+  },
+  {
+   "page": "11",
+   "run": "v6HEUO9S6YfgXlYX8",
+   "dataset": "XShMs0l6nOskFYalA",
+   "status": "SUCCEEDED",
+   "usd": 0.8353286031438064,
+   "items": 5772,
+   "resurrected": true,
+   "chunk": 5772
+  },
+  {
+   "page": "12",
+   "run": "kLFartuVqmmEnuT9i",
+   "dataset": "Aib2ezPXtVf9pLcl4",
+   "status": "SUCCEEDED",
+   "usd": 0.041862472179525434,
+   "items": 1000
+  },
+  {
+   "page": "13",
+   "run": "MCaHHVmgC5fmPBXgJ",
+   "dataset": "13PtshuVFE4yPjFFc",
+   "status": "SUCCEEDED",
+   "usd": 0.038576005132592385,
+   "items": 1000
+  },
+  {
+   "page": "topup",
+   "run": "9bBfwOliPCfx0mQeK",
+   "dataset": "w2KKxCu9X9J1mXpkV",
+   "status": "SUCCEEDED",
+   "resurrected": true,
+   "chunk": 269,
+   "usd": 0.0627171254042238,
+   "items": 538
+  }
+ ],
+ "tagsFilledFromOldSnapshot": 0,
+ "storeFieldsFilledFromOldSnapshot": 8709,
+ "noTags": 299,
+ "noStoreData": 333
+}
