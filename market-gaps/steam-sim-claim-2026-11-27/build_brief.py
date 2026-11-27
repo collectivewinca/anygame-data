@@ -39,7 +39,7 @@ def bars(tl, key, fmt, color="#2563eb", h=110):
 css = open(HERE / "brief.css").read()
 h = [f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow,noarchive"><title>{e(V['title'])}</title><style>{css}</style></head><body><div class="wrap">
-<p class="kicker">AnyGame brief · {e(V['date'])} · private draft</p><h1>{e(V['title'])}</h1><p class="lede">{V['lede']}</p>
+<p class="kicker">AnyGame brief · {e(V['date'])} · private draft</p><h1>{e(V['title'])}</h1>{f"<p class='edition'>{e(V['edition'])}</p>" if V.get('edition') else ''}{f"<p class='meta'>{V['previous']}</p>" if V.get('previous') else ''}<p class="lede">{V['lede']}</p>
 <nav class='toc'>{" · ".join(f"<a href='#{a}'>{t}</a>" for a, t in [("bottom","Bottom line"),("claims","The claims"),("stores","10 stores"),("timeline","Timeline"),("shortlist","Shortlist"),("gaps","Gaps"),("method","Method & runs"),("caveats","Caveats")])}</nav>
 <div class="verdict" id="bottom"><p class="kicker">Bottom line</p>{V['bottomLine']}</div>"""]
 h.append(f"<h2>Where the claim comes from</h2>{V['origin']}")
