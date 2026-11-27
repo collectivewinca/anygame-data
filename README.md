@@ -84,6 +84,8 @@ itch.io top-rated tag-feed sample (30,287 games), tags and gaps (`tools/itch/`):
 
 Roblox experiences (charts + search sample, 11,050 experiences; partial), tags and gaps (`tools/roblox/`): [`platforms/roblox.md`](platforms/roblox.md). Brief: https://quiet-falcon-9yw7.here.now/.
 
+Sim-thesis check (Nov 27, 2026): fresh re-scrape of all 10 stores, Steam claim tests, cross-store sim comparison and timeline: [`market-gaps/steam-sim-claim-2026-11-27/`](market-gaps/steam-sim-claim-2026-11-27/README.md). Brief (locked): https://sable-ravine-hc34.here.now/.
+
 Steam 82k gap artifacts live in [PR #2](https://github.com/collectivewinca/anygame-data/pull/2) (`market-gaps/steam-2026-10-25/`) — do not duplicate them here. Live Steam brief: [https://lemon-paddle-m6n3.here.now/](https://lemon-paddle-m6n3.here.now/).
 
 ## Stable fetch URLs (SPA contract)
